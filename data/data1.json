@@ -766,17 +766,6 @@
                             "is_impossible": false
                         },
                         {
-                            "id": "73",
-                            "question": "Bộ luật Lao động Việt Nam 2019 có bao nhiêu chương?",
-                            "answers": [
-                                {
-                                    "text": "17 chương.",
-                                    "answer_start": 17
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
                             "id": "74",
                             "question": "Bộ luật Lao động Việt Nam 2019 có bao nhiêu điều?",
                             "answers": [
@@ -865,28 +854,6 @@
                             "is_impossible": false
                         },
                         {
-                            "id": "82",
-                            "question": "Bộ luật Lao động Việt Nam 2019 có bao nhiêu điều?",
-                            "answers": [
-                                {
-                                    "text": "220 điều.",
-                                    "answer_start": 0
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "83",
-                            "question": "Bộ luật Lao động Việt Nam 2019 có bao nhiêu chương?",
-                            "answers": [
-                                {
-                                    "text": "17 chương.",
-                                    "answer_start": 17
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
                             "id": "84",
                             "question": "Chương 1 của Bộ luật Lao động Việt Nam 2019 quy định về những nội dung gì?",
                             "answers": [
@@ -959,28 +926,6 @@
                                 {
                                     "text": "Quyền và nghĩa vụ của người sử dụng lao động.",
                                     "answer_start": 417
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "91",
-                            "question": "Bộ luật Lao động Việt Nam 2019 có bao nhiêu điều?",
-                            "answers": [
-                                {
-                                    "text": "220 điều.",
-                                    "answer_start": 0
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "92",
-                            "question": "Bộ luật Lao động Việt Nam 2019 có bao nhiêu chương?",
-                            "answers": [
-                                {
-                                    "text": "17 chương.",
-                                    "answer_start": 17
                                 }
                             ],
                             "is_impossible": false

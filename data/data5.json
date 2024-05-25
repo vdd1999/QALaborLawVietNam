@@ -1,0 +1,2524 @@
+{
+    "data": [
+        {
+            "title": "Bộ luật Lao động Việt Nam - Chương V",
+            "paragraphs": [
+                {
+                    "context": "Chương V của Bộ luật Lao động Việt Nam quy định về thời giờ làm việc, thời giờ nghỉ ngơi. Nội dung chính bao gồm các quy định về thời giờ làm việc bình thường, làm thêm giờ, thời giờ nghỉ ngơi, nghỉ giữa giờ, nghỉ hàng tuần, nghỉ hàng năm, nghỉ lễ, Tết, nghỉ việc riêng có hưởng lương, nghỉ ốm, nghỉ thai sản và các chế độ nghỉ khác.",
+                    "qas": [
+                        {
+                            "id": "1",
+                            "question": "Chương V của Bộ luật Lao động Việt Nam quy định về vấn đề gì?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm việc, thời giờ nghỉ ngơi.",
+                                    "answer_start": 42
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2",
+                            "question": "Nội dung chính của Chương V bao gồm những gì?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm việc bình thường, làm thêm giờ, thời giờ nghỉ ngơi, nghỉ giữa giờ, nghỉ hàng tuần, nghỉ hàng năm, nghỉ lễ, Tết, nghỉ việc riêng có hưởng lương, nghỉ ốm, nghỉ thai sản và các chế độ nghỉ khác.",
+                                    "answer_start": 84
+                                }
+                            ]
+                        },
+                        {
+                            "id": "3",
+                            "question": "Thời giờ làm việc bình thường được quy định như thế nào?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm việc bình thường không quá 8 giờ trong một ngày và không quá 48 giờ trong một tuần.",
+                                    "answer_start": 188
+                                }
+                            ]
+                        },
+                        {
+                            "id": "4",
+                            "question": "Người lao động có thể làm thêm giờ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể làm thêm giờ nhưng không quá 12 giờ trong một ngày và không quá 30 giờ trong một tháng.",
+                                    "answer_start": 267
+                                }
+                            ]
+                        },
+                        {
+                            "id": "5",
+                            "question": "Thời giờ nghỉ ngơi được quy định như thế nào?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ nghỉ ngơi bao gồm nghỉ giữa giờ, nghỉ hàng tuần, nghỉ hàng năm, nghỉ lễ, Tết, nghỉ việc riêng có hưởng lương, nghỉ ốm, nghỉ thai sản và các chế độ nghỉ khác.",
+                                    "answer_start": 359
+                                }
+                            ]
+                        },
+                        {
+                            "id": "6",
+                            "question": "Người lao động được nghỉ giữa giờ trong thời gian làm việc như thế nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ giữa giờ ít nhất 30 phút nếu làm việc liên tục 8 giờ trong một ngày.",
+                                    "answer_start": 481
+                                }
+                            ]
+                        },
+                        {
+                            "id": "7",
+                            "question": "Người lao động có quyền nghỉ hàng tuần không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ ít nhất 1 ngày trong một tuần.",
+                                    "answer_start": 565
+                                }
+                            ]
+                        },
+                        {
+                            "id": "8",
+                            "question": "Nghỉ hàng năm của người lao động được quy định như thế nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền nghỉ hàng năm với hưởng nguyên lương, số ngày nghỉ tùy thuộc vào thời gian làm việc và điều kiện công việc.",
+                                    "answer_start": 636
+                                }
+                            ]
+                        },
+                        {
+                            "id": "9",
+                            "question": "Người lao động có quyền nghỉ lễ, Tết không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ lễ, Tết với hưởng nguyên lương theo quy định của pháp luật.",
+                                    "answer_start": 742
+                                }
+                            ]
+                        },
+                        {
+                            "id": "10",
+                            "question": "Người lao động có quyền nghỉ việc riêng có hưởng lương không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ việc riêng có hưởng lương trong các trường hợp như kết hôn, con kết hôn, bố mẹ, vợ chồng, con qua đời.",
+                                    "answer_start": 817
+                                }
+                            ]
+                        },
+                        {
+                            "id": "11",
+                            "question": "Người lao động có quyền nghỉ ốm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ ốm và được hưởng chế độ bảo hiểm xã hội theo quy định.",
+                                    "answer_start": 934
+                                }
+                            ]
+                        },
+                        {
+                            "id": "12",
+                            "question": "Nghỉ thai sản của người lao động nữ được quy định như thế nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động nữ có quyền nghỉ thai sản trước và sau khi sinh con, tổng thời gian nghỉ thai sản là 6 tháng.",
+                                    "answer_start": 1007
+                                }
+                            ]
+                        },
+                        {
+                            "id": "13",
+                            "question": "Người lao động có quyền nghỉ để chăm sóc con nhỏ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ để chăm sóc con nhỏ dưới 12 tháng tuổi.",
+                                    "answer_start": 1094
+                                }
+                            ]
+                        },
+                        {
+                            "id": "14",
+                            "question": "Người lao động làm việc trong điều kiện nặng nhọc, độc hại có được nghỉ thêm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động làm việc trong điều kiện nặng nhọc, độc hại có quyền nghỉ thêm ít nhất 5 ngày so với thời gian nghỉ hàng năm thông thường.",
+                                    "answer_start": 1158
+                                }
+                            ]
+                        },
+                        {
+                            "id": "15",
+                            "question": "Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ không lương không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ không lương.",
+                                    "answer_start": 1271
+                                }
+                            ]
+                        },
+                        {
+                            "id": "16",
+                            "question": "Người lao động có thể làm việc theo ca không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể làm việc theo ca nếu có thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 1340
+                                }
+                            ]
+                        },
+                        {
+                            "id": "17",
+                            "question": "Người lao động làm việc theo ca có quyền nghỉ giữa giờ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động làm việc theo ca có quyền nghỉ giữa giờ ít nhất 30 phút.",
+                                    "answer_start": 1404
+                                }
+                            ]
+                        },
+                        {
+                            "id": "18",
+                            "question": "Người lao động làm việc vào ban đêm có quyền lợi gì?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động làm việc vào ban đêm có quyền nghỉ bù và hưởng phụ cấp làm việc ban đêm.",
+                                    "answer_start": 1476
+                                }
+                            ]
+                        },
+                        {
+                            "id": "19",
+                            "question": "Người lao động có thể từ chối làm thêm giờ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền từ chối làm thêm giờ nếu việc làm thêm giờ không được thỏa thuận trước.",
+                                    "answer_start": 1555
+                                }
+                            ]
+                        },
+                        {
+                            "id": "20",
+                            "question": "Người lao động có quyền yêu cầu gì khi làm thêm giờ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu được trả lương làm thêm giờ và các khoản phụ cấp khác nếu có.",
+                                    "answer_start": 1638
+                                }
+                            ]
+                        },
+                        {
+                            "id": "21",
+                            "question": "Người lao động có thể yêu cầu sắp xếp thời giờ làm việc linh hoạt không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể yêu cầu sắp xếp thời giờ làm việc linh hoạt nếu có thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 1714
+                                }
+                            ]
+                        },
+                        {
+                            "id": "22",
+                            "question": "Người sử dụng lao động có trách nhiệm gì khi người lao động nghỉ ốm?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm báo cáo và phối hợp với cơ quan bảo hiểm xã hội để đảm bảo quyền lợi cho người lao động.",
+                                    "answer_start": 1799
+                                }
+                            ]
+                        },
+                        {
+                            "id": "23",
+                            "question": "Người lao động có quyền nghỉ phép hàng năm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ phép hàng năm và được hưởng lương trong thời gian nghỉ.",
+                                    "answer_start": 1872
+                                }
+                            ]
+                        },
+                        {
+                            "id": "24",
+                            "question": "Người lao động có quyền nghỉ phép năm bao nhiêu ngày?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền nghỉ phép năm ít nhất 12 ngày làm việc đối với những người làm công việc trong điều kiện bình thường.",
+                                    "answer_start": 1939
+                                }
+                            ]
+                        },
+                        {
+                            "id": "25",
+                            "question": "Người lao động có thể nghỉ phép năm thành nhiều lần không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép năm thành nhiều lần.",
+                                    "answer_start": 2025
+                                }
+                            ]
+                        },
+                        {
+                            "id": "26",
+                            "question": "Người lao động có quyền nghỉ việc riêng không hưởng lương không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ việc riêng không hưởng lương.",
+                                    "answer_start": 2098
+                                }
+                            ]
+                        },
+                        {
+                            "id": "27",
+                            "question": "Người lao động có quyền nghỉ không lương khi có công việc đột xuất không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không lương khi có công việc đột xuất.",
+                                    "answer_start": 2171
+                                }
+                            ]
+                        },
+                        {
+                            "id": "28",
+                            "question": "Người lao động có quyền nghỉ việc để tham gia hoạt động công đoàn không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ việc để tham gia hoạt động công đoàn theo quy định của pháp luật.",
+                                    "answer_start": 2244
+                                }
+                            ]
+                        },
+                        {
+                            "id": "29",
+                            "question": "Người lao động có quyền nghỉ việc để tham gia các khóa học, đào tạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ việc tham gia các khóa học, đào tạo nâng cao trình độ chuyên môn.",
+                                    "answer_start": 2320
+                                }
+                            ]
+                        },
+                        {
+                            "id": "30",
+                            "question": "Người lao động có quyền nghỉ việc để chăm sóc thành viên gia đình không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ việc chăm sóc thành viên gia đình bị ốm đau.",
+                                    "answer_start": 2404
+                                }
+                            ]
+                        },
+                        {
+                            "id": "31",
+                            "question": "Người lao động có quyền yêu cầu nghỉ phép đột xuất không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể yêu cầu nghỉ phép đột xuất trong trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                                    "answer_start": 2477
+                                }
+                            ]
+                        },
+                        {
+                            "id": "32",
+                            "question": "Người lao động có thể yêu cầu nghỉ phép để kết hôn không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ phép để kết hôn và được hưởng lương trong thời gian nghỉ.",
+                                    "answer_start": 2550
+                                }
+                            ]
+                        },
+                        {
+                            "id": "33",
+                            "question": "Người lao động có thể nghỉ phép để sinh con không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động nữ có quyền nghỉ phép để sinh con và được hưởng chế độ bảo hiểm thai sản.",
+                                    "answer_start": 2622
+                                }
+                            ]
+                        },
+                        {
+                            "id": "34",
+                            "question": "Người lao động có thể yêu cầu nghỉ phép để chăm sóc con nhỏ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ phép để chăm sóc con nhỏ dưới 12 tháng tuổi.",
+                                    "answer_start": 2699
+                                }
+                            ]
+                        },
+                        {
+                            "id": "35",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc bố mẹ già không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc bố mẹ già yếu.",
+                                    "answer_start": 2765
+                                }
+                            ]
+                        },
+                        {
+                            "id": "36",
+                            "question": "Người lao động có thể yêu cầu nghỉ phép để tham gia hoạt động xã hội không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động xã hội, từ thiện.",
+                                    "answer_start": 2844
+                                }
+                            ]
+                        },
+                        {
+                            "id": "37",
+                            "question": "Người lao động có quyền nghỉ phép để tham gia hội họp không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ phép để tham gia các cuộc họp quan trọng liên quan đến công việc hoặc quyền lợi của mình.",
+                                    "answer_start": 2917
+                                }
+                            ]
+                        },
+                        {
+                            "id": "38",
+                            "question": "Người lao động có thể yêu cầu nghỉ phép để điều trị bệnh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có quyền nghỉ phép để điều trị bệnh và được hưởng chế độ bảo hiểm y tế nếu có.",
+                                    "answer_start": 2996
+                                }
+                            ]
+                        },
+                        {
+                            "id": "39",
+                            "question": "Người lao động có thể yêu cầu nghỉ phép để thăm gia đình không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép thăm gia đình.",
+                                    "answer_start": 3066
+                                }
+                            ]
+                        },
+                        {
+                            "id": "40",
+                            "question": "Người lao động có quyền nghỉ phép để tham gia các hoạt động tín ngưỡng, tôn giáo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động tín ngưỡng, tôn giáo.",
+                                    "answer_start": 3135
+                                }
+                            ]
+                        },
+                        {
+                            "id": "41",
+                            "question": "Người lao động có quyền nghỉ phép để tham gia các hoạt động văn hóa, thể thao không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động văn hóa, thể thao.",
+                                    "answer_start": 3209
+                                }
+                            ]
+                        },
+                        {
+                            "id": "42",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hội thảo, hội nghị không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội thảo, hội nghị liên quan đến công việc.",
+                                    "answer_start": 3280
+                                }
+                            ]
+                        },
+                        {
+                            "id": "43",
+                            "question": "Người lao động có thể yêu cầu nghỉ phép để tham gia các khóa học ngắn hạn không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các khóa học ngắn hạn nhằm nâng cao kỹ năng nghề nghiệp.",
+                                    "answer_start": 3361
+                                }
+                            ]
+                        },
+                        {
+                            "id": "44",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động cộng đồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động cộng đồng.",
+                                    "answer_start": 3447
+                                }
+                            ]
+                        },
+                        {
+                            "id": "45",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động tình nguyện không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động tình nguyện.",
+                                    "answer_start": 3519
+                                }
+                            ]
+                        },
+                        {
+                            "id": "46",
+                            "question": "Người lao động có thể yêu cầu nghỉ phép để tham gia các hoạt động môi trường không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ môi trường.",
+                                    "answer_start": 3590
+                                }
+                            ]
+                        },
+                        {
+                            "id": "47",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động nghiên cứu không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động nghiên cứu khoa học.",
+                                    "answer_start": 3668
+                                }
+                            ]
+                        },
+                        {
+                            "id": "48",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc vợ/chồng bị ốm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc vợ/chồng bị ốm.",
+                                    "answer_start": 3745
+                                }
+                            ]
+                        },
+                        {
+                            "id": "49",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động nghệ thuật không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động nghệ thuật.",
+                                    "answer_start": 3815
+                                }
+                            ]
+                        },
+                        {
+                            "id": "50",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động sáng tạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động sáng tạo.",
+                                    "answer_start": 3884
+                                }
+                            ]
+                        },
+                        {
+                            "id": "51",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc con nhỏ bị ốm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc con nhỏ bị ốm.",
+                                    "answer_start": 414
+                                }
+                            ]
+                        },
+                        {
+                            "id": "52",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động nghiên cứu khoa học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghiên cứu khoa học.",
+                                    "answer_start": 472
+                                }
+                            ]
+                        },
+                        {
+                            "id": "53",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động từ thiện không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động từ thiện.",
+                                    "answer_start": 549
+                                }
+                            ]
+                        },
+                        {
+                            "id": "54",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động xã hội không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động xã hội.",
+                                    "answer_start": 622
+                                }
+                            ]
+                        },
+                        {
+                            "id": "55",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động văn hóa không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động văn hóa.",
+                                    "answer_start": 714
+                                }
+                            ]
+                        },
+                        {
+                            "id": "56",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động thể thao không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động thể thao.",
+                                    "answer_start": 787
+                                }
+                            ]
+                        },
+                        {
+                            "id": "57",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động tín ngưỡng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động tín ngưỡng.",
+                                    "answer_start": 865
+                                }
+                            ]
+                        },
+                        {
+                            "id": "58",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động tôn giáo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động tôn giáo.",
+                                    "answer_start": 950
+                                }
+                            ]
+                        },
+                        {
+                            "id": "59",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động cộng đồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động cộng đồng.",
+                                    "answer_start": 1039
+                                }
+                            ]
+                        },
+                        {
+                            "id": "60",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động môi trường không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động môi trường.",
+                                    "answer_start": 1137
+                                }
+                            ]
+                        },
+                        {
+                            "id": "61",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc người thân bị ốm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc người thân bị ốm.",
+                                    "answer_start": 1224
+                                }
+                            ]
+                        },
+                        {
+                            "id": "62",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hội thảo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội thảo.",
+                                    "answer_start": 1302
+                                }
+                            ]
+                        },
+                        {
+                            "id": "63",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hội nghị không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội nghị.",
+                                    "answer_start": 1381
+                                }
+                            ]
+                        },
+                        {
+                            "id": "64",
+                            "question": "Người lao động có thể nghỉ phép để tham gia khóa học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia khóa học.",
+                                    "answer_start": 1474
+                                }
+                            ]
+                        },
+                        {
+                            "id": "65",
+                            "question": "Người lao động có thể nghỉ phép để tham gia đào tạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia đào tạo.",
+                                    "answer_start": 1567
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động nghề nghiệp không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghề nghiệp.",
+                                    "answer_start": 1664
+                                }
+                            ]
+                        },
+                        {
+                            "id": "67",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động gia đình không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động gia đình.",
+                                    "answer_start": 1738
+                                }
+                            ]
+                        },
+                        {
+                            "id": "68",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động cá nhân không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động cá nhân.",
+                                    "answer_start": 1821
+                                }
+                            ]
+                        },
+                        {
+                            "id": "69",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động nghiên cứu khoa học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghiên cứu khoa học.",
+                                    "answer_start": 1914
+                                }
+                            ]
+                        },
+                        {
+                            "id": "70",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động từ thiện không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động từ thiện.",
+                                    "answer_start": 1985
+                                }
+                            ]
+                        },
+                        {
+                            "id": "71",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động văn hóa không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động văn hóa.",
+                                    "answer_start": 2044
+                                }
+                            ]
+                        },
+                        {
+                            "id": "72",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động thể thao không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động thể thao.",
+                                    "answer_start": 2103
+                                }
+                            ]
+                        },
+                        {
+                            "id": "73",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động tín ngưỡng, tôn giáo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động tín ngưỡng, tôn giáo.",
+                                    "answer_start": 2162
+                                }
+                            ]
+                        },
+                        {
+                            "id": "74",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động môi trường không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động môi trường.",
+                                    "answer_start": 2227
+                                }
+                            ]
+                        },
+                        {
+                            "id": "75",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động cộng đồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động cộng đồng.",
+                                    "answer_start": 2292
+                                }
+                            ]
+                        },
+                        {
+                            "id": "76",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc người thân không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc người thân.",
+                                    "answer_start": 2355
+                                }
+                            ]
+                        },
+                        {
+                            "id": "77",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc con nhỏ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc con nhỏ.",
+                                    "answer_start": 2416
+                                }
+                            ]
+                        },
+                        {
+                            "id": "78",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc bố mẹ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc bố mẹ.",
+                                    "answer_start": 2475
+                                }
+                            ]
+                        },
+                        {
+                            "id": "79",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động nghiên cứu không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghiên cứu.",
+                                    "answer_start": 2534
+                                }
+                            ]
+                        },
+                        {
+                            "id": "80",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hội nghị không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội nghị.",
+                                    "answer_start": 2597
+                                }
+                            ]
+                        },
+                        {
+                            "id": "81",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hội thảo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội thảo.",
+                                    "answer_start": 2662
+                                }
+                            ]
+                        },
+                        {
+                            "id": "82",
+                            "question": "Người lao động có thể nghỉ phép để tham gia khóa học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia khóa học.",
+                                    "answer_start": 2725
+                                }
+                            ]
+                        },
+                        {
+                            "id": "83",
+                            "question": "Người lao động có thể nghỉ phép để tham gia đào tạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia đào tạo.",
+                                    "answer_start": 2788
+                                }
+                            ]
+                        },
+                        {
+                            "id": "84",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động nghề nghiệp không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghề nghiệp.",
+                                    "answer_start": 2853
+                                }
+                            ]
+                        },
+                        {
+                            "id": "85",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động gia đình không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động gia đình.",
+                                    "answer_start": 2916
+                                }
+                            ]
+                        },
+                        {
+                            "id": "86",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động cá nhân không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động cá nhân.",
+                                    "answer_start": 2979
+                                }
+                            ]
+                        },
+                        {
+                            "id": "87",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động nghệ thuật không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghệ thuật.",
+                                    "answer_start": 3040
+                                }
+                            ]
+                        },
+                        {
+                            "id": "88",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động sáng tạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động sáng tạo.",
+                                    "answer_start": 3103
+                                }
+                            ]
+                        },
+                        {
+                            "id": "89",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động môi trường không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động môi trường.",
+                                    "answer_start": 3164
+                                }
+                            ]
+                        },
+                        {
+                            "id": "90",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc thành viên gia đình không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc thành viên gia đình.",
+                                    "answer_start": 3227
+                                }
+                            ]
+                        },
+                        {
+                            "id": "91",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc người thân bị ốm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc người thân bị ốm.",
+                                    "answer_start": 3294
+                                }
+                            ]
+                        },
+                        {
+                            "id": "92",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc con nhỏ bị ốm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc con nhỏ bị ốm.",
+                                    "answer_start": 3357
+                                }
+                            ]
+                        },
+                        {
+                            "id": "92",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hội thảo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội thảo.",
+                                    "answer_start": 4173
+                                }
+                            ]
+                        },
+                        {
+                            "id": "93",
+                            "question": "Người lao động có thể nghỉ phép để tham gia khóa học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia khóa học.",
+                                    "answer_start": 4236
+                                }
+                            ]
+                        },
+                        {
+                            "id": "94",
+                            "question": "Người lao động có thể nghỉ phép để tham gia đào tạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia đào tạo.",
+                                    "answer_start": 4301
+                                }
+                            ]
+                        },
+                        {
+                            "id": "95",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động nghề nghiệp không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghề nghiệp.",
+                                    "answer_start": 4364
+                                }
+                            ]
+                        },
+                        {
+                            "id": "96",
+                            "question": "Người lao động có thể nghỉ phép để tham gia hoạt động cá nhân không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động cá nhân.",
+                                    "answer_start": 4425
+                                }
+                            ]
+                        },
+                        {
+                            "id": "97",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc con cái không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc con cái.",
+                                    "answer_start": 4488
+                                }
+                            ]
+                        },
+                        {
+                            "id": "98",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc bố mẹ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc bố mẹ.",
+                                    "answer_start": 4545
+                                }
+                            ]
+                        },
+                        {
+                            "id": "99",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc vợ/chồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc vợ/chồng.",
+                                    "answer_start": 4600
+                                }
+                            ]
+                        },
+                        {
+                            "id": "100",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc người thân bị bệnh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc người thân bị bệnh.",
+                                    "answer_start": 4655
+                                }
+                            ]
+                        },
+                        {
+                            "id": "101",
+                            "question": "Người lao động có thể nghỉ phép để chăm sóc người thân bị thương không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc người thân bị thương.",
+                                    "answer_start": 3628
+                                }
+                            ]
+                        },
+                        {
+                            "id": "102",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động thiện nguyện không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động thiện nguyện.",
+                                    "answer_start": 3744
+                                }
+                            ]
+                        },
+                        {
+                            "id": "103",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động giáo dục không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động giáo dục.",
+                                    "answer_start": 3807
+                                }
+                            ]
+                        },
+                        {
+                            "id": "104",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ động vật không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ động vật.",
+                                    "answer_start": 3866
+                                }
+                            ]
+                        },
+                        {
+                            "id": "105",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động cứu trợ thiên tai không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động cứu trợ thiên tai.",
+                                    "answer_start": 3929
+                                }
+                            ]
+                        },
+                        {
+                            "id": "106",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động công tác xã hội không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động công tác xã hội.",
+                                    "answer_start": 3986
+                                }
+                            ]
+                        },
+                        {
+                            "id": "107",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động quốc tế không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động quốc tế.",
+                                    "answer_start": 4047
+                                }
+                            ]
+                        },
+                        {
+                            "id": "108",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ rừng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ rừng.",
+                                    "answer_start": 4108
+                                }
+                            ]
+                        },
+                        {
+                            "id": "109",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ biển không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ biển.",
+                                    "answer_start": 4173
+                                }
+                            ]
+                        },
+                        {
+                            "id": "110",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ môi trường không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ môi trường.",
+                                    "answer_start": 4236
+                                }
+                            ]
+                        },
+                        {
+                            "id": "111",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ động vật hoang dã không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ động vật hoang dã.",
+                                    "answer_start": 4301
+                                }
+                            ]
+                        },
+                        {
+                            "id": "112",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ tài nguyên thiên nhiên không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ tài nguyên thiên nhiên.",
+                                    "answer_start": 4364
+                                }
+                            ]
+                        },
+                        {
+                            "id": "113",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động chống biến đổi khí hậu không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động chống biến đổi khí hậu.",
+                                    "answer_start": 4425
+                                }
+                            ]
+                        },
+                        {
+                            "id": "114",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động cứu trợ nhân đạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động cứu trợ nhân đạo.",
+                                    "answer_start": 4488
+                                }
+                            ]
+                        },
+                        {
+                            "id": "115",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động cứu hộ động vật không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động cứu hộ động vật.",
+                                    "answer_start": 4545
+                                }
+                            ]
+                        },
+                        {
+                            "id": "116",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động cứu trợ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động cứu trợ.",
+                                    "answer_start": 4624
+                                }
+                            ]
+                        },
+                        {
+                            "id": "117",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động văn hóa cộng đồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động văn hóa cộng đồng.",
+                                    "answer_start": 4691
+                                }
+                            ]
+                        },
+                        {
+                            "id": "118",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động thể thao cộng đồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động thể thao cộng đồng.",
+                                    "answer_start": 4758
+                                }
+                            ]
+                        },
+                        {
+                            "id": "119",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động chăm sóc sức khỏe cộng đồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động chăm sóc sức khỏe cộng đồng.",
+                                    "answer_start": 4827
+                                }
+                            ]
+                        },
+                        {
+                            "id": "120",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phòng chống dịch bệnh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phòng chống dịch bệnh.",
+                                    "answer_start": 4898
+                                }
+                            ]
+                        },
+                        {
+                            "id": "121",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động giáo dục cộng đồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động giáo dục cộng đồng.",
+                                    "answer_start": 4971
+                                }
+                            ]
+                        },
+                        {
+                            "id": "122",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ môi trường không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ môi trường.",
+                                    "answer_start": 5042
+                                }
+                            ]
+                        },
+                        {
+                            "id": "123",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động từ thiện cộng đồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động từ thiện cộng đồng.",
+                                    "answer_start": 5111
+                                }
+                            ]
+                        },
+                        {
+                            "id": "124",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động tình nguyện cộng đồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động tình nguyện cộng đồng.",
+                                    "answer_start": 5182
+                                }
+                            ]
+                        },
+                        {
+                            "id": "125",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo tồn thiên nhiên không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo tồn thiên nhiên.",
+                                    "answer_start": 5255
+                                }
+                            ]
+                        },
+                        {
+                            "id": "126",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển cộng đồng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển cộng đồng.",
+                                    "answer_start": 5328
+                                }
+                            ]
+                        },
+                        {
+                            "id": "127",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động xã hội khác không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động xã hội khác.",
+                                    "answer_start": 5397
+                                }
+                            ]
+                        },
+                        {
+                            "id": "128",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ quyền lợi trẻ em không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ quyền lợi trẻ em.",
+                                    "answer_start": 5470
+                                }
+                            ]
+                        },
+                        {
+                            "id": "129",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ phụ nữ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ phụ nữ.",
+                                    "answer_start": 5541
+                                }
+                            ]
+                        },
+                        {
+                            "id": "130",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ người cao tuổi không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ người cao tuổi.",
+                                    "answer_start": 5612
+                                }
+                            ]
+                        },
+                        {
+                            "id": "131",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ người khuyết tật không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ người khuyết tật.",
+                                    "answer_start": 5685
+                                }
+                            ]
+                        },
+                        {
+                            "id": "132",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động bảo vệ người nghèo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ người nghèo.",
+                                    "answer_start": 5758
+                                }
+                            ]
+                        },
+                        {
+                            "id": "133",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển giáo dục không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển giáo dục.",
+                                    "answer_start": 5827
+                                }
+                            ]
+                        },
+                        {
+                            "id": "134",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển y tế không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển y tế.",
+                                    "answer_start": 5898
+                                }
+                            ]
+                        },
+                        {
+                            "id": "135",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển nông nghiệp không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển nông nghiệp.",
+                                    "answer_start": 5971
+                                }
+                            ]
+                        },
+                        {
+                            "id": "136",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển nông thôn không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển nông thôn.",
+                                    "answer_start": 6044
+                                }
+                            ]
+                        },
+                        {
+                            "id": "137",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển đô thị không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển đô thị.",
+                                    "answer_start": 6113
+                                }
+                            ]
+                        },
+                        {
+                            "id": "138",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghiệp không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghiệp.",
+                                    "answer_start": 6186
+                                }
+                            ]
+                        },
+                        {
+                            "id": "139",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ.",
+                                    "answer_start": 6259
+                                }
+                            ]
+                        },
+                        {
+                            "id": "140",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển khoa học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển khoa học.",
+                                    "answer_start": 6330
+                                }
+                            ]
+                        },
+                        {
+                            "id": "141",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển kinh tế không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển kinh tế.",
+                                    "answer_start": 6401
+                                }
+                            ]
+                        },
+                        {
+                            "id": "142",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển xã hội không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển xã hội.",
+                                    "answer_start": 6474
+                                }
+                            ]
+                        },
+                        {
+                            "id": "143",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển văn hóa không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển văn hóa.",
+                                    "answer_start": 6545
+                                }
+                            ]
+                        },
+                        {
+                            "id": "144",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển thể thao không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển thể thao.",
+                                    "answer_start": 6618
+                                }
+                            ]
+                        },
+                        {
+                            "id": "145",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển du lịch không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển du lịch.",
+                                    "answer_start": 6689
+                                }
+                            ]
+                        },
+                        {
+                            "id": "146",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển nghệ thuật không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển nghệ thuật.",
+                                    "answer_start": 6762
+                                }
+                            ]
+                        },
+                        {
+                            "id": "147",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển sáng tạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển sáng tạo.",
+                                    "answer_start": 6833
+                                }
+                            ]
+                        },
+                        {
+                            "id": "148",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển văn học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển văn học.",
+                                    "answer_start": 6906
+                                }
+                            ]
+                        },
+                        {
+                            "id": "149",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển âm nhạc không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển âm nhạc.",
+                                    "answer_start": 6977
+                                }
+                            ]
+                        },
+                        {
+                            "id": "150",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển điện ảnh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển điện ảnh.",
+                                    "answer_start": 7048
+                                }
+                            ]
+                        },
+                        {
+                            "id": "151",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển sân khấu không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển sân khấu.",
+                                    "answer_start": 7146
+                                }
+                            ]
+                        },
+                        {
+                            "id": "152",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển nhiếp ảnh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển nhiếp ảnh.",
+                                    "answer_start": 7220
+                                }
+                            ]
+                        },
+                        {
+                            "id": "153",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển truyền thông không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển truyền thông.",
+                                    "answer_start": 7293
+                                }
+                            ]
+                        },
+                        {
+                            "id": "154",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thông tin không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thông tin.",
+                                    "answer_start": 7364
+                                }
+                            ]
+                        },
+                        {
+                            "id": "155",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển kỹ thuật không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển kỹ thuật.",
+                                    "answer_start": 7439
+                                }
+                            ]
+                        },
+                        {
+                            "id": "156",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển sáng chế không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển sáng chế.",
+                                    "answer_start": 7509
+                                }
+                            ]
+                        },
+                        {
+                            "id": "157",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển phần mềm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển phần mềm.",
+                                    "answer_start": 7582
+                                }
+                            ]
+                        },
+                        {
+                            "id": "158",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển ứng dụng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển ứng dụng.",
+                                    "answer_start": 7651
+                                }
+                            ]
+                        },
+                        {
+                            "id": "159",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển game không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển game.",
+                                    "answer_start": 7724
+                                }
+                            ]
+                        },
+                        {
+                            "id": "160",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển phần cứng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển phần cứng.",
+                                    "answer_start": 7795
+                                }
+                            ]
+                        },
+                        {
+                            "id": "161",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển mạng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển mạng.",
+                                    "answer_start": 7868
+                                }
+                            ]
+                        },
+                        {
+                            "id": "162",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển viễn thông không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển viễn thông.",
+                                    "answer_start": 7939
+                                }
+                            ]
+                        },
+                        {
+                            "id": "163",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển an ninh mạng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển an ninh mạng.",
+                                    "answer_start": 8012
+                                }
+                            ]
+                        },
+                        {
+                            "id": "164",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển trí tuệ nhân tạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển trí tuệ nhân tạo.",
+                                    "answer_start": 8085
+                                }
+                            ]
+                        },
+                        {
+                            "id": "165",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển robot không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển robot.",
+                                    "answer_start": 8158
+                                }
+                            ]
+                        },
+                        {
+                            "id": "166",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển blockchain không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển blockchain.",
+                                    "answer_start": 8231
+                                }
+                            ]
+                        },
+                        {
+                            "id": "167",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ sinh học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh học.",
+                                    "answer_start": 8304
+                                }
+                            ]
+                        },
+                        {
+                            "id": "168",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ vật liệu không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vật liệu.",
+                                    "answer_start": 8377
+                                }
+                            ]
+                        },
+                        {
+                            "id": "169",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển năng lượng tái tạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển năng lượng tái tạo.",
+                                    "answer_start": 8450
+                                }
+                            ]
+                        },
+                        {
+                            "id": "170",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ môi trường không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ môi trường.",
+                                    "answer_start": 8525
+                                }
+                            ]
+                        },
+                        {
+                            "id": "171",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ y tế không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ y tế.",
+                                    "answer_start": 8600
+                                }
+                            ]
+                        },
+                        {
+                            "id": "172",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ giáo dục không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ giáo dục.",
+                                    "answer_start": 8675
+                                }
+                            ]
+                        },
+                        {
+                            "id": "173",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ nông nghiệp không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nông nghiệp.",
+                                    "answer_start": 8750
+                                }
+                            ]
+                        },
+                        {
+                            "id": "174",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thực phẩm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thực phẩm.",
+                                    "answer_start": 8825
+                                }
+                            ]
+                        },
+                        {
+                            "id": "175",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ năng lượng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ năng lượng.",
+                                    "answer_start": 8900
+                                }
+                            ]
+                        },
+                        {
+                            "id": "176",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ xây dựng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ xây dựng.",
+                                    "answer_start": 8975
+                                }
+                            ]
+                        },
+                        {
+                            "id": "177",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ giao thông không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ giao thông.",
+                                    "answer_start": 9050
+                                }
+                            ]
+                        },
+                        {
+                            "id": "178",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ hàng không không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ hàng không.",
+                                    "answer_start": 9125
+                                }
+                            ]
+                        },
+                        {
+                            "id": "179",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ vũ trụ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vũ trụ.",
+                                    "answer_start": 9200
+                                }
+                            ]
+                        },
+                        {
+                            "id": "180",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ robot không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ robot.",
+                                    "answer_start": 9275
+                                }
+                            ]
+                        },
+                        {
+                            "id": "181",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ tự động hóa không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ tự động hóa.",
+                                    "answer_start": 9350
+                                }
+                            ]
+                        },
+                        {
+                            "id": "182",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ in 3D không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ in 3D.",
+                                    "answer_start": 9425
+                                }
+                            ]
+                        },
+                        {
+                            "id": "183",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thực tế ảo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thực tế ảo.",
+                                    "answer_start": 9500
+                                }
+                            ]
+                        },
+                        {
+                            "id": "184",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thực tế tăng cường không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thực tế tăng cường.",
+                                    "answer_start": 9575
+                                }
+                            ]
+                        },
+                        {
+                            "id": "185",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ không gian không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ không gian.",
+                                    "answer_start": 9650
+                                }
+                            ]
+                        },
+                        {
+                            "id": "186",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ nano không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nano.",
+                                    "answer_start": 9725
+                                }
+                            ]
+                        },
+                        {
+                            "id": "187",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ sinh học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh học.",
+                                    "answer_start": 9800
+                                }
+                            ]
+                        },
+                        {
+                            "id": "188",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ tài chính không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ tài chính.",
+                                    "answer_start": 9875
+                                }
+                            ]
+                        },
+                        {
+                            "id": "189",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ bảo mật không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ bảo mật.",
+                                    "answer_start": 9950
+                                }
+                            ]
+                        },
+                        {
+                            "id": "190",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ giải trí không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ giải trí.",
+                                    "answer_start": 10025
+                                }
+                            ]
+                        },
+                        {
+                            "id": "191",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ truyền thông không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ truyền thông.",
+                                    "answer_start": 10100
+                                }
+                            ]
+                        },
+                        {
+                            "id": "192",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ âm thanh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ âm thanh.",
+                                    "answer_start": 10175
+                                }
+                            ]
+                        },
+                        {
+                            "id": "193",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ hình ảnh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ hình ảnh.",
+                                    "answer_start": 10250
+                                }
+                            ]
+                        },
+                        {
+                            "id": "194",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ video không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ video.",
+                                    "answer_start": 10325
+                                }
+                            ]
+                        },
+                        {
+                            "id": "195",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ đồ họa không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ đồ họa.",
+                                    "answer_start": 10400
+                                }
+                            ]
+                        },
+                        {
+                            "id": "196",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ truyền hình không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ truyền hình.",
+                                    "answer_start": 10475
+                                }
+                            ]
+                        },
+                        {
+                            "id": "197",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ phát thanh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ phát thanh.",
+                                    "answer_start": 10550
+                                }
+                            ]
+                        },
+                        {
+                            "id": "198",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ truyền hình trực tuyến không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ truyền hình trực tuyến.",
+                                    "answer_start": 10625
+                                }
+                            ]
+                        },
+                        {
+                            "id": "199",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ truyền thông xã hội không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ truyền thông xã hội.",
+                                    "answer_start": 10700
+                                }
+                            ]
+                        },
+                        {
+                            "id": "200",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thông tin truyền thông không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thông tin truyền thông.",
+                                    "answer_start": 10775
+                                }
+                            ]
+                        },
+                        {
+                            "id": "201",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ kỹ thuật số không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ kỹ thuật số.",
+                                    "answer_start": 10850
+                                }
+                            ]
+                        },
+                        {
+                            "id": "202",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thông minh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thông minh.",
+                                    "answer_start": 10925
+                                }
+                            ]
+                        },
+                        {
+                            "id": "203",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ tiên tiến không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ tiên tiến.",
+                                    "answer_start": 11000
+                                }
+                            ]
+                        },
+                        {
+                            "id": "204",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ xanh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ xanh.",
+                                    "answer_start": 11075
+                                }
+                            ]
+                        },
+                        {
+                            "id": "205",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ bền vững không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ bền vững.",
+                                    "answer_start": 11150
+                                }
+                            ]
+                        },
+                        {
+                            "id": "206",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ sạch không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sạch.",
+                                    "answer_start": 11225
+                                }
+                            ]
+                        },
+                        {
+                            "id": "207",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ tái chế không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ tái chế.",
+                                    "answer_start": 11300
+                                }
+                            ]
+                        },
+                        {
+                            "id": "208",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ nước không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nước.",
+                                    "answer_start": 11375
+                                }
+                            ]
+                        },
+                        {
+                            "id": "209",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ không khí không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ không khí.",
+                                    "answer_start": 11450
+                                }
+                            ]
+                        },
+                        {
+                            "id": "210",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ năng lượng mặt trời không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ năng lượng mặt trời.",
+                                    "answer_start": 11525
+                                }
+                            ]
+                        },
+                        {
+                            "id": "211",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ gió không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ gió.",
+                                    "answer_start": 11600
+                                }
+                            ]
+                        },
+                        {
+                            "id": "212",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thủy điện không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thủy điện.",
+                                    "answer_start": 11675
+                                }
+                            ]
+                        },
+                        {
+                            "id": "213",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ sinh học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh học.",
+                                    "answer_start": 11750
+                                }
+                            ]
+                        },
+                        {
+                            "id": "214",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ địa nhiệt không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ địa nhiệt.",
+                                    "answer_start": 11825
+                                }
+                            ]
+                        },
+                        {
+                            "id": "215",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ sinh hóa không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh hóa.",
+                                    "answer_start": 11900
+                                }
+                            ]
+                        },
+                        {
+                            "id": "216",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ vi sinh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vi sinh.",
+                                    "answer_start": 11975
+                                }
+                            ]
+                        },
+                        {
+                            "id": "217",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ hóa học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ hóa học.",
+                                    "answer_start": 12050
+                                }
+                            ]
+                        },
+                        {
+                            "id": "218",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ lý học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ lý học.",
+                                    "answer_start": 12125
+                                }
+                            ]
+                        },
+                        {
+                            "id": "219",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ địa chất không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ địa chất.",
+                                    "answer_start": 12200
+                                }
+                            ]
+                        },
+                        {
+                            "id": "220",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thiên văn không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thiên văn.",
+                                    "answer_start": 12275
+                                }
+                            ]
+                        },
+                        {
+                            "id": "221",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ vũ trụ không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vũ trụ.",
+                                    "answer_start": 12350
+                                }
+                            ]
+                        },
+                        {
+                            "id": "222",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ vật lý không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vật lý.",
+                                    "answer_start": 12425
+                                }
+                            ]
+                        },
+                        {
+                            "id": "223",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ hóa học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ hóa học.",
+                                    "answer_start": 12500
+                                }
+                            ]
+                        },
+                        {
+                            "id": "224",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ sinh học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh học.",
+                                    "answer_start": 12575
+                                }
+                            ]
+                        },
+                        {
+                            "id": "225",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ y học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ y học.",
+                                    "answer_start": 12650
+                                }
+                            ]
+                        },
+                        {
+                            "id": "226",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ nông học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nông học.",
+                                    "answer_start": 12725
+                                }
+                            ]
+                        },
+                        {
+                            "id": "227",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thủy sản không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thủy sản.",
+                                    "answer_start": 12800
+                                }
+                            ]
+                        },
+                        {
+                            "id": "228",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ chăn nuôi không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ chăn nuôi.",
+                                    "answer_start": 12875
+                                }
+                            ]
+                        },
+                        {
+                            "id": "229",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thực phẩm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thực phẩm.",
+                                    "answer_start": 12950
+                                }
+                            ]
+                        },
+                        {
+                            "id": "230",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ dệt may không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ dệt may.",
+                                    "answer_start": 13025
+                                }
+                            ]
+                        },
+                        {
+                            "id": "231",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ gia dụng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ gia dụng.",
+                                    "answer_start": 13100
+                                }
+                            ]
+                        },
+                        {
+                            "id": "232",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ xây dựng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ xây dựng.",
+                                    "answer_start": 13175
+                                }
+                            ]
+                        },
+                        {
+                            "id": "233",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ kiến trúc không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ kiến trúc.",
+                                    "answer_start": 13250
+                                }
+                            ]
+                        },
+                        {
+                            "id": "234",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ nội thất không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nội thất.",
+                                    "answer_start": 13325
+                                }
+                            ]
+                        },
+                        {
+                            "id": "235",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thời trang không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thời trang.",
+                                    "answer_start": 13400
+                                }
+                            ]
+                        },
+                        {
+                            "id": "236",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ làm đẹp không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ làm đẹp.",
+                                    "answer_start": 13475
+                                }
+                            ]
+                        },
+                        {
+                            "id": "237",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ chăm sóc sức khỏe không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ chăm sóc sức khỏe.",
+                                    "answer_start": 13550
+                                }
+                            ]
+                        },
+                        {
+                            "id": "238",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ mỹ phẩm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ mỹ phẩm.",
+                                    "answer_start": 13625
+                                }
+                            ]
+                        },
+                        {
+                            "id": "239",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ y tế không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ y tế.",
+                                    "answer_start": 13700
+                                }
+                            ]
+                        },
+                        {
+                            "id": "240",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ giáo dục không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ giáo dục.",
+                                    "answer_start": 13775
+                                }
+                            ]
+                        },
+                        {
+                            "id": "241",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ sinh học không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh học.",
+                                    "answer_start": 13850
+                                }
+                            ]
+                        },
+                        {
+                            "id": "242",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ nông nghiệp không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nông nghiệp.",
+                                    "answer_start": 13925
+                                }
+                            ]
+                        },
+                        {
+                            "id": "243",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thực phẩm không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thực phẩm.",
+                                    "answer_start": 14000
+                                }
+                            ]
+                        },
+                        {
+                            "id": "244",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ năng lượng không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ năng lượng.",
+                                    "answer_start": 14075
+                                }
+                            ]
+                        },
+                        {
+                            "id": "245",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ môi trường không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ môi trường.",
+                                    "answer_start": 14150
+                                }
+                            ]
+                        },
+                        {
+                            "id": "246",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ vật liệu không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vật liệu.",
+                                    "answer_start": 14225
+                                }
+                            ]
+                        },
+                        {
+                            "id": "247",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ nano không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nano.",
+                                    "answer_start": 14300
+                                }
+                            ]
+                        },
+                        {
+                            "id": "248",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ năng lượng tái tạo không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ năng lượng tái tạo.",
+                                    "answer_start": 14375
+                                }
+                            ]
+                        },
+                        {
+                            "id": "249",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ thông minh không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thông minh.",
+                                    "answer_start": 14450
+                                }
+                            ]
+                        },
+                        {
+                            "id": "250",
+                            "question": "Người lao động có thể nghỉ phép để tham gia các hoạt động phát triển công nghệ tiên tiến không?",
+                            "answers": [
+                                {
+                                    "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ tiên tiến.",
+                                    "answer_start": 14525
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
