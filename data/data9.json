@@ -1,0 +1,1295 @@
+{
+    "version": "v2.0",
+    "data": [
+        {
+            "title": "Bộ luật lao động Việt Nam 2019 - Chương IX",
+            "paragraphs": [
+                {
+                    "context": "Điều 103. Thưởng. 1. Thưởng là số tiền hoặc tài sản hoặc bằng các hình thức khác mà người sử dụng lao động thưởng cho người lao động căn cứ vào kết quả sản xuất, kinh doanh và mức độ hoàn thành công việc của người lao động. 2. Quy chế thưởng do người sử dụng lao động quyết định và công bố công khai tại nơi làm việc sau khi tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở.",
+                    "qas": [
+                        {
+                            "id": "1",
+                            "question": "Thưởng là gì?",
+                            "answers": [
+                                {
+                                    "text": "Thưởng là số tiền hoặc tài sản hoặc bằng các hình thức khác mà người sử dụng lao động thưởng cho người lao động căn cứ vào kết quả sản xuất, kinh doanh và mức độ hoàn thành công việc của người lao động.",
+                                    "answer_start": 9
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "2",
+                            "question": "Ai quyết định quy chế thưởng?",
+                            "answers": [
+                                {
+                                    "text": "Quy chế thưởng do người sử dụng lao động quyết định.",
+                                    "answer_start": 153
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "3",
+                            "question": "Khi nào quy chế thưởng được công bố?",
+                            "answers": [
+                                {
+                                    "text": "Quy chế thưởng được công bố công khai tại nơi làm việc sau khi tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở.",
+                                    "answer_start": 173
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 104. Phụ cấp. 1. Phụ cấp là khoản tiền hoặc tài sản mà người sử dụng lao động trả cho người lao động ngoài tiền lương để hỗ trợ cuộc sống và cải thiện điều kiện làm việc. 2. Quy chế phụ cấp do người sử dụng lao động quyết định và công bố công khai tại nơi làm việc sau khi tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở.",
+                    "qas": [
+                        {
+                            "id": "4",
+                            "question": "Phụ cấp là gì?",
+                            "answers": [
+                                {
+                                    "text": "Phụ cấp là khoản tiền hoặc tài sản mà người sử dụng lao động trả cho người lao động ngoài tiền lương để hỗ trợ cuộc sống và cải thiện điều kiện làm việc.",
+                                    "answer_start": 11
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "5",
+                            "question": "Ai quyết định quy chế phụ cấp?",
+                            "answers": [
+                                {
+                                    "text": "Quy chế phụ cấp do người sử dụng lao động quyết định.",
+                                    "answer_start": 147
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "6",
+                            "question": "Quy chế phụ cấp được công bố ở đâu?",
+                            "answers": [
+                                {
+                                    "text": "Quy chế phụ cấp được công bố công khai tại nơi làm việc.",
+                                    "answer_start": 171
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 105. Thời giờ làm việc bình thường. 1. Thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần. 2. Người sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông báo trước cho người lao động biết. 3. Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ.",
+                    "qas": [
+                        {
+                            "id": "7",
+                            "question": "Thời giờ làm việc bình thường tối đa trong 01 ngày là bao nhiêu?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm việc bình thường không quá 08 giờ trong 01 ngày.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "8",
+                            "question": "Thời giờ làm việc bình thường tối đa trong 01 tuần là bao nhiêu?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm việc bình thường không quá 48 giờ trong 01 tuần.",
+                                    "answer_start": 74
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "9",
+                            "question": "Người sử dụng lao động phải thông báo điều gì cho người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thông báo trước cho người lao động biết về thời giờ làm việc theo ngày hoặc tuần.",
+                                    "answer_start": 136
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 106. Làm thêm giờ. 1. Thời giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày; không quá 12 giờ trong 01 ngày khi làm việc vào ngày nghỉ lễ, Tết và ngày nghỉ hằng tuần; không quá 40 giờ trong 01 tháng; không quá 200 giờ trong 01 năm, trừ trường hợp đặc biệt do Chính phủ quy định được làm thêm giờ không quá 300 giờ trong 01 năm. 2. Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đủ các điều kiện sau đây: a) Phải được sự đồng ý của người lao động; b) Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày, trừ trường hợp quy định tại khoản 3 Điều này.",
+                    "qas": [
+                        {
+                            "id": "10",
+                            "question": "Thời giờ làm thêm của người lao động không quá bao nhiêu phần trăm số giờ làm việc bình thường trong 01 ngày?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày.",
+                                    "answer_start": 34
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "11",
+                            "question": "Thời giờ làm thêm tối đa trong 01 ngày khi làm việc vào ngày nghỉ lễ, Tết và ngày nghỉ hằng tuần là bao nhiêu?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm thêm tối đa trong 01 ngày khi làm việc vào ngày nghỉ lễ, Tết và ngày nghỉ hằng tuần là không quá 12 giờ.",
+                                    "answer_start": 96
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "12",
+                            "question": "Thời giờ làm thêm tối đa trong 01 tháng là bao nhiêu?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm thêm tối đa trong 01 tháng là không quá 40 giờ.",
+                                    "answer_start": 173
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "13",
+                            "question": "Người lao động phải đáp ứng điều kiện gì để làm thêm giờ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động phải được sự đồng ý của người lao động và bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày.",
+                                    "answer_start": 313
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 107. Thời gian nghỉ ngơi. 1. Người lao động được nghỉ giữa giờ ít nhất 30 phút nếu làm việc liên tục 08 giờ hoặc 06 giờ liên tục. 2. Người lao động làm việc vào ban đêm thì được nghỉ giữa giờ ít nhất 45 phút. 3. Ngoài thời gian nghỉ ngơi quy định tại khoản 1 và khoản 2 Điều này, người lao động được nghỉ ngơi theo quy định của người sử dụng lao động và phải được ghi trong nội quy lao động.",
+                    "qas": [
+                        {
+                            "id": "14",
+                            "question": "Người lao động được nghỉ giữa giờ bao lâu nếu làm việc liên tục 08 giờ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ giữa giờ ít nhất 30 phút nếu làm việc liên tục 08 giờ.",
+                                    "answer_start": 46
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "15",
+                            "question": "Người lao động làm việc vào ban đêm được nghỉ giữa giờ bao lâu?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động làm việc vào ban đêm thì được nghỉ giữa giờ ít nhất 45 phút.",
+                                    "answer_start": 116
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "16",
+                            "question": "Ngoài thời gian nghỉ ngơi quy định tại khoản 1 và khoản 2 Điều này, người lao động được nghỉ ngơi theo quy định của ai?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ ngơi theo quy định của người sử dụng lao động.",
+                                    "answer_start": 213
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 108. Làm việc ban đêm. 1. Thời gian làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau. 2. Người lao động làm việc ban đêm được hưởng lương và các chế độ phúc lợi khác cao hơn so với làm việc vào ban ngày.",
+                    "qas": [
+                        {
+                            "id": "17",
+                            "question": "Thời gian làm việc ban đêm được tính từ mấy giờ đến mấy giờ?",
+                            "answers": [
+                                {
+                                    "text": "Thời gian làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.",
+                                    "answer_start": 54
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "18",
+                            "question": "Người lao động làm việc ban đêm được hưởng lương như thế nào so với làm việc vào ban ngày?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động làm việc ban đêm được hưởng lương và các chế độ phúc lợi khác cao hơn so với làm việc vào ban ngày.",
+                                    "answer_start": 123
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 109. Nghỉ lễ, Tết, nghỉ hàng năm. 1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, Tết sau đây: a) Tết Dương lịch 01 ngày (ngày 01 tháng 01 dương lịch); b) Tết Âm lịch 05 ngày; c) Ngày Chiến thắng 01 ngày (ngày 30 tháng 4 dương lịch); d) Ngày Quốc tế Lao động 01 ngày (ngày 01 tháng 5 dương lịch); đ) Quốc khánh 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau); e) Ngày Giỗ Tổ Hùng Vương 01 ngày (ngày 10 tháng 3 âm lịch). 2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.",
+                    "qas": [
+                        {
+                            "id": "19",
+                            "question": "Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ sau đây: Tết Dương lịch 01 ngày (ngày 01 tháng 01 dương lịch); Tết Âm lịch 05 ngày; Ngày Chiến thắng 01 ngày (ngày 30 tháng 4 dương lịch); Ngày Quốc tế Lao động 01 ngày (ngày 01 tháng 5 dương lịch); Quốc khánh 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau); Ngày Giỗ Tổ Hùng Vương 01 ngày (ngày 10 tháng 3 âm lịch).",
+                                    "answer_start": 80
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "20",
+                            "question": "Lao động là người nước ngoài làm việc tại Việt Nam được nghỉ thêm bao nhiêu ngày lễ theo quy định tại khoản 2?",
+                            "answers": [
+                                {
+                                    "text": "Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.",
+                                    "answer_start": 518
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 110. Nghỉ hằng tuần. 1. Mỗi tuần, người lao động được nghỉ ít nhất 24 giờ liên tục. 2. Người sử dụng lao động có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày chủ nhật hoặc một ngày cố định khác trong tuần nhưng phải ghi vào nội quy lao động. 3. Trường hợp do chu kỳ lao động không thể nghỉ hằng tuần, người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày.",
+                    "qas": [
+                        {
+                            "id": "21",
+                            "question": "Người lao động được nghỉ hằng tuần ít nhất bao nhiêu giờ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ ít nhất 24 giờ liên tục.",
+                                    "answer_start": 48
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "22",
+                            "question": "Ai có quyền quyết định sắp xếp ngày nghỉ hằng tuần?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có quyền quyết định sắp xếp ngày nghỉ hằng tuần.",
+                                    "answer_start": 88
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "23",
+                            "question": "Người sử dụng lao động có trách nhiệm gì nếu chu kỳ lao động không thể nghỉ hằng tuần?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày.",
+                                    "answer_start": 259
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 111. Nghỉ hằng năm. 1. Người lao động có đủ 12 tháng làm việc cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm. 2. Người lao động có dưới 12 tháng làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc. 3. Trường hợp do thôi việc, mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được thanh toán bằng tiền những ngày chưa nghỉ.",
+                    "qas": [
+                        {
+                            "id": "24",
+                            "question": "Người lao động có đủ 12 tháng làm việc cho một người sử dụng lao động thì được nghỉ hằng năm bao nhiêu ngày làm việc trong điều kiện bình thường?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có đủ 12 tháng làm việc cho một người sử dụng lao động thì được nghỉ hằng năm 12 ngày làm việc trong điều kiện bình thường.",
+                                    "answer_start": 126
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "25",
+                            "question": "Người lao động làm công việc nặng nhọc, độc hại, nguy hiểm thì được nghỉ hằng năm bao nhiêu ngày?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động làm công việc nặng nhọc, độc hại, nguy hiểm thì được nghỉ hằng năm 14 ngày làm việc.",
+                                    "answer_start": 213
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "26",
+                            "question": "Người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thì được nghỉ hằng năm bao nhiêu ngày?",
+                            "answers": [
+                                {
+                                    "text": "Người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thì được nghỉ hằng năm 16 ngày làm việc.",
+                                    "answer_start": 288
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "27",
+                            "question": "Người lao động có dưới 12 tháng làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm được tính như thế nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có dưới 12 tháng làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc.",
+                                    "answer_start": 377
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "28",
+                            "question": "Người lao động được thanh toán bằng tiền những ngày chưa nghỉ trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Trường hợp do thôi việc, mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được thanh toán bằng tiền những ngày chưa nghỉ.",
+                                    "answer_start": 467
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 112. Nghỉ việc riêng, nghỉ không hưởng lương. 1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử dụng lao động trong trường hợp sau đây: a) Kết hôn: nghỉ 03 ngày; b) Con đẻ, con nuôi kết hôn: nghỉ 01 ngày; c) Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, cha đẻ, mẹ đẻ của vợ hoặc chồng chết, vợ hoặc chồng chết, con đẻ, con nuôi chết: nghỉ 03 ngày. 2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng lao động khi ông nội, bà nội, ông ngoại, bà ngoại, anh, chị, em ruột chết; cha hoặc mẹ kết hôn; anh, chị, em ruột kết hôn. 3. Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương.",
+                    "qas": [
+                        {
+                            "id": "29",
+                            "question": "Người lao động được nghỉ bao nhiêu ngày khi kết hôn?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ 03 ngày khi kết hôn.",
+                                    "answer_start": 168
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "30",
+                            "question": "Người lao động được nghỉ bao nhiêu ngày khi con đẻ, con nuôi kết hôn?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ 01 ngày khi con đẻ, con nuôi kết hôn.",
+                                    "answer_start": 201
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "31",
+                            "question": "Người lao động được nghỉ bao nhiêu ngày khi cha đẻ, mẹ đẻ chết?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ 03 ngày khi cha đẻ, mẹ đẻ chết.",
+                                    "answer_start": 237
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "32",
+                            "question": "Người lao động được nghỉ bao nhiêu ngày không hưởng lương khi ông nội, bà nội chết?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ không hưởng lương 01 ngày khi ông nội, bà nội chết.",
+                                    "answer_start": 364
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "33",
+                            "question": "Người lao động có thể thỏa thuận với người sử dụng lao động để làm gì?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương.",
+                                    "answer_start": 491
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 113. Nghỉ dưỡng sức, phục hồi sức khỏe. 1. Người lao động sau thời gian nghỉ chế độ ốm đau, thai sản theo quy định của Luật bảo hiểm xã hội mà trong khoảng 30 ngày đầu làm việc mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức, phục hồi sức khỏe từ 05 ngày đến 10 ngày cho một năm: a) Tối đa 10 ngày đối với lao động nữ sinh một lần từ hai con trở lên; b) Tối đa 07 ngày đối với người lao động trừ trường hợp quy định tại điểm a khoản này; c) Bằng 05 ngày đối với các trường hợp khác. 2. Thời gian nghỉ dưỡng sức, phục hồi sức khỏe bao gồm cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần. Trường hợp nghỉ dưỡng sức, phục hồi sức khỏe vào cuối năm và chuyển tiếp sang đầu năm sau thì được tính cho năm trước.",
+                    "qas": [
+                        {
+                            "id": "34",
+                            "question": "Người lao động sau thời gian nghỉ chế độ ốm đau, thai sản mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức từ bao nhiêu ngày đến bao nhiêu ngày cho một năm?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động sau thời gian nghỉ chế độ ốm đau, thai sản mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức từ 05 ngày đến 10 ngày cho một năm.",
+                                    "answer_start": 140
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "35",
+                            "question": "Lao động nữ sinh một lần từ hai con trở lên thì được nghỉ dưỡng sức tối đa bao nhiêu ngày?",
+                            "answers": [
+                                {
+                                    "text": "Lao động nữ sinh một lần từ hai con trở lên thì được nghỉ dưỡng sức tối đa 10 ngày.",
+                                    "answer_start": 220
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "36",
+                            "question": "Người lao động (trừ lao động nữ sinh một lần từ hai con trở lên) thì được nghỉ dưỡng sức tối đa bao nhiêu ngày?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động (trừ lao động nữ sinh một lần từ hai con trở lên) thì được nghỉ dưỡng sức tối đa 07 ngày.",
+                                    "answer_start": 284
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "37",
+                            "question": "Thời gian nghỉ dưỡng sức, phục hồi sức khỏe có bao gồm ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần không?",
+                            "answers": [
+                                {
+                                    "text": "Thời gian nghỉ dưỡng sức, phục hồi sức khỏe bao gồm cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
+                                    "answer_start": 377
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 114. Thời gian làm việc được tính vào thời giờ làm việc được hưởng lương. 1. Thời giờ làm việc được tính vào thời giờ làm việc được hưởng lương bao gồm: a) Thời gian nghỉ giữa giờ, nghỉ giải lao theo quy định của Bộ luật này, nghỉ cần thiết trong giờ làm việc đối với lao động nữ theo quy định tại Điều 137 của Bộ luật này; b) Thời giờ nghỉ mỗi ngày 60 phút đối với lao động nữ nuôi con dưới 12 tháng tuổi; c) Thời giờ học tập, huấn luyện an toàn, vệ sinh lao động; d) Thời giờ hội họp, học tập, được người sử dụng lao động đồng ý; đ) Thời gian ngừng việc không do lỗi của người lao động; e) Thời giờ nghỉ việc do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không thể làm việc. 2. Thời gian khác được tính vào thời giờ làm việc được hưởng lương theo thỏa thuận của hai bên.",
+                    "qas": [
+                        {
+                            "id": "38",
+                            "question": "Thời giờ làm việc được tính vào thời giờ làm việc được hưởng lương bao gồm những khoảng thời gian nào?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm việc được tính vào thời giờ làm việc được hưởng lương bao gồm: Thời gian nghỉ giữa giờ, nghỉ giải lao theo quy định của Bộ luật này, nghỉ cần thiết trong giờ làm việc đối với lao động nữ theo quy định tại Điều 137 của Bộ luật này; Thời giờ nghỉ mỗi ngày 60 phút đối với lao động nữ nuôi con dưới 12 tháng tuổi; Thời giờ học tập, huấn luyện an toàn, vệ sinh lao động; Thời giờ hội họp, học tập, được người sử dụng lao động đồng ý; Thời gian ngừng việc không do lỗi của người lao động; Thời giờ nghỉ việc do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không thể làm việc.",
+                                    "answer_start": 70
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "39",
+                            "question": "Thời gian nghỉ mỗi ngày bao nhiêu phút đối với lao động nữ nuôi con dưới 12 tháng tuổi?",
+                            "answers": [
+                                {
+                                    "text": "Thời gian nghỉ mỗi ngày 60 phút đối với lao động nữ nuôi con dưới 12 tháng tuổi.",
+                                    "answer_start": 227
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "40",
+                            "question": "Thời gian ngừng việc không do lỗi của ai được tính vào thời giờ làm việc được hưởng lương?",
+                            "answers": [
+                                {
+                                    "text": "Thời gian ngừng việc không do lỗi của người lao động được tính vào thời giờ làm việc được hưởng lương.",
+                                    "answer_start": 382
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 115. Làm thêm giờ, làm việc vào ban đêm, nghỉ thêm đối với lao động là người cao tuổi. 1. Khi có nhu cầu sử dụng lao động là người cao tuổi làm thêm giờ, làm việc vào ban đêm, người sử dụng lao động phải thỏa thuận với người lao động. 2. Người sử dụng lao động có trách nhiệm bố trí để người cao tuổi được nghỉ ngơi, giảm giờ làm việc, giảm giờ làm thêm căn cứ vào tình trạng sức khỏe của người lao động.",
+                    "qas": [
+                        {
+                            "id": "41",
+                            "question": "Khi có nhu cầu sử dụng lao động là người cao tuổi làm thêm giờ, làm việc vào ban đêm, người sử dụng lao động phải làm gì?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thỏa thuận với người lao động.",
+                                    "answer_start": 139
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "42",
+                            "question": "Người sử dụng lao động có trách nhiệm gì đối với người cao tuổi làm thêm giờ, làm việc vào ban đêm?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm bố trí để người cao tuổi được nghỉ ngơi, giảm giờ làm việc, giảm giờ làm thêm căn cứ vào tình trạng sức khỏe của người lao động.",
+                                    "answer_start": 209
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 116. Bảo đảm điều kiện lao động cho người cao tuổi. 1. Người sử dụng lao động phải có trách nhiệm quan tâm, chăm sóc sức khỏe của người lao động cao tuổi tại nơi làm việc. 2. Hằng năm, người sử dụng lao động phải tổ chức khám sức khỏe định kỳ cho người lao động cao tuổi. 3. Khi bố trí công việc, người sử dụng lao động phải giảm bớt cường độ lao động, bảo đảm điều kiện lao động an toàn, vệ sinh phù hợp với sức khỏe của người lao động cao tuổi.",
+                    "qas": [
+                        {
+                            "id": "43",
+                            "question": "Người sử dụng lao động phải có trách nhiệm gì đối với sức khỏe của người lao động cao tuổi?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải có trách nhiệm quan tâm, chăm sóc sức khỏe của người lao động cao tuổi tại nơi làm việc.",
+                                    "answer_start": 95
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "44",
+                            "question": "Người sử dụng lao động phải làm gì hằng năm đối với người lao động cao tuổi?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tổ chức khám sức khỏe định kỳ cho người lao động cao tuổi.",
+                                    "answer_start": 156
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "45",
+                            "question": "Người sử dụng lao động phải làm gì khi bố trí công việc cho người lao động cao tuổi?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải giảm bớt cường độ lao động, bảo đảm điều kiện lao động an toàn, vệ sinh phù hợp với sức khỏe của người lao động cao tuổi.",
+                                    "answer_start": 239
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 117. Quyền và trách nhiệm của người sử dụng lao động trong việc bảo đảm điều kiện lao động an toàn, vệ sinh. 1. Người sử dụng lao động có quyền như sau: a) Yêu cầu người lao động tham gia huấn luyện an toàn, vệ sinh lao động; b) Khen thưởng người lao động chấp hành tốt nội quy, quy trình bảo đảm an toàn, vệ sinh lao động; c) Kỷ luật người lao động vi phạm nội quy, quy trình bảo đảm an toàn, vệ sinh lao động. 2. Người sử dụng lao động có trách nhiệm như sau: a) Bảo đảm nơi làm việc phải đạt yêu cầu về khoảng cách an toàn, vệ sinh đối với các yếu tố gây hại, bảo đảm điều kiện an toàn, vệ sinh đối với máy, thiết bị, nhà xưởng, kho tàng; b) Kiểm tra, đánh giá, xếp loại công tác an toàn, vệ sinh lao động hằng năm; c) Lập kế hoạch, biện pháp ứng cứu khẩn cấp và tổ chức ứng cứu khẩn cấp khi xảy ra sự cố kỹ thuật gây mất an toàn, vệ sinh lao động; d) Bảo đảm người lao động được trang bị đầy đủ phương tiện bảo vệ cá nhân và được hướng dẫn sử dụng đúng cách.",
+                    "qas": [
+                        {
+                            "id": "46",
+                            "question": "Người sử dụng lao động có quyền gì trong việc bảo đảm điều kiện lao động an toàn, vệ sinh?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có quyền: Yêu cầu người lao động tham gia huấn luyện an toàn, vệ sinh lao động; Khen thưởng người lao động chấp hành tốt nội quy, quy trình bảo đảm an toàn, vệ sinh lao động; Kỷ luật người lao động vi phạm nội quy, quy trình bảo đảm an toàn, vệ sinh lao động.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "47",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc bảo đảm nơi làm việc?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm bảo đảm nơi làm việc phải đạt yêu cầu về khoảng cách an toàn, vệ sinh đối với các yếu tố gây hại, bảo đảm điều kiện an toàn, vệ sinh đối với máy, thiết bị, nhà xưởng, kho tàng.",
+                                    "answer_start": 321
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "48",
+                            "question": "Người sử dụng lao động phải làm gì khi xảy ra sự cố kỹ thuật gây mất an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải lập kế hoạch, biện pháp ứng cứu khẩn cấp và tổ chức ứng cứu khẩn cấp khi xảy ra sự cố kỹ thuật gây mất an toàn, vệ sinh lao động.",
+                                    "answer_start": 468
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "49",
+                            "question": "Người sử dụng lao động phải bảo đảm điều gì đối với người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải bảo đảm người lao động được trang bị đầy đủ phương tiện bảo vệ cá nhân và được hướng dẫn sử dụng đúng cách.",
+                                    "answer_start": 595
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 118. Quyền và trách nhiệm của người lao động trong việc bảo đảm điều kiện lao động an toàn, vệ sinh. 1. Người lao động có quyền: a) Được bảo đảm các điều kiện làm việc an toàn, vệ sinh; b) Được trang bị đầy đủ phương tiện bảo vệ cá nhân, được huấn luyện an toàn, vệ sinh lao động; c) Yêu cầu người sử dụng lao động bảo đảm nơi làm việc đáp ứng các yêu cầu an toàn, vệ sinh lao động; d) Từ chối làm công việc hoặc rời bỏ nơi làm việc khi thấy rõ nguy cơ xảy ra tai nạn lao động, đe dọa nghiêm trọng tính mạng, sức khỏe của mình và phải báo ngay với người phụ trách trực tiếp; đ) Khiếu nại, tố cáo hoặc khởi kiện theo quy định của pháp luật khi người sử dụng lao động không bảo đảm các điều kiện làm việc an toàn, vệ sinh. 2. Người lao động có trách nhiệm: a) Chấp hành nội quy, quy trình bảo đảm an toàn, vệ sinh lao động, sử dụng và bảo quản các phương tiện bảo vệ cá nhân được trang bị, tham gia huấn luyện an toàn, vệ sinh lao động; b) Báo cáo kịp thời với người có trách nhiệm khi phát hiện nguy cơ xảy ra tai nạn lao động, bệnh nghề nghiệp, sự cố gây mất an toàn, vệ sinh lao động, gây nguy hiểm đến tính mạng, sức khỏe của mình và mọi người xung quanh; c) Chấp hành sự điều tra tai nạn lao động, bệnh nghề nghiệp theo yêu cầu của cơ quan, tổ chức có thẩm quyền.",
+                    "qas": [
+                        {
+                            "id": "50",
+                            "question": "Người lao động có quyền gì trong việc bảo đảm điều kiện lao động an toàn, vệ sinh?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền: Được bảo đảm các điều kiện làm việc an toàn, vệ sinh; Được trang bị đầy đủ phương tiện bảo vệ cá nhân, được huấn luyện an toàn, vệ sinh lao động; Yêu cầu người sử dụng lao động bảo đảm nơi làm việc đáp ứng các yêu cầu an toàn, vệ sinh lao động; Từ chối làm công việc hoặc rời bỏ nơi làm việc khi thấy rõ nguy cơ xảy ra tai nạn lao động, đe dọa nghiêm trọng tính mạng, sức khỏe của mình và phải báo ngay với người phụ trách trực tiếp; Khiếu nại, tố cáo hoặc khởi kiện theo quy định của pháp luật khi người sử dụng lao động không bảo đảm các điều kiện làm việc an toàn, vệ sinh.",
+                                    "answer_start": 66
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "51",
+                            "question": "Người lao động có trách nhiệm gì trong việc bảo đảm điều kiện lao động an toàn, vệ sinh?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có trách nhiệm: Chấp hành nội quy, quy trình bảo đảm an toàn, vệ sinh lao động, sử dụng và bảo quản các phương tiện bảo vệ cá nhân được trang bị, tham gia huấn luyện an toàn, vệ sinh lao động; Báo cáo kịp thời với người có trách nhiệm khi phát hiện nguy cơ xảy ra tai nạn lao động, bệnh nghề nghiệp, sự cố gây mất an toàn, vệ sinh lao động, gây nguy hiểm đến tính mạng, sức khỏe của mình và mọi người xung quanh; Chấp hành sự điều tra tai nạn lao động, bệnh nghề nghiệp theo yêu cầu của cơ quan, tổ chức có thẩm quyền.",
+                                    "answer_start": 513
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 119. Biện pháp bảo đảm an toàn, vệ sinh lao động. 1. Người sử dụng lao động phải có trách nhiệm thực hiện các biện pháp bảo đảm an toàn, vệ sinh lao động tại nơi làm việc; tổ chức huấn luyện an toàn, vệ sinh lao động cho người lao động; xây dựng và ban hành nội quy, quy trình bảo đảm an toàn, vệ sinh lao động. 2. Người lao động phải chấp hành nội quy, quy trình bảo đảm an toàn, vệ sinh lao động, sử dụng và bảo quản các phương tiện bảo vệ cá nhân được trang bị, tham gia huấn luyện an toàn, vệ sinh lao động.",
+                    "qas": [
+                        {
+                            "id": "52",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc bảo đảm an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải có trách nhiệm thực hiện các biện pháp bảo đảm an toàn, vệ sinh lao động tại nơi làm việc; tổ chức huấn luyện an toàn, vệ sinh lao động cho người lao động; xây dựng và ban hành nội quy, quy trình bảo đảm an toàn, vệ sinh lao động.",
+                                    "answer_start": 56
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "53",
+                            "question": "Người lao động có trách nhiệm gì trong việc bảo đảm an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động phải chấp hành nội quy, quy trình bảo đảm an toàn, vệ sinh lao động, sử dụng và bảo quản các phương tiện bảo vệ cá nhân được trang bị, tham gia huấn luyện an toàn, vệ sinh lao động.",
+                                    "answer_start": 323
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 120. Quản lý an toàn, vệ sinh lao động trong doanh nghiệp. 1. Người sử dụng lao động phải tổ chức bộ máy hoặc phân công người làm công tác an toàn, vệ sinh lao động tại cơ sở. 2. Người sử dụng lao động phải tổ chức khám sức khỏe định kỳ cho người lao động; lập hồ sơ quản lý sức khỏe cho người lao động làm công việc nặng nhọc, độc hại, nguy hiểm. 3. Người sử dụng lao động phải kiểm tra, đánh giá nguy cơ gây tai nạn lao động, bệnh nghề nghiệp, xây dựng kế hoạch phòng ngừa và ứng phó sự cố kỹ thuật gây mất an toàn, vệ sinh lao động.",
+                    "qas": [
+                        {
+                            "id": "54",
+                            "question": "Người sử dụng lao động phải làm gì để quản lý an toàn, vệ sinh lao động trong doanh nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tổ chức bộ máy hoặc phân công người làm công tác an toàn, vệ sinh lao động tại cơ sở.",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "55",
+                            "question": "Người sử dụng lao động phải tổ chức khám sức khỏe định kỳ cho ai?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tổ chức khám sức khỏe định kỳ cho người lao động.",
+                                    "answer_start": 166
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "56",
+                            "question": "Người sử dụng lao động phải làm gì để phòng ngừa và ứng phó sự cố kỹ thuật gây mất an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải kiểm tra, đánh giá nguy cơ gây tai nạn lao động, bệnh nghề nghiệp, xây dựng kế hoạch phòng ngừa và ứng phó sự cố kỹ thuật gây mất an toàn, vệ sinh lao động.",
+                                    "answer_start": 311
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 121. Trách nhiệm của cơ quan nhà nước về bảo đảm an toàn, vệ sinh lao động. 1. Bộ Lao động - Thương binh và Xã hội thực hiện quản lý nhà nước về an toàn, vệ sinh lao động trong phạm vi cả nước. 2. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Lao động - Thương binh và Xã hội thực hiện quản lý nhà nước về an toàn, vệ sinh lao động theo sự phân công của Chính phủ.",
+                    "qas": [
+                        {
+                            "id": "57",
+                            "question": "Bộ Lao động - Thương binh và Xã hội có trách nhiệm gì về bảo đảm an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Bộ Lao động - Thương binh và Xã hội thực hiện quản lý nhà nước về an toàn, vệ sinh lao động trong phạm vi cả nước.",
+                                    "answer_start": 77
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "58",
+                            "question": "Các bộ, cơ quan ngang bộ có trách nhiệm gì về bảo đảm an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ trong phạm vi nhiệm vụ, quyền hạn của mình có trách nhiệm phối hợp với Bộ Lao động - Thương binh và Xã hội thực hiện quản lý nhà nước về an toàn, vệ sinh lao động theo sự phân công của Chính phủ.",
+                                    "answer_start": 196
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 122. Kinh phí bảo đảm an toàn, vệ sinh lao động. 1. Kinh phí bảo đảm an toàn, vệ sinh lao động do người sử dụng lao động chi trả. 2. Nhà nước bảo đảm kinh phí an toàn, vệ sinh lao động đối với cơ quan nhà nước, đơn vị sự nghiệp công lập.",
+                    "qas": [
+                        {
+                            "id": "59",
+                            "question": "Kinh phí bảo đảm an toàn, vệ sinh lao động do ai chi trả?",
+                            "answers": [
+                                {
+                                    "text": "Kinh phí bảo đảm an toàn, vệ sinh lao động do người sử dụng lao động chi trả.",
+                                    "answer_start": 66
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "60",
+                            "question": "Nhà nước bảo đảm kinh phí an toàn, vệ sinh lao động đối với những đối tượng nào?",
+                            "answers": [
+                                {
+                                    "text": "Nhà nước bảo đảm kinh phí an toàn, vệ sinh lao động đối với cơ quan nhà nước, đơn vị sự nghiệp công lập.",
+                                    "answer_start": 144
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 123. Kiểm tra, thanh tra và xử lý vi phạm về an toàn, vệ sinh lao động. 1. Cơ quan nhà nước có thẩm quyền thực hiện kiểm tra, thanh tra việc chấp hành pháp luật về an toàn, vệ sinh lao động và xử lý vi phạm. 2. Tổ chức Công đoàn có trách nhiệm phối hợp với cơ quan nhà nước có thẩm quyền kiểm tra, thanh tra và xử lý vi phạm về an toàn, vệ sinh lao động.",
+                    "qas": [
+                        {
+                            "id": "61",
+                            "question": "Ai thực hiện kiểm tra, thanh tra việc chấp hành pháp luật về an toàn, vệ sinh lao động và xử lý vi phạm?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có thẩm quyền thực hiện kiểm tra, thanh tra việc chấp hành pháp luật về an toàn, vệ sinh lao động và xử lý vi phạm.",
+                                    "answer_start": 51
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "62",
+                            "question": "Tổ chức Công đoàn có trách nhiệm gì trong việc kiểm tra, thanh tra và xử lý vi phạm về an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức Công đoàn có trách nhiệm phối hợp với cơ quan nhà nước có thẩm quyền kiểm tra, thanh tra và xử lý vi phạm về an toàn, vệ sinh lao động.",
+                                    "answer_start": 169
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 124. Trách nhiệm của tổ chức, cá nhân sản xuất, kinh doanh về an toàn, vệ sinh lao động. 1. Tổ chức, cá nhân sản xuất, kinh doanh phải bảo đảm an toàn, vệ sinh lao động cho người lao động làm việc tại cơ sở của mình. 2. Tổ chức, cá nhân sản xuất, kinh doanh phải chấp hành việc kiểm tra, thanh tra của cơ quan nhà nước có thẩm quyền về an toàn, vệ sinh lao động.",
+                    "qas": [
+                        {
+                            "id": "63",
+                            "question": "Tổ chức, cá nhân sản xuất, kinh doanh phải bảo đảm gì về an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức, cá nhân sản xuất, kinh doanh phải bảo đảm an toàn, vệ sinh lao động cho người lao động làm việc tại cơ sở của mình.",
+                                    "answer_start": 86
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "64",
+                            "question": "Tổ chức, cá nhân sản xuất, kinh doanh phải chấp hành việc gì của cơ quan nhà nước có thẩm quyền?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức, cá nhân sản xuất, kinh doanh phải chấp hành việc kiểm tra, thanh tra của cơ quan nhà nước có thẩm quyền về an toàn, vệ sinh lao động.",
+                                    "answer_start": 214
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 125. Quyền và nghĩa vụ của tổ chức đại diện người lao động về an toàn, vệ sinh lao động. 1. Tổ chức đại diện người lao động tại cơ sở có quyền: a) Yêu cầu người sử dụng lao động bảo đảm các điều kiện làm việc an toàn, vệ sinh cho người lao động; b) Đại diện cho người lao động thương lượng, ký kết và giám sát việc thực hiện thỏa ước lao động tập thể về an toàn, vệ sinh lao động; c) Tham gia, phối hợp với cơ quan nhà nước có thẩm quyền trong việc kiểm tra, thanh tra và xử lý vi phạm về an toàn, vệ sinh lao động; d) Tuyên truyền, vận động, hướng dẫn người lao động thực hiện các quy định về an toàn, vệ sinh lao động. 2. Tổ chức đại diện người lao động tại cơ sở có nghĩa vụ: a) Phối hợp với người sử dụng lao động xây dựng và giám sát việc thực hiện kế hoạch bảo đảm an toàn, vệ sinh lao động; b) Báo cáo kịp thời với cơ quan nhà nước có thẩm quyền khi phát hiện nguy cơ gây tai nạn lao động, bệnh nghề nghiệp.",
+                    "qas": [
+                        {
+                            "id": "65",
+                            "question": "Tổ chức đại diện người lao động tại cơ sở có quyền gì về an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động tại cơ sở có quyền: Yêu cầu người sử dụng lao động bảo đảm các điều kiện làm việc an toàn, vệ sinh cho người lao động; Đại diện cho người lao động thương lượng, ký kết và giám sát việc thực hiện thỏa ước lao động tập thể về an toàn, vệ sinh lao động; Tham gia, phối hợp với cơ quan nhà nước có thẩm quyền trong việc kiểm tra, thanh tra và xử lý vi phạm về an toàn, vệ sinh lao động; Tuyên truyền, vận động, hướng dẫn người lao động thực hiện các quy định về an toàn, vệ sinh lao động.",
+                                    "answer_start": 77
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "66",
+                            "question": "Tổ chức đại diện người lao động tại cơ sở có nghĩa vụ gì về an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động tại cơ sở có nghĩa vụ: Phối hợp với người sử dụng lao động xây dựng và giám sát việc thực hiện kế hoạch bảo đảm an toàn, vệ sinh lao động; Báo cáo kịp thời với cơ quan nhà nước có thẩm quyền khi phát hiện nguy cơ gây tai nạn lao động, bệnh nghề nghiệp.",
+                                    "answer_start": 492
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 126. Nội quy lao động. 1. Người sử dụng lao động sử dụng từ 10 người lao động trở lên phải có nội quy lao động bằng văn bản. 2. Nội dung chủ yếu của nội quy lao động gồm: a) Thời giờ làm việc, thời giờ nghỉ ngơi; b) Trật tự tại nơi làm việc; c) An toàn, vệ sinh lao động; d) Việc bảo vệ tài sản và bí mật kinh doanh, bí mật công nghệ, sở hữu trí tuệ của người sử dụng lao động; đ) Các hành vi vi phạm kỷ luật lao động của người lao động và các hình thức xử lý kỷ luật lao động, trách nhiệm vật chất.",
+                    "qas": [
+                        {
+                            "id": "67",
+                            "question": "Người sử dụng lao động sử dụng từ bao nhiêu người lao động trở lên phải có nội quy lao động bằng văn bản?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động sử dụng từ 10 người lao động trở lên phải có nội quy lao động bằng văn bản.",
+                                    "answer_start": 49
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "68",
+                            "question": "Nội dung chủ yếu của nội quy lao động gồm những gì?",
+                            "answers": [
+                                {
+                                    "text": "Nội dung chủ yếu của nội quy lao động gồm: Thời giờ làm việc, thời giờ nghỉ ngơi; Trật tự tại nơi làm việc; An toàn, vệ sinh lao động; Việc bảo vệ tài sản và bí mật kinh doanh, bí mật công nghệ, sở hữu trí tuệ của người sử dụng lao động; Các hành vi vi phạm kỷ luật lao động của người lao động và các hình thức xử lý kỷ luật lao động, trách nhiệm vật chất.",
+                                    "answer_start": 117
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 127. Ban hành và đăng ký nội quy lao động. 1. Trước khi ban hành nội quy lao động, người sử dụng lao động phải tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở. 2. Nội quy lao động phải được ban hành trong thời hạn 10 ngày kể từ ngày tham khảo ý kiến quy định tại khoản 1 Điều này. 3. Trong thời hạn 10 ngày kể từ ngày ban hành nội quy lao động, người sử dụng lao động phải nộp hồ sơ đăng ký nội quy lao động tại cơ quan quản lý nhà nước về lao động cấp tỉnh. 4. Nội quy lao động có hiệu lực sau 15 ngày kể từ ngày cơ quan quản lý nhà nước về lao động cấp tỉnh nhận được hồ sơ đăng ký nội quy lao động, trừ trường hợp có quy định khác.",
+                    "qas": [
+                        {
+                            "id": "69",
+                            "question": "Trước khi ban hành nội quy lao động, người sử dụng lao động phải làm gì?",
+                            "answers": [
+                                {
+                                    "text": "Trước khi ban hành nội quy lao động, người sử dụng lao động phải tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở.",
+                                    "answer_start": 74
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "70",
+                            "question": "Nội quy lao động phải được ban hành trong thời hạn bao lâu kể từ ngày tham khảo ý kiến?",
+                            "answers": [
+                                {
+                                    "text": "Nội quy lao động phải được ban hành trong thời hạn 10 ngày kể từ ngày tham khảo ý kiến.",
+                                    "answer_start": 197
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "71",
+                            "question": "Người sử dụng lao động phải nộp hồ sơ đăng ký nội quy lao động tại đâu?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải nộp hồ sơ đăng ký nội quy lao động tại cơ quan quản lý nhà nước về lao động cấp tỉnh.",
+                                    "answer_start": 302
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "72",
+                            "question": "Nội quy lao động có hiệu lực sau bao nhiêu ngày kể từ ngày cơ quan quản lý nhà nước về lao động cấp tỉnh nhận được hồ sơ đăng ký?",
+                            "answers": [
+                                {
+                                    "text": "Nội quy lao động có hiệu lực sau 15 ngày kể từ ngày cơ quan quản lý nhà nước về lao động cấp tỉnh nhận được hồ sơ đăng ký.",
+                                    "answer_start": 385
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 128. Kỷ luật lao động. 1. Kỷ luật lao động là những quy định về việc tuân theo thời giờ làm việc, trật tự tại nơi làm việc và sự điều hành của người sử dụng lao động nhằm tăng năng suất lao động và hiệu quả công việc. 2. Người sử dụng lao động phải quy định cụ thể về các hành vi vi phạm kỷ luật lao động và hình thức xử lý kỷ luật lao động trong nội quy lao động.",
+                    "qas": [
+                        {
+                            "id": "73",
+                            "question": "Kỷ luật lao động là gì?",
+                            "answers": [
+                                {
+                                    "text": "Kỷ luật lao động là những quy định về việc tuân theo thời giờ làm việc, trật tự tại nơi làm việc và sự điều hành của người sử dụng lao động nhằm tăng năng suất lao động và hiệu quả công việc.",
+                                    "answer_start": 39
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "74",
+                            "question": "Người sử dụng lao động phải làm gì trong nội quy lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải quy định cụ thể về các hành vi vi phạm kỷ luật lao động và hình thức xử lý kỷ luật lao động trong nội quy lao động.",
+                                    "answer_start": 256
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 129. Hình thức xử lý kỷ luật lao động. 1. Khiển trách. 2. Kéo dài thời hạn nâng lương không quá 06 tháng; cách chức. 3. Sa thải.",
+                    "qas": [
+                        {
+                            "id": "75",
+                            "question": "Có bao nhiêu hình thức xử lý kỷ luật lao động?",
+                            "answers": [
+                                {
+                                    "text": "Có 03 hình thức xử lý kỷ luật lao động.",
+                                    "answer_start": 9
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "76",
+                            "question": "Kể tên một trong ba hình thức xử lý kỷ luật lao động.",
+                            "answers": [
+                                {
+                                    "text": "Khiển trách.",
+                                    "answer_start": 24
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "77",
+                            "question": "Kéo dài thời hạn nâng lương không quá bao lâu là một trong những hình thức xử lý kỷ luật lao động?",
+                            "answers": [
+                                {
+                                    "text": "Kéo dài thời hạn nâng lương không quá 06 tháng.",
+                                    "answer_start": 41
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "78",
+                            "question": "Hình thức xử lý kỷ luật lao động nào liên quan đến chức vụ?",
+                            "answers": [
+                                {
+                                    "text": "Cách chức.",
+                                    "answer_start": 78
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 130. Tạm đình chỉ công việc. 1. Người sử dụng lao động có quyền tạm đình chỉ công việc của người lao động khi có căn cứ cho rằng người lao động đó đã vi phạm kỷ luật lao động quy định tại nội quy lao động và việc tiếp tục làm việc sẽ gây khó khăn cho việc xác minh. 2. Thời gian tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá 90 ngày. 3. Trong thời gian tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc.",
+                    "qas": [
+                        {
+                            "id": "79",
+                            "question": "Người sử dụng lao động có quyền tạm đình chỉ công việc của người lao động khi nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có quyền tạm đình chỉ công việc của người lao động khi có căn cứ cho rằng người lao động đó đã vi phạm kỷ luật lao động quy định tại nội quy lao động và việc tiếp tục làm việc sẽ gây khó khăn cho việc xác minh.",
+                                    "answer_start": 63
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "80",
+                            "question": "Thời gian tạm đình chỉ công việc không được quá bao lâu?",
+                            "answers": [
+                                {
+                                    "text": "Thời gian tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt cũng không được quá 90 ngày.",
+                                    "answer_start": 218
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "81",
+                            "question": "Người lao động được tạm ứng bao nhiêu phần trăm tiền lương trong thời gian tạm đình chỉ công việc?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc.",
+                                    "answer_start": 306
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 131. Trách nhiệm vật chất. 1. Người lao động làm hư hỏng dụng cụ, thiết bị hoặc có hành vi khác gây thiệt hại tài sản của người sử dụng lao động thì phải bồi thường theo quy định của pháp luật hoặc nội quy lao động của người sử dụng lao động. 2. Người lao động làm mất dụng cụ, thiết bị, tài sản của người sử dụng lao động hoặc tiêu hao vật tư quá định mức cho phép thì tùy trường hợp phải bồi thường một phần hoặc toàn bộ theo thời giá thị trường hoặc nội quy lao động của người sử dụng lao động.",
+                    "qas": [
+                        {
+                            "id": "82",
+                            "question": "Người lao động phải bồi thường gì khi làm hư hỏng dụng cụ, thiết bị?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động phải bồi thường theo quy định của pháp luật hoặc nội quy lao động của người sử dụng lao động.",
+                                    "answer_start": 136
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "83",
+                            "question": "Người lao động phải bồi thường như thế nào khi làm mất dụng cụ, thiết bị của người sử dụng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động phải bồi thường một phần hoặc toàn bộ theo thời giá thị trường hoặc nội quy lao động của người sử dụng lao động.",
+                                    "answer_start": 304
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 132. Chế độ thưởng và phúc lợi. 1. Người sử dụng lao động có trách nhiệm thực hiện các chế độ thưởng, phúc lợi cho người lao động căn cứ vào kết quả sản xuất, kinh doanh và mức độ hoàn thành công việc của người lao động. 2. Quy chế thưởng, phúc lợi phải được công bố công khai tại nơi làm việc.",
+                    "qas": [
+                        {
+                            "id": "84",
+                            "question": "Người sử dụng lao động có trách nhiệm thực hiện chế độ thưởng và phúc lợi căn cứ vào đâu?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm thực hiện chế độ thưởng và phúc lợi căn cứ vào kết quả sản xuất, kinh doanh và mức độ hoàn thành công việc của người lao động.",
+                                    "answer_start": 82
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "85",
+                            "question": "Quy chế thưởng, phúc lợi phải được công bố ở đâu?",
+                            "answers": [
+                                {
+                                    "text": "Quy chế thưởng, phúc lợi phải được công bố công khai tại nơi làm việc.",
+                                    "answer_start": 234
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 133. Chế độ bảo hiểm xã hội. 1. Người sử dụng lao động phải tham gia và đóng bảo hiểm xã hội cho người lao động theo quy định của pháp luật về bảo hiểm xã hội. 2. Người lao động phải tham gia và đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội.",
+                    "qas": [
+                        {
+                            "id": "86",
+                            "question": "Người sử dụng lao động phải làm gì về bảo hiểm xã hội?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tham gia và đóng bảo hiểm xã hội cho người lao động theo quy định của pháp luật về bảo hiểm xã hội.",
+                                    "answer_start": 66
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "87",
+                            "question": "Người lao động phải làm gì về bảo hiểm xã hội?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động phải tham gia và đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội.",
+                                    "answer_start": 204
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 134. Chế độ bảo hiểm y tế. 1. Người sử dụng lao động phải tham gia và đóng bảo hiểm y tế cho người lao động theo quy định của pháp luật về bảo hiểm y tế. 2. Người lao động phải tham gia và đóng bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế.",
+                    "qas": [
+                        {
+                            "id": "88",
+                            "question": "Người sử dụng lao động phải làm gì về bảo hiểm y tế?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tham gia và đóng bảo hiểm y tế cho người lao động theo quy định của pháp luật về bảo hiểm y tế.",
+                                    "answer_start": 66
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "89",
+                            "question": "Người lao động phải làm gì về bảo hiểm y tế?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động phải tham gia và đóng bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế.",
+                                    "answer_start": 204
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 135. Chế độ bảo hiểm thất nghiệp. 1. Người sử dụng lao động phải tham gia và đóng bảo hiểm thất nghiệp cho người lao động theo quy định của pháp luật về bảo hiểm thất nghiệp. 2. Người lao động phải tham gia và đóng bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp.",
+                    "qas": [
+                        {
+                            "id": "90",
+                            "question": "Người sử dụng lao động phải làm gì về bảo hiểm thất nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tham gia và đóng bảo hiểm thất nghiệp cho người lao động theo quy định của pháp luật về bảo hiểm thất nghiệp.",
+                                    "answer_start": 66
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "91",
+                            "question": "Người lao động phải làm gì về bảo hiểm thất nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động phải tham gia và đóng bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp.",
+                                    "answer_start": 204
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 136. Thời gian nghỉ dưỡng sức, phục hồi sức khỏe sau khi ốm đau, thai sản. 1. Người lao động được nghỉ dưỡng sức, phục hồi sức khỏe sau khi ốm đau, thai sản theo quy định của pháp luật về bảo hiểm xã hội. 2. Thời gian nghỉ dưỡng sức, phục hồi sức khỏe sau khi ốm đau, thai sản không được tính vào thời gian nghỉ phép hằng năm.",
+                    "qas": [
+                        {
+                            "id": "92",
+                            "question": "Người lao động được nghỉ dưỡng sức, phục hồi sức khỏe sau khi nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ dưỡng sức, phục hồi sức khỏe sau khi ốm đau, thai sản.",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "93",
+                            "question": "Thời gian nghỉ dưỡng sức, phục hồi sức khỏe sau khi ốm đau, thai sản có được tính vào thời gian nghỉ phép hằng năm không?",
+                            "answers": [
+                                {
+                                    "text": "Thời gian nghỉ dưỡng sức, phục hồi sức khỏe sau khi ốm đau, thai sản không được tính vào thời gian nghỉ phép hằng năm.",
+                                    "answer_start": 160
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 137. Nghĩa vụ và quyền lợi của người sử dụng lao động và người lao động. 1. Người sử dụng lao động có nghĩa vụ thực hiện đầy đủ các quy định của pháp luật về bảo đảm quyền lợi cho người lao động. 2. Người lao động có quyền yêu cầu người sử dụng lao động thực hiện đầy đủ các quyền lợi của mình theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "94",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì về quyền lợi của người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ thực hiện đầy đủ các quy định của pháp luật về bảo đảm quyền lợi cho người lao động.",
+                                    "answer_start": 66
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "95",
+                            "question": "Người lao động có quyền yêu cầu gì?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu người sử dụng lao động thực hiện đầy đủ các quyền lợi của mình theo quy định của pháp luật.",
+                                    "answer_start": 185
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 138. Thời gian làm việc và thời gian nghỉ ngơi. 1. Thời giờ làm việc bình thường không quá 08 giờ trong một ngày và không quá 48 giờ trong một tuần. 2. Người lao động được nghỉ ít nhất 24 giờ liên tục trong một tuần.",
+                    "qas": [
+                        {
+                            "id": "96",
+                            "question": "Thời giờ làm việc bình thường không quá bao nhiêu giờ trong một ngày?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm việc bình thường không quá 08 giờ trong một ngày.",
+                                    "answer_start": 62
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "97",
+                            "question": "Thời giờ làm việc bình thường không quá bao nhiêu giờ trong một tuần?",
+                            "answers": [
+                                {
+                                    "text": "Thời giờ làm việc bình thường không quá 48 giờ trong một tuần.",
+                                    "answer_start": 101
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "98",
+                            "question": "Người lao động được nghỉ ít nhất bao nhiêu giờ liên tục trong một tuần?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động được nghỉ ít nhất 24 giờ liên tục trong một tuần.",
+                                    "answer_start": 155
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 139. Điều kiện làm việc. 1. Người sử dụng lao động phải bảo đảm các điều kiện làm việc an toàn, vệ sinh cho người lao động. 2. Người sử dụng lao động phải tổ chức huấn luyện an toàn, vệ sinh lao động cho người lao động.",
+                    "qas": [
+                        {
+                            "id": "99",
+                            "question": "Người sử dụng lao động phải bảo đảm điều kiện làm việc gì cho người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải bảo đảm các điều kiện làm việc an toàn, vệ sinh cho người lao động.",
+                                    "answer_start": 66
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "100",
+                            "question": "Người sử dụng lao động phải tổ chức gì cho người lao động về an toàn, vệ sinh lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tổ chức huấn luyện an toàn, vệ sinh lao động cho người lao động.",
+                                    "answer_start": 144
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1360 @@
+{
+    "version": "v2.0",
+    "data": [
+        {
+            "title": "Bộ luật lao động Việt Nam 2019 - Chương XIV",
+            "paragraphs": [
+                {
+                    "context": "Điều 354. Quyền của người lao động trong việc nghỉ hàng năm. 1. Người lao động có quyền được nghỉ hàng năm, hưởng nguyên lương theo quy định của pháp luật. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian nghỉ hàng năm.",
+                    "qas": [
+                        {
+                            "id": "1",
+                            "question": "Người lao động có quyền gì trong việc nghỉ hàng năm?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ hàng năm, hưởng nguyên lương theo quy định của pháp luật.",
+                                    "answer_start": 43
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "2",
+                            "question": "Người lao động có thể thỏa thuận với ai về thời gian nghỉ hàng năm?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian nghỉ hàng năm.",
+                                    "answer_start": 124
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 355. Nghĩa vụ của người sử dụng lao động trong việc nghỉ hàng năm. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ hàng năm theo quy định của pháp luật. 2. Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ hàng năm.",
+                    "qas": [
+                        {
+                            "id": "3",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ hàng năm?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ hàng năm theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "4",
+                            "question": "Người sử dụng lao động phải thanh toán gì cho người lao động trong thời gian nghỉ hàng năm?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ hàng năm.",
+                                    "answer_start": 157
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 356. Quyền của người lao động trong việc nghỉ lễ, Tết. 1. Người lao động có quyền được nghỉ lễ, Tết, hưởng nguyên lương theo quy định của pháp luật. 2. Người lao động có quyền yêu cầu nghỉ bù nếu phải làm việc vào ngày lễ, Tết.",
+                    "qas": [
+                        {
+                            "id": "5",
+                            "question": "Người lao động có quyền gì trong việc nghỉ lễ, Tết?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ lễ, Tết, hưởng nguyên lương theo quy định của pháp luật.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "6",
+                            "question": "Người lao động có quyền yêu cầu gì nếu phải làm việc vào ngày lễ, Tết?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu nghỉ bù nếu phải làm việc vào ngày lễ, Tết.",
+                                    "answer_start": 122
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 357. Nghĩa vụ của người sử dụng lao động trong việc nghỉ lễ, Tết. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ lễ, Tết theo quy định của pháp luật. 2. Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ lễ, Tết.",
+                    "qas": [
+                        {
+                            "id": "7",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ lễ, Tết?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ lễ, Tết theo quy định của pháp luật.",
+                                    "answer_start": 67
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "8",
+                            "question": "Người sử dụng lao động phải thanh toán gì cho người lao động trong thời gian nghỉ lễ, Tết?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ lễ, Tết.",
+                                    "answer_start": 153
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 358. Quyền của người lao động trong việc nghỉ không hưởng lương. 1. Người lao động có quyền được nghỉ không hưởng lương theo thỏa thuận với người sử dụng lao động. 2. Người lao động có quyền yêu cầu nghỉ không hưởng lương trong trường hợp có lý do chính đáng.",
+                    "qas": [
+                        {
+                            "id": "9",
+                            "question": "Người lao động có quyền gì trong việc nghỉ không hưởng lương?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ không hưởng lương theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "10",
+                            "question": "Người lao động có quyền yêu cầu nghỉ không hưởng lương trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu nghỉ không hưởng lương trong trường hợp có lý do chính đáng.",
+                                    "answer_start": 124
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 359. Nghĩa vụ của người sử dụng lao động trong việc nghỉ không hưởng lương. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ không hưởng lương theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ không hưởng lương nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "11",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ không hưởng lương?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ không hưởng lương theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "12",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ không hưởng lương trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ không hưởng lương nếu không có sự thỏa thuận.",
+                                    "answer_start": 155
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 360. Quyền của người lao động trong việc nghỉ việc riêng. 1. Người lao động có quyền được nghỉ việc riêng có hưởng lương trong các trường hợp cưới hỏi, tang lễ, sinh con và các trường hợp khác theo quy định của pháp luật. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc riêng.",
+                    "qas": [
+                        {
+                            "id": "13",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc riêng?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc riêng có hưởng lương trong các trường hợp cưới hỏi, tang lễ, sinh con và các trường hợp khác theo quy định của pháp luật.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "14",
+                            "question": "Người lao động có thể thỏa thuận với ai về việc nghỉ việc riêng?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc riêng.",
+                                    "answer_start": 152
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 361. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc riêng. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc riêng có hưởng lương trong các trường hợp theo quy định của pháp luật. 2. Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ việc riêng có hưởng lương.",
+                    "qas": [
+                        {
+                            "id": "15",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc riêng?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc riêng có hưởng lương trong các trường hợp theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "16",
+                            "question": "Người sử dụng lao động phải thanh toán gì cho người lao động trong thời gian nghỉ việc riêng có hưởng lương?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ việc riêng có hưởng lương.",
+                                    "answer_start": 172
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 362. Quyền của người lao động trong việc nghỉ vì lý do cá nhân. 1. Người lao động có quyền được nghỉ vì lý do cá nhân không hưởng lương theo thỏa thuận với người sử dụng lao động. 2. Người lao động có quyền yêu cầu nghỉ vì lý do cá nhân trong các trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                    "qas": [
+                        {
+                            "id": "17",
+                            "question": "Người lao động có quyền gì trong việc nghỉ vì lý do cá nhân?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ vì lý do cá nhân không hưởng lương theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "18",
+                            "question": "Người lao động có quyền yêu cầu nghỉ vì lý do cá nhân trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu nghỉ vì lý do cá nhân trong các trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                                    "answer_start": 127
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 363. Nghĩa vụ của người sử dụng lao động trong việc nghỉ vì lý do cá nhân. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ vì lý do cá nhân không hưởng lương theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ vì lý do cá nhân nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "19",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ vì lý do cá nhân?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ vì lý do cá nhân không hưởng lương theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "20",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ vì lý do cá nhân trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ vì lý do cá nhân nếu không có sự thỏa thuận.",
+                                    "answer_start": 153
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 364. Quyền của người lao động trong việc nghỉ vì lý do gia đình. 1. Người lao động có quyền được nghỉ vì lý do gia đình có hưởng lương trong các trường hợp cưới hỏi, tang lễ, sinh con và các trường hợp khác theo quy định của pháp luật. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ vì lý do gia đình.",
+                    "qas": [
+                        {
+                            "id": "21",
+                            "question": "Người lao động có quyền gì trong việc nghỉ vì lý do gia đình?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ vì lý do gia đình có hưởng lương trong các trường hợp cưới hỏi, tang lễ, sinh con và các trường hợp khác theo quy định của pháp luật.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "22",
+                            "question": "Người lao động có thể thỏa thuận với ai về việc nghỉ vì lý do gia đình?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ vì lý do gia đình.",
+                                    "answer_start": 158
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 365. Nghĩa vụ của người sử dụng lao động trong việc nghỉ vì lý do gia đình. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ vì lý do gia đình có hưởng lương trong các trường hợp theo quy định của pháp luật. 2. Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ vì lý do gia đình có hưởng lương.",
+                    "qas": [
+                        {
+                            "id": "23",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ vì lý do gia đình?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ vì lý do gia đình có hưởng lương trong các trường hợp theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "24",
+                            "question": "Người sử dụng lao động phải thanh toán gì cho người lao động trong thời gian nghỉ vì lý do gia đình có hưởng lương?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ vì lý do gia đình có hưởng lương.",
+                                    "answer_start": 174
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 366. Quyền của người lao động trong việc nghỉ dưỡng sức, phục hồi sức khỏe. 1. Người lao động có quyền được nghỉ dưỡng sức, phục hồi sức khỏe theo quy định của pháp luật. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian và chế độ nghỉ dưỡng sức, phục hồi sức khỏe.",
+                    "qas": [
+                        {
+                            "id": "25",
+                            "question": "Người lao động có quyền gì trong việc nghỉ dưỡng sức, phục hồi sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ dưỡng sức, phục hồi sức khỏe theo quy định của pháp luật.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "26",
+                            "question": "Người lao động có thể thỏa thuận với ai về thời gian và chế độ nghỉ dưỡng sức, phục hồi sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian và chế độ nghỉ dưỡng sức, phục hồi sức khỏe.",
+                                    "answer_start": 123
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 367. Nghĩa vụ của người sử dụng lao động trong việc nghỉ dưỡng sức, phục hồi sức khỏe. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ dưỡng sức, phục hồi sức khỏe theo quy định của pháp luật. 2. Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc nghỉ dưỡng sức, phục hồi sức khỏe.",
+                    "qas": [
+                        {
+                            "id": "27",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ dưỡng sức, phục hồi sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ dưỡng sức, phục hồi sức khỏe theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "28",
+                            "question": "Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc gì?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc nghỉ dưỡng sức, phục hồi sức khỏe.",
+                                    "answer_start": 174
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 368. Quyền của người lao động trong việc nghỉ việc để thực hiện nghĩa vụ quân sự. 1. Người lao động có quyền được nghỉ việc để thực hiện nghĩa vụ quân sự theo quy định của pháp luật. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để thực hiện nghĩa vụ quân sự.",
+                    "qas": [
+                        {
+                            "id": "29",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc để thực hiện nghĩa vụ quân sự?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc để thực hiện nghĩa vụ quân sự theo quy định của pháp luật.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "30",
+                            "question": "Người lao động có thể thỏa thuận với ai về việc nghỉ việc để thực hiện nghĩa vụ quân sự?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để thực hiện nghĩa vụ quân sự.",
+                                    "answer_start": 122
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 369. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc để thực hiện nghĩa vụ quân sự. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để thực hiện nghĩa vụ quân sự theo quy định của pháp luật. 2. Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ việc để thực hiện nghĩa vụ quân sự.",
+                    "qas": [
+                        {
+                            "id": "31",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc để thực hiện nghĩa vụ quân sự?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để thực hiện nghĩa vụ quân sự theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "32",
+                            "question": "Người sử dụng lao động phải thanh toán gì cho người lao động trong thời gian nghỉ việc để thực hiện nghĩa vụ quân sự?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ việc để thực hiện nghĩa vụ quân sự.",
+                                    "answer_start": 165
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 370. Quyền của người lao động trong việc nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ. 1. Người lao động có quyền được nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ theo quy định của pháp luật. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ.",
+                    "qas": [
+                        {
+                            "id": "33",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ theo quy định của pháp luật.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "34",
+                            "question": "Người lao động có thể thỏa thuận với ai về việc nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ.",
+                                    "answer_start": 123
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 371. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ theo quy định của pháp luật. 2. Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ.",
+                    "qas": [
+                        {
+                            "id": "35",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "36",
+                            "question": "Người sử dụng lao động phải thanh toán gì cho người lao động trong thời gian nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ việc để thực hiện nghĩa vụ dân quân tự vệ.",
+                                    "answer_start": 171
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 372. Quyền của người lao động trong việc nghỉ việc để chăm sóc người thân. 1. Người lao động có quyền được nghỉ việc để chăm sóc người thân bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận với người sử dụng lao động. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để chăm sóc người thân.",
+                    "qas": [
+                        {
+                            "id": "37",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc để chăm sóc người thân?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc để chăm sóc người thân bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "38",
+                            "question": "Người lao động có thể thỏa thuận với ai về việc nghỉ việc để chăm sóc người thân?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để chăm sóc người thân.",
+                                    "answer_start": 172
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 373. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc để chăm sóc người thân. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để chăm sóc người thân bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc người thân nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "39",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc để chăm sóc người thân?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để chăm sóc người thân bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "40",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc người thân trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc người thân nếu không có sự thỏa thuận.",
+                                    "answer_start": 180
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 374. Quyền của người lao động trong việc nghỉ việc để làm việc khác. 1. Người lao động có quyền được nghỉ việc để làm việc khác theo thỏa thuận với người sử dụng lao động. 2. Người lao động có quyền yêu cầu nghỉ việc để làm việc khác trong trường hợp có lý do chính đáng.",
+                    "qas": [
+                        {
+                            "id": "41",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc để làm việc khác?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc để làm việc khác theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "42",
+                            "question": "Người lao động có quyền yêu cầu nghỉ việc để làm việc khác trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu nghỉ việc để làm việc khác trong trường hợp có lý do chính đáng.",
+                                    "answer_start": 122
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 375. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc để làm việc khác. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để làm việc khác theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ việc để làm việc khác nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "43",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc để làm việc khác?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để làm việc khác theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "44",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để làm việc khác trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để làm việc khác nếu không có sự thỏa thuận.",
+                                    "answer_start": 150
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 376. Quyền của người lao động trong việc nghỉ vì lý do sức khỏe. 1. Người lao động có quyền được nghỉ vì lý do sức khỏe có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian và chế độ nghỉ vì lý do sức khỏe.",
+                    "qas": [
+                        {
+                            "id": "45",
+                            "question": "Người lao động có quyền gì trong việc nghỉ vì lý do sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ vì lý do sức khỏe có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "46",
+                            "question": "Người lao động có thể thỏa thuận với ai về thời gian và chế độ nghỉ vì lý do sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian và chế độ nghỉ vì lý do sức khỏe.",
+                                    "answer_start": 137
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 377. Nghĩa vụ của người sử dụng lao động trong việc nghỉ vì lý do sức khỏe. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ vì lý do sức khỏe có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội. 2. Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc nghỉ vì lý do sức khỏe.",
+                    "qas": [
+                        {
+                            "id": "47",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ vì lý do sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ vì lý do sức khỏe có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "48",
+                            "question": "Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc gì?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc nghỉ vì lý do sức khỏe.",
+                                    "answer_start": 187
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 378. Quyền của người lao động trong việc nghỉ việc không hưởng lương vì lý do cá nhân. 1. Người lao động có quyền được nghỉ việc không hưởng lương vì lý do cá nhân theo thỏa thuận với người sử dụng lao động. 2. Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do cá nhân trong các trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                    "qas": [
+                        {
+                            "id": "49",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc không hưởng lương vì lý do cá nhân?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc không hưởng lương vì lý do cá nhân theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "50",
+                            "question": "Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do cá nhân trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do cá nhân trong các trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                                    "answer_start": 122
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 379. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc không hưởng lương vì lý do cá nhân. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc không hưởng lương vì lý do cá nhân theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do cá nhân nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "51",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc không hưởng lương vì lý do cá nhân?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc không hưởng lương vì lý do cá nhân theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "52",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do cá nhân trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do cá nhân nếu không có sự thỏa thuận.",
+                                    "answer_start": 160
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 380. Quyền của người lao động trong việc nghỉ phép hàng năm. 1. Người lao động có quyền được nghỉ phép hàng năm hưởng nguyên lương theo quy định của pháp luật. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian nghỉ phép hàng năm.",
+                    "qas": [
+                        {
+                            "id": "53",
+                            "question": "Người lao động có quyền gì trong việc nghỉ phép hàng năm?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ phép hàng năm hưởng nguyên lương theo quy định của pháp luật.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "54",
+                            "question": "Người lao động có thể thỏa thuận với ai về thời gian nghỉ phép hàng năm?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian nghỉ phép hàng năm.",
+                                    "answer_start": 124
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 381. Nghĩa vụ của người sử dụng lao động trong việc nghỉ phép hàng năm. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ phép hàng năm hưởng nguyên lương theo quy định của pháp luật. 2. Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ phép hàng năm.",
+                    "qas": [
+                        {
+                            "id": "55",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ phép hàng năm?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ phép hàng năm hưởng nguyên lương theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "56",
+                            "question": "Người sử dụng lao động phải thanh toán gì cho người lao động trong thời gian nghỉ phép hàng năm?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ phép hàng năm.",
+                                    "answer_start": 156
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 382. Quyền của người lao động trong việc nghỉ vì lý do bệnh tật. 1. Người lao động có quyền được nghỉ vì lý do bệnh tật có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian và chế độ nghỉ vì lý do bệnh tật.",
+                    "qas": [
+                        {
+                            "id": "57",
+                            "question": "Người lao động có quyền gì trong việc nghỉ vì lý do bệnh tật?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ vì lý do bệnh tật có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "58",
+                            "question": "Người lao động có thể thỏa thuận với ai về thời gian và chế độ nghỉ vì lý do bệnh tật?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian và chế độ nghỉ vì lý do bệnh tật.",
+                                    "answer_start": 136
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 383. Nghĩa vụ của người sử dụng lao động trong việc nghỉ vì lý do bệnh tật. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ vì lý do bệnh tật có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội. 2. Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc nghỉ vì lý do bệnh tật.",
+                    "qas": [
+                        {
+                            "id": "59",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ vì lý do bệnh tật?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ vì lý do bệnh tật có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "60",
+                            "question": "Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc gì?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc nghỉ vì lý do bệnh tật.",
+                                    "answer_start": 187
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 384. Quyền của người lao động trong việc nghỉ việc không hưởng lương vì lý do gia đình. 1. Người lao động có quyền được nghỉ việc không hưởng lương vì lý do gia đình theo thỏa thuận với người sử dụng lao động. 2. Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do gia đình trong các trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                    "qas": [
+                        {
+                            "id": "61",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc không hưởng lương vì lý do gia đình?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc không hưởng lương vì lý do gia đình theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "62",
+                            "question": "Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do gia đình trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do gia đình trong các trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                                    "answer_start": 122
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 385. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc không hưởng lương vì lý do gia đình. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc không hưởng lương vì lý do gia đình theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do gia đình nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "63",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc không hưởng lương vì lý do gia đình?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc không hưởng lương vì lý do gia đình theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "64",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do gia đình trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do gia đình nếu không có sự thỏa thuận.",
+                                    "answer_start": 160
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 386. Quyền của người lao động trong việc nghỉ việc để chăm sóc con nhỏ. 1. Người lao động có quyền được nghỉ việc để chăm sóc con nhỏ bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận với người sử dụng lao động. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để chăm sóc con nhỏ.",
+                    "qas": [
+                        {
+                            "id": "65",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc để chăm sóc con nhỏ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc để chăm sóc con nhỏ bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "66",
+                            "question": "Người lao động có thể thỏa thuận với ai về việc nghỉ việc để chăm sóc con nhỏ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để chăm sóc con nhỏ.",
+                                    "answer_start": 165
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 387. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc để chăm sóc con nhỏ. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để chăm sóc con nhỏ bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc con nhỏ nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "67",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc để chăm sóc con nhỏ?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để chăm sóc con nhỏ bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "68",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc con nhỏ trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc con nhỏ nếu không có sự thỏa thuận.",
+                                    "answer_start": 175
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 388. Quyền của người lao động trong việc nghỉ việc không hưởng lương vì lý do sức khỏe. 1. Người lao động có quyền được nghỉ việc không hưởng lương vì lý do sức khỏe theo thỏa thuận với người sử dụng lao động. 2. Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do sức khỏe trong các trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                    "qas": [
+                        {
+                            "id": "69",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc không hưởng lương vì lý do sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc không hưởng lương vì lý do sức khỏe theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "70",
+                            "question": "Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do sức khỏe trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do sức khỏe trong các trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                                    "answer_start": 122
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 389. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc không hưởng lương vì lý do sức khỏe. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc không hưởng lương vì lý do sức khỏe theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do sức khỏe nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "71",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc không hưởng lương vì lý do sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc không hưởng lương vì lý do sức khỏe theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "72",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do sức khỏe trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do sức khỏe nếu không có sự thỏa thuận.",
+                                    "answer_start": 161
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 390. Quyền của người lao động trong việc nghỉ phép theo chế độ. 1. Người lao động có quyền được nghỉ phép theo chế độ hưởng nguyên lương theo quy định của pháp luật. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian nghỉ phép theo chế độ.",
+                    "qas": [
+                        {
+                            "id": "73",
+                            "question": "Người lao động có quyền gì trong việc nghỉ phép theo chế độ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ phép theo chế độ hưởng nguyên lương theo quy định của pháp luật.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "74",
+                            "question": "Người lao động có thể thỏa thuận với ai về thời gian nghỉ phép theo chế độ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian nghỉ phép theo chế độ.",
+                                    "answer_start": 118
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 391. Nghĩa vụ của người sử dụng lao động trong việc nghỉ phép theo chế độ. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ phép theo chế độ hưởng nguyên lương theo quy định của pháp luật. 2. Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ phép theo chế độ.",
+                    "qas": [
+                        {
+                            "id": "75",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ phép theo chế độ?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ phép theo chế độ hưởng nguyên lương theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "76",
+                            "question": "Người sử dụng lao động phải thanh toán gì cho người lao động trong thời gian nghỉ phép theo chế độ?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ phép theo chế độ.",
+                                    "answer_start": 156
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 392. Quyền của người lao động trong việc nghỉ việc để chăm sóc người thân. 1. Người lao động có quyền được nghỉ việc để chăm sóc người thân bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận với người sử dụng lao động. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để chăm sóc người thân.",
+                    "qas": [
+                        {
+                            "id": "77",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc để chăm sóc người thân?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc để chăm sóc người thân bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "78",
+                            "question": "Người lao động có thể thỏa thuận với ai về việc nghỉ việc để chăm sóc người thân?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để chăm sóc người thân.",
+                                    "answer_start": 172
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 393. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc để chăm sóc người thân. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để chăm sóc người thân bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc người thân nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "79",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc để chăm sóc người thân?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để chăm sóc người thân bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "80",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc người thân trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc người thân nếu không có sự thỏa thuận.",
+                                    "answer_start": 180
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 394. Quyền của người lao động trong việc nghỉ việc để làm việc khác. 1. Người lao động có quyền được nghỉ việc để làm việc khác theo thỏa thuận với người sử dụng lao động. 2. Người lao động có quyền yêu cầu nghỉ việc để làm việc khác trong trường hợp có lý do chính đáng.",
+                    "qas": [
+                        {
+                            "id": "81",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc để làm việc khác?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc để làm việc khác theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "82",
+                            "question": "Người lao động có quyền yêu cầu nghỉ việc để làm việc khác trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu nghỉ việc để làm việc khác trong trường hợp có lý do chính đáng.",
+                                    "answer_start": 122
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 395. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc để làm việc khác. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để làm việc khác theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ việc để làm việc khác nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "83",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc để làm việc khác?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để làm việc khác theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "84",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để làm việc khác trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để làm việc khác nếu không có sự thỏa thuận.",
+                                    "answer_start": 150
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 396. Quyền của người lao động trong việc nghỉ vì lý do sức khỏe. 1. Người lao động có quyền được nghỉ vì lý do sức khỏe có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian và chế độ nghỉ vì lý do sức khỏe.",
+                    "qas": [
+                        {
+                            "id": "85",
+                            "question": "Người lao động có quyền gì trong việc nghỉ vì lý do sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ vì lý do sức khỏe có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "86",
+                            "question": "Người lao động có thể thỏa thuận với ai về thời gian và chế độ nghỉ vì lý do sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian và chế độ nghỉ vì lý do sức khỏe.",
+                                    "answer_start": 137
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 397. Nghĩa vụ của người sử dụng lao động trong việc nghỉ vì lý do sức khỏe. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ vì lý do sức khỏe có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội. 2. Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc nghỉ vì lý do sức khỏe.",
+                    "qas": [
+                        {
+                            "id": "87",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ vì lý do sức khỏe?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ vì lý do sức khỏe có hưởng lương theo quy định của pháp luật về bảo hiểm xã hội.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "88",
+                            "question": "Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc gì?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tạo điều kiện và hỗ trợ người lao động trong việc nghỉ vì lý do sức khỏe.",
+                                    "answer_start": 187
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 398. Quyền của người lao động trong việc nghỉ việc không hưởng lương vì lý do cá nhân. 1. Người lao động có quyền được nghỉ việc không hưởng lương vì lý do cá nhân theo thỏa thuận với người sử dụng lao động. 2. Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do cá nhân trong các trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                    "qas": [
+                        {
+                            "id": "89",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc không hưởng lương vì lý do cá nhân?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc không hưởng lương vì lý do cá nhân theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "90",
+                            "question": "Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do cá nhân trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu nghỉ việc không hưởng lương vì lý do cá nhân trong các trường hợp khẩn cấp hoặc có lý do chính đáng.",
+                                    "answer_start": 122
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 399. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc không hưởng lương vì lý do cá nhân. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc không hưởng lương vì lý do cá nhân theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do cá nhân nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "91",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc không hưởng lương vì lý do cá nhân?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc không hưởng lương vì lý do cá nhân theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "92",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do cá nhân trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc không hưởng lương vì lý do cá nhân nếu không có sự thỏa thuận.",
+                                    "answer_start": 160
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 400. Quyền của người lao động trong việc nghỉ phép theo chế độ. 1. Người lao động có quyền được nghỉ phép theo chế độ hưởng nguyên lương theo quy định của pháp luật. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian nghỉ phép theo chế độ.",
+                    "qas": [
+                        {
+                            "id": "93",
+                            "question": "Người lao động có quyền gì trong việc nghỉ phép theo chế độ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ phép theo chế độ hưởng nguyên lương theo quy định của pháp luật.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "94",
+                            "question": "Người lao động có thể thỏa thuận với ai về thời gian nghỉ phép theo chế độ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về thời gian nghỉ phép theo chế độ.",
+                                    "answer_start": 118
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 401. Nghĩa vụ của người sử dụng lao động trong việc nghỉ phép theo chế độ. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ phép theo chế độ hưởng nguyên lương theo quy định của pháp luật. 2. Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ phép theo chế độ.",
+                    "qas": [
+                        {
+                            "id": "95",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ phép theo chế độ?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ phép theo chế độ hưởng nguyên lương theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "96",
+                            "question": "Người sử dụng lao động phải thanh toán gì cho người lao động trong thời gian nghỉ phép theo chế độ?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thanh toán tiền lương cho người lao động trong thời gian nghỉ phép theo chế độ.",
+                                    "answer_start": 156
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 402. Quyền của người lao động trong việc nghỉ việc để chăm sóc con nhỏ. 1. Người lao động có quyền được nghỉ việc để chăm sóc con nhỏ bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận với người sử dụng lao động. 2. Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để chăm sóc con nhỏ.",
+                    "qas": [
+                        {
+                            "id": "97",
+                            "question": "Người lao động có quyền gì trong việc nghỉ việc để chăm sóc con nhỏ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền được nghỉ việc để chăm sóc con nhỏ bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 47
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "98",
+                            "question": "Người lao động có thể thỏa thuận với ai về việc nghỉ việc để chăm sóc con nhỏ?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ việc để chăm sóc con nhỏ.",
+                                    "answer_start": 165
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 403. Nghĩa vụ của người sử dụng lao động trong việc nghỉ việc để chăm sóc con nhỏ. 1. Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để chăm sóc con nhỏ bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận. 2. Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc con nhỏ nếu không có sự thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "99",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc nghỉ việc để chăm sóc con nhỏ?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo đảm cho người lao động được nghỉ việc để chăm sóc con nhỏ bị ốm đau, tai nạn hoặc có lý do chính đáng khác theo thỏa thuận.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "100",
+                            "question": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc con nhỏ trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động không được ép buộc người lao động nghỉ việc để chăm sóc con nhỏ nếu không có sự thỏa thuận.",
+                                    "answer_start": 175
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

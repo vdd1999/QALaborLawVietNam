@@ -1,0 +1,1036 @@
+{
+    "version": "v2.0",
+    "data": [
+        {
+            "title": "Bộ luật lao động Việt Nam 2019 - Chương XV",
+            "paragraphs": [
+                {
+                    "context": "Điều 404. Quyền của người lao động trong việc đình công. 1. Người lao động có quyền đình công khi các tranh chấp lao động không được giải quyết thông qua hòa giải hoặc trọng tài lao động. 2. Người lao động phải tuân thủ các quy định của pháp luật về trình tự, thủ tục đình công.",
+                    "qas": [
+                        {
+                            "id": "1",
+                            "question": "Người lao động có quyền gì trong việc đình công?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền đình công khi các tranh chấp lao động không được giải quyết thông qua hòa giải hoặc trọng tài lao động.",
+                                    "answer_start": 43
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "2",
+                            "question": "Người lao động phải tuân thủ các quy định của pháp luật về điều gì trong việc đình công?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động phải tuân thủ các quy định của pháp luật về trình tự, thủ tục đình công.",
+                                    "answer_start": 161
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 405. Trình tự, thủ tục đình công. 1. Việc đình công phải được tiến hành theo trình tự, thủ tục quy định của pháp luật. 2. Trước khi đình công, người lao động phải thông báo cho người sử dụng lao động và các cơ quan có thẩm quyền theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "3",
+                            "question": "Việc đình công phải được tiến hành theo điều gì?",
+                            "answers": [
+                                {
+                                    "text": "Việc đình công phải được tiến hành theo trình tự, thủ tục quy định của pháp luật.",
+                                    "answer_start": 54
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "4",
+                            "question": "Trước khi đình công, người lao động phải làm gì?",
+                            "answers": [
+                                {
+                                    "text": "Trước khi đình công, người lao động phải thông báo cho người sử dụng lao động và các cơ quan có thẩm quyền theo quy định của pháp luật.",
+                                    "answer_start": 128
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 406. Quyền và nghĩa vụ của người lao động trong thời gian đình công. 1. Người lao động có quyền yêu cầu người sử dụng lao động giải quyết các yêu cầu chính đáng trong thời gian đình công. 2. Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật và không được có hành vi gây rối trật tự công cộng trong thời gian đình công.",
+                    "qas": [
+                        {
+                            "id": "5",
+                            "question": "Người lao động có quyền yêu cầu gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu người sử dụng lao động giải quyết các yêu cầu chính đáng trong thời gian đình công.",
+                                    "answer_start": 51
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "6",
+                            "question": "Người lao động có nghĩa vụ gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật và không được có hành vi gây rối trật tự công cộng trong thời gian đình công.",
+                                    "answer_start": 146
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 407. Quyền và nghĩa vụ của người sử dụng lao động trong thời gian đình công. 1. Người sử dụng lao động có quyền yêu cầu người lao động chấm dứt đình công nếu đình công không hợp pháp. 2. Người sử dụng lao động có nghĩa vụ giải quyết các yêu cầu chính đáng của người lao động trong thời gian đình công.",
+                    "qas": [
+                        {
+                            "id": "7",
+                            "question": "Người sử dụng lao động có quyền yêu cầu gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có quyền yêu cầu người lao động chấm dứt đình công nếu đình công không hợp pháp.",
+                                    "answer_start": 67
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "8",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ giải quyết các yêu cầu chính đáng của người lao động trong thời gian đình công.",
+                                    "answer_start": 151
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 408. Giải quyết tranh chấp lao động trong thời gian đình công. 1. Tranh chấp lao động trong thời gian đình công phải được giải quyết thông qua hòa giải hoặc trọng tài lao động theo quy định của pháp luật. 2. Trong trường hợp không thể hòa giải hoặc giải quyết bằng trọng tài lao động, các bên có thể yêu cầu tòa án giải quyết.",
+                    "qas": [
+                        {
+                            "id": "9",
+                            "question": "Tranh chấp lao động trong thời gian đình công phải được giải quyết thông qua những hình thức nào?",
+                            "answers": [
+                                {
+                                    "text": "Tranh chấp lao động trong thời gian đình công phải được giải quyết thông qua hòa giải hoặc trọng tài lao động theo quy định của pháp luật.",
+                                    "answer_start": 55
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "10",
+                            "question": "Trong trường hợp không thể hòa giải hoặc giải quyết bằng trọng tài lao động, các bên có thể làm gì?",
+                            "answers": [
+                                {
+                                    "text": "Trong trường hợp không thể hòa giải hoặc giải quyết bằng trọng tài lao động, các bên có thể yêu cầu tòa án giải quyết.",
+                                    "answer_start": 156
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 409. Trách nhiệm của các bên trong việc chấm dứt đình công. 1. Người lao động và người sử dụng lao động phải chấm dứt đình công khi các yêu cầu chính đáng đã được giải quyết. 2. Các bên phải tuân thủ các quy định của pháp luật về việc chấm dứt đình công và khôi phục hoạt động sản xuất kinh doanh.",
+                    "qas": [
+                        {
+                            "id": "11",
+                            "question": "Người lao động và người sử dụng lao động phải làm gì khi các yêu cầu chính đáng đã được giải quyết?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động và người sử dụng lao động phải chấm dứt đình công khi các yêu cầu chính đáng đã được giải quyết.",
+                                    "answer_start": 58
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "12",
+                            "question": "Các bên phải tuân thủ các quy định của pháp luật về việc gì?",
+                            "answers": [
+                                {
+                                    "text": "Các bên phải tuân thủ các quy định của pháp luật về việc chấm dứt đình công và khôi phục hoạt động sản xuất kinh doanh.",
+                                    "answer_start": 117
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 410. Quyền và nghĩa vụ của tổ chức đại diện người lao động trong thời gian đình công. 1. Tổ chức đại diện người lao động có quyền tham gia giải quyết các tranh chấp lao động và bảo vệ quyền lợi hợp pháp của người lao động trong thời gian đình công. 2. Tổ chức đại diện người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về đình công và không được có hành vi gây rối trật tự công cộng.",
+                    "qas": [
+                        {
+                            "id": "13",
+                            "question": "Tổ chức đại diện người lao động có quyền gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có quyền tham gia giải quyết các tranh chấp lao động và bảo vệ quyền lợi hợp pháp của người lao động trong thời gian đình công.",
+                                    "answer_start": 57
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "14",
+                            "question": "Tổ chức đại diện người lao động có nghĩa vụ gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về đình công và không được có hành vi gây rối trật tự công cộng.",
+                                    "answer_start": 170
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 411. Quyền và nghĩa vụ của tổ chức đại diện người sử dụng lao động trong thời gian đình công. 1. Tổ chức đại diện người sử dụng lao động có quyền tham gia giải quyết các tranh chấp lao động và bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong thời gian đình công. 2. Tổ chức đại diện người sử dụng lao động có nghĩa vụ tuân thủ các quy định của pháp luật về đình công và không được có hành vi gây rối trật tự công cộng.",
+                    "qas": [
+                        {
+                            "id": "15",
+                            "question": "Tổ chức đại diện người sử dụng lao động có quyền gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có quyền tham gia giải quyết các tranh chấp lao động và bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong thời gian đình công.",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "16",
+                            "question": "Tổ chức đại diện người sử dụng lao động có nghĩa vụ gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có nghĩa vụ tuân thủ các quy định của pháp luật về đình công và không được có hành vi gây rối trật tự công cộng.",
+                                    "answer_start": 183
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 412. Trách nhiệm của cơ quan nhà nước trong việc giải quyết tranh chấp lao động trong thời gian đình công. 1. Cơ quan nhà nước có thẩm quyền có trách nhiệm giải quyết tranh chấp lao động trong thời gian đình công theo quy định của pháp luật. 2. Cơ quan nhà nước có trách nhiệm bảo đảm trật tự công cộng và an ninh trong thời gian đình công.",
+                    "qas": [
+                        {
+                            "id": "17",
+                            "question": "Cơ quan nhà nước có thẩm quyền có trách nhiệm gì trong việc giải quyết tranh chấp lao động trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có thẩm quyền có trách nhiệm giải quyết tranh chấp lao động trong thời gian đình công theo quy định của pháp luật.",
+                                    "answer_start": 73
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "18",
+                            "question": "Cơ quan nhà nước có trách nhiệm gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có trách nhiệm bảo đảm trật tự công cộng và an ninh trong thời gian đình công.",
+                                    "answer_start": 176
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 413. Quyền và nghĩa vụ của các bên trong việc khôi phục sản xuất kinh doanh sau đình công. 1. Các bên có quyền thỏa thuận về việc khôi phục sản xuất kinh doanh sau đình công. 2. Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về việc khôi phục sản xuất kinh doanh sau đình công.",
+                    "qas": [
+                        {
+                            "id": "19",
+                            "question": "Các bên có quyền thỏa thuận về việc gì sau đình công?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có quyền thỏa thuận về việc khôi phục sản xuất kinh doanh sau đình công.",
+                                    "answer_start": 62
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "20",
+                            "question": "Các bên có nghĩa vụ gì sau đình công?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về việc khôi phục sản xuất kinh doanh sau đình công.",
+                                    "answer_start": 132
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 414. Trách nhiệm của các bên trong việc bồi thường thiệt hại do đình công bất hợp pháp. 1. Người lao động và tổ chức đại diện người lao động phải chịu trách nhiệm bồi thường thiệt hại nếu đình công bất hợp pháp gây ra thiệt hại cho người sử dụng lao động. 2. Người sử dụng lao động phải chịu trách nhiệm bồi thường thiệt hại nếu có hành vi vi phạm pháp luật gây ra thiệt hại cho người lao động trong thời gian đình công.",
+                    "qas": [
+                        {
+                            "id": "21",
+                            "question": "Ai phải chịu trách nhiệm bồi thường thiệt hại nếu đình công bất hợp pháp gây ra thiệt hại cho người sử dụng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động và tổ chức đại diện người lao động phải chịu trách nhiệm bồi thường thiệt hại nếu đình công bất hợp pháp gây ra thiệt hại cho người sử dụng lao động.",
+                                    "answer_start": 71
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "22",
+                            "question": "Người sử dụng lao động phải chịu trách nhiệm bồi thường thiệt hại trong trường hợp nào?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải chịu trách nhiệm bồi thường thiệt hại nếu có hành vi vi phạm pháp luật gây ra thiệt hại cho người lao động trong thời gian đình công.",
+                                    "answer_start": 206
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 415. Xử lý các hành vi vi phạm pháp luật trong thời gian đình công. 1. Các hành vi vi phạm pháp luật trong thời gian đình công sẽ bị xử lý theo quy định của pháp luật. 2. Các cơ quan có thẩm quyền có trách nhiệm giám sát và xử lý các hành vi vi phạm pháp luật trong thời gian đình công.",
+                    "qas": [
+                        {
+                            "id": "23",
+                            "question": "Các hành vi vi phạm pháp luật trong thời gian đình công sẽ bị xử lý như thế nào?",
+                            "answers": [
+                                {
+                                    "text": "Các hành vi vi phạm pháp luật trong thời gian đình công sẽ bị xử lý theo quy định của pháp luật.",
+                                    "answer_start": 66
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "24",
+                            "question": "Các cơ quan có thẩm quyền có trách nhiệm gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Các cơ quan có thẩm quyền có trách nhiệm giám sát và xử lý các hành vi vi phạm pháp luật trong thời gian đình công.",
+                                    "answer_start": 133
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 416. Quyền của người sử dụng lao động trong việc bảo vệ tài sản trong thời gian đình công. 1. Người sử dụng lao động có quyền bảo vệ tài sản của mình trong thời gian đình công. 2. Người sử dụng lao động phải thông báo cho cơ quan có thẩm quyền về các biện pháp bảo vệ tài sản trong thời gian đình công.",
+                    "qas": [
+                        {
+                            "id": "25",
+                            "question": "Người sử dụng lao động có quyền gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có quyền bảo vệ tài sản của mình trong thời gian đình công.",
+                                    "answer_start": 61
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "26",
+                            "question": "Người sử dụng lao động phải làm gì về các biện pháp bảo vệ tài sản trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải thông báo cho cơ quan có thẩm quyền về các biện pháp bảo vệ tài sản trong thời gian đình công.",
+                                    "answer_start": 113
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 417. Trách nhiệm của người lao động trong việc bảo vệ tài sản của người sử dụng lao động trong thời gian đình công. 1. Người lao động có trách nhiệm bảo vệ tài sản của người sử dụng lao động trong thời gian đình công. 2. Người lao động không được có hành vi phá hoại hoặc chiếm đoạt tài sản của người sử dụng lao động trong thời gian đình công.",
+                    "qas": [
+                        {
+                            "id": "27",
+                            "question": "Người lao động có trách nhiệm gì về tài sản của người sử dụng lao động trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có trách nhiệm bảo vệ tài sản của người sử dụng lao động trong thời gian đình công.",
+                                    "answer_start": 54
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "28",
+                            "question": "Người lao động không được có hành vi gì về tài sản của người sử dụng lao động trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động không được có hành vi phá hoại hoặc chiếm đoạt tài sản của người sử dụng lao động trong thời gian đình công.",
+                                    "answer_start": 131
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 418. Quyền và nghĩa vụ của các bên trong việc đảm bảo an toàn lao động trong thời gian đình công. 1. Các bên có quyền yêu cầu đảm bảo an toàn lao động trong thời gian đình công. 2. Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về an toàn lao động trong thời gian đình công.",
+                    "qas": [
+                        {
+                            "id": "29",
+                            "question": "Các bên có quyền yêu cầu gì trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có quyền yêu cầu đảm bảo an toàn lao động trong thời gian đình công.",
+                                    "answer_start": 61
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "30",
+                            "question": "Các bên có nghĩa vụ gì về an toàn lao động trong thời gian đình công?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về an toàn lao động trong thời gian đình công.",
+                                    "answer_start": 125
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 419. Quyền của người lao động trong việc yêu cầu đàm phán lại thỏa ước lao động tập thể. 1. Người lao động có quyền yêu cầu đàm phán lại thỏa ước lao động tập thể khi có sự thay đổi lớn về điều kiện lao động. 2. Người lao động có thể yêu cầu tổ chức đại diện người lao động đàm phán lại thỏa ước lao động tập thể.",
+                    "qas": [
+                        {
+                            "id": "31",
+                            "question": "Người lao động có quyền yêu cầu gì về thỏa ước lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu đàm phán lại thỏa ước lao động tập thể khi có sự thay đổi lớn về điều kiện lao động.",
+                                    "answer_start": 56
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "32",
+                            "question": "Người lao động có thể yêu cầu ai đàm phán lại thỏa ước lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể yêu cầu tổ chức đại diện người lao động đàm phán lại thỏa ước lao động tập thể.",
+                                    "answer_start": 151
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 420. Nghĩa vụ của người sử dụng lao động trong việc đàm phán lại thỏa ước lao động tập thể. 1. Người sử dụng lao động có nghĩa vụ tham gia đàm phán lại thỏa ước lao động tập thể khi có yêu cầu chính đáng từ người lao động. 2. Người sử dụng lao động phải tuân thủ các quy định của pháp luật về việc đàm phán lại thỏa ước lao động tập thể.",
+                    "qas": [
+                        {
+                            "id": "33",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì về thỏa ước lao động tập thể khi có yêu cầu từ người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ tham gia đàm phán lại thỏa ước lao động tập thể khi có yêu cầu chính đáng từ người lao động.",
+                                    "answer_start": 69
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "34",
+                            "question": "Người sử dụng lao động phải tuân thủ các quy định của pháp luật về điều gì?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tuân thủ các quy định của pháp luật về việc đàm phán lại thỏa ước lao động tập thể.",
+                                    "answer_start": 155
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 421. Trách nhiệm của các bên trong việc thực hiện thỏa ước lao động tập thể. 1. Các bên có trách nhiệm tuân thủ và thực hiện đầy đủ các điều khoản của thỏa ước lao động tập thể. 2. Các bên có nghĩa vụ giải quyết các tranh chấp phát sinh trong quá trình thực hiện thỏa ước lao động tập thể thông qua hòa giải hoặc trọng tài lao động.",
+                    "qas": [
+                        {
+                            "id": "35",
+                            "question": "Các bên có trách nhiệm gì trong việc thực hiện thỏa ước lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có trách nhiệm tuân thủ và thực hiện đầy đủ các điều khoản của thỏa ước lao động tập thể.",
+                                    "answer_start": 56
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "36",
+                            "question": "Các bên có nghĩa vụ gì về giải quyết các tranh chấp phát sinh trong quá trình thực hiện thỏa ước lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ giải quyết các tranh chấp phát sinh trong quá trình thực hiện thỏa ước lao động tập thể thông qua hòa giải hoặc trọng tài lao động.",
+                                    "answer_start": 140
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 422. Quyền của người lao động trong việc yêu cầu bảo vệ quyền lợi hợp pháp. 1. Người lao động có quyền yêu cầu tổ chức đại diện người lao động bảo vệ quyền lợi hợp pháp của mình trong quá trình thực hiện thỏa ước lao động tập thể. 2. Người lao động có quyền yêu cầu cơ quan nhà nước có thẩm quyền giải quyết các tranh chấp lao động.",
+                    "qas": [
+                        {
+                            "id": "37",
+                            "question": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động làm gì trong quá trình thực hiện thỏa ước lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động bảo vệ quyền lợi hợp pháp của mình trong quá trình thực hiện thỏa ước lao động tập thể.",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "38",
+                            "question": "Người lao động có quyền yêu cầu ai giải quyết các tranh chấp lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu cơ quan nhà nước có thẩm quyền giải quyết các tranh chấp lao động.",
+                                    "answer_start": 170
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 423. Nghĩa vụ của người sử dụng lao động trong việc bảo vệ quyền lợi hợp pháp của người lao động. 1. Người sử dụng lao động có nghĩa vụ bảo vệ quyền lợi hợp pháp của người lao động trong quá trình thực hiện thỏa ước lao động tập thể. 2. Người sử dụng lao động phải giải quyết các tranh chấp phát sinh trong quá trình thực hiện thỏa ước lao động tập thể theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "39",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc bảo vệ quyền lợi hợp pháp của người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo vệ quyền lợi hợp pháp của người lao động trong quá trình thực hiện thỏa ước lao động tập thể.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "40",
+                            "question": "Người sử dụng lao động phải giải quyết các tranh chấp phát sinh trong quá trình thực hiện thỏa ước lao động tập thể theo điều gì?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải giải quyết các tranh chấp phát sinh trong quá trình thực hiện thỏa ước lao động tập thể theo quy định của pháp luật.",
+                                    "answer_start": 177
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 424. Quyền và nghĩa vụ của các bên trong việc giải quyết tranh chấp lao động. 1. Các bên có quyền yêu cầu hòa giải hoặc trọng tài lao động giải quyết các tranh chấp lao động phát sinh trong quá trình thực hiện thỏa ước lao động tập thể. 2. Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về việc giải quyết tranh chấp lao động.",
+                    "qas": [
+                        {
+                            "id": "41",
+                            "question": "Các bên có quyền yêu cầu gì trong việc giải quyết tranh chấp lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có quyền yêu cầu hòa giải hoặc trọng tài lao động giải quyết các tranh chấp lao động phát sinh trong quá trình thực hiện thỏa ước lao động tập thể.",
+                                    "answer_start": 62
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "42",
+                            "question": "Các bên có nghĩa vụ gì về việc giải quyết tranh chấp lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về việc giải quyết tranh chấp lao động.",
+                                    "answer_start": 157
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 425. Trách nhiệm của cơ quan nhà nước trong việc giải quyết tranh chấp lao động. 1. Cơ quan nhà nước có thẩm quyền có trách nhiệm giải quyết tranh chấp lao động theo quy định của pháp luật. 2. Cơ quan nhà nước có trách nhiệm giám sát và xử lý các hành vi vi phạm pháp luật trong quá trình giải quyết tranh chấp lao động.",
+                    "qas": [
+                        {
+                            "id": "43",
+                            "question": "Cơ quan nhà nước có thẩm quyền có trách nhiệm gì trong việc giải quyết tranh chấp lao động?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có thẩm quyền có trách nhiệm giải quyết tranh chấp lao động theo quy định của pháp luật.",
+                                    "answer_start": 73
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "44",
+                            "question": "Cơ quan nhà nước có trách nhiệm gì trong quá trình giải quyết tranh chấp lao động?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có trách nhiệm giám sát và xử lý các hành vi vi phạm pháp luật trong quá trình giải quyết tranh chấp lao động.",
+                                    "answer_start": 158
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 426. Quyền của người lao động trong việc yêu cầu giải quyết tranh chấp lao động tập thể. 1. Người lao động có quyền yêu cầu giải quyết tranh chấp lao động tập thể thông qua hòa giải hoặc trọng tài lao động. 2. Người lao động có thể yêu cầu cơ quan nhà nước có thẩm quyền giải quyết tranh chấp lao động tập thể theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "45",
+                            "question": "Người lao động có quyền yêu cầu gì trong việc giải quyết tranh chấp lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu giải quyết tranh chấp lao động tập thể thông qua hòa giải hoặc trọng tài lao động.",
+                                    "answer_start": 57
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "46",
+                            "question": "Người lao động có thể yêu cầu ai giải quyết tranh chấp lao động tập thể theo quy định của pháp luật?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có thể yêu cầu cơ quan nhà nước có thẩm quyền giải quyết tranh chấp lao động tập thể theo quy định của pháp luật.",
+                                    "answer_start": 140
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 427. Nghĩa vụ của người sử dụng lao động trong việc giải quyết tranh chấp lao động tập thể. 1. Người sử dụng lao động có nghĩa vụ tham gia giải quyết tranh chấp lao động tập thể thông qua hòa giải hoặc trọng tài lao động. 2. Người sử dụng lao động phải tuân thủ các quy định của pháp luật về việc giải quyết tranh chấp lao động tập thể.",
+                    "qas": [
+                        {
+                            "id": "47",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc giải quyết tranh chấp lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ tham gia giải quyết tranh chấp lao động tập thể thông qua hòa giải hoặc trọng tài lao động.",
+                                    "answer_start": 72
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "48",
+                            "question": "Người sử dụng lao động phải tuân thủ các quy định của pháp luật về điều gì?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động phải tuân thủ các quy định của pháp luật về việc giải quyết tranh chấp lao động tập thể.",
+                                    "answer_start": 161
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 428. Trách nhiệm của tổ chức đại diện người lao động trong việc giải quyết tranh chấp lao động tập thể. 1. Tổ chức đại diện người lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người lao động trong quá trình giải quyết tranh chấp lao động tập thể. 2. Tổ chức đại diện người lao động có nghĩa vụ tham gia giải quyết tranh chấp lao động tập thể theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "49",
+                            "question": "Tổ chức đại diện người lao động có trách nhiệm gì trong việc giải quyết tranh chấp lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người lao động trong quá trình giải quyết tranh chấp lao động tập thể.",
+                                    "answer_start": 79
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "50",
+                            "question": "Tổ chức đại diện người lao động có nghĩa vụ gì trong việc giải quyết tranh chấp lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có nghĩa vụ tham gia giải quyết tranh chấp lao động tập thể theo quy định của pháp luật.",
+                                    "answer_start": 186
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 429. Quyền của tổ chức đại diện người sử dụng lao động trong việc yêu cầu giải quyết tranh chấp lao động tập thể. 1. Tổ chức đại diện người sử dụng lao động có quyền yêu cầu giải quyết tranh chấp lao động tập thể thông qua hòa giải hoặc trọng tài lao động. 2. Tổ chức đại diện người sử dụng lao động có quyền yêu cầu cơ quan nhà nước có thẩm quyền giải quyết tranh chấp lao động tập thể theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "51",
+                            "question": "Tổ chức đại diện người sử dụng lao động có quyền yêu cầu gì trong việc giải quyết tranh chấp lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có quyền yêu cầu giải quyết tranh chấp lao động tập thể thông qua hòa giải hoặc trọng tài lao động.",
+                                    "answer_start": 78
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "52",
+                            "question": "Tổ chức đại diện người sử dụng lao động có quyền yêu cầu ai giải quyết tranh chấp lao động tập thể theo quy định của pháp luật?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có quyền yêu cầu cơ quan nhà nước có thẩm quyền giải quyết tranh chấp lao động tập thể theo quy định của pháp luật.",
+                                    "answer_start": 165
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 430. Nghĩa vụ của tổ chức đại diện người sử dụng lao động trong việc giải quyết tranh chấp lao động tập thể. 1. Tổ chức đại diện người sử dụng lao động có nghĩa vụ bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình giải quyết tranh chấp lao động tập thể. 2. Tổ chức đại diện người sử dụng lao động có trách nhiệm tham gia giải quyết tranh chấp lao động tập thể theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "53",
+                            "question": "Tổ chức đại diện người sử dụng lao động có nghĩa vụ gì trong việc giải quyết tranh chấp lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có nghĩa vụ bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình giải quyết tranh chấp lao động tập thể.",
+                                    "answer_start": 79
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "54",
+                            "question": "Tổ chức đại diện người sử dụng lao động có trách nhiệm gì trong việc giải quyết tranh chấp lao động tập thể?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có trách nhiệm tham gia giải quyết tranh chấp lao động tập thể theo quy định của pháp luật.",
+                                    "answer_start": 186
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 431. Quyền và nghĩa vụ của các bên trong việc thực hiện thỏa thuận về điều kiện lao động. 1. Các bên có quyền thỏa thuận về điều kiện lao động phù hợp với quy định của pháp luật. 2. Các bên có nghĩa vụ tuân thủ và thực hiện đầy đủ các điều khoản của thỏa thuận về điều kiện lao động.",
+                    "qas": [
+                        {
+                            "id": "55",
+                            "question": "Các bên có quyền thỏa thuận về điều gì?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có quyền thỏa thuận về điều kiện lao động phù hợp với quy định của pháp luật.",
+                                    "answer_start": 53
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "56",
+                            "question": "Các bên có nghĩa vụ gì trong việc thực hiện thỏa thuận về điều kiện lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ tuân thủ và thực hiện đầy đủ các điều khoản của thỏa thuận về điều kiện lao động.",
+                                    "answer_start": 130
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 432. Trách nhiệm của các bên trong việc giải quyết tranh chấp về điều kiện lao động. 1. Các bên có trách nhiệm giải quyết tranh chấp về điều kiện lao động thông qua hòa giải hoặc trọng tài lao động. 2. Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về việc giải quyết tranh chấp về điều kiện lao động.",
+                    "qas": [
+                        {
+                            "id": "57",
+                            "question": "Các bên có trách nhiệm gì trong việc giải quyết tranh chấp về điều kiện lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có trách nhiệm giải quyết tranh chấp về điều kiện lao động thông qua hòa giải hoặc trọng tài lao động.",
+                                    "answer_start": 65
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "58",
+                            "question": "Các bên có nghĩa vụ gì về việc giải quyết tranh chấp về điều kiện lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về việc giải quyết tranh chấp về điều kiện lao động.",
+                                    "answer_start": 151
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 433. Quyền và nghĩa vụ của người lao động trong việc thực hiện điều kiện lao động. 1. Người lao động có quyền yêu cầu người sử dụng lao động thực hiện đầy đủ các điều khoản về điều kiện lao động đã thỏa thuận. 2. Người lao động có nghĩa vụ tuân thủ và thực hiện đầy đủ các điều khoản về điều kiện lao động đã thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "59",
+                            "question": "Người lao động có quyền yêu cầu gì về điều kiện lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu người sử dụng lao động thực hiện đầy đủ các điều khoản về điều kiện lao động đã thỏa thuận.",
+                                    "answer_start": 65
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "60",
+                            "question": "Người lao động có nghĩa vụ gì về điều kiện lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ và thực hiện đầy đủ các điều khoản về điều kiện lao động đã thỏa thuận.",
+                                    "answer_start": 158
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 434. Nghĩa vụ của người sử dụng lao động trong việc thực hiện điều kiện lao động. 1. Người sử dụng lao động có nghĩa vụ thực hiện đầy đủ các điều khoản về điều kiện lao động đã thỏa thuận với người lao động. 2. Người sử dụng lao động có trách nhiệm bảo đảm điều kiện làm việc an toàn, vệ sinh lao động và không gây nguy hiểm cho sức khỏe của người lao động.",
+                    "qas": [
+                        {
+                            "id": "61",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì về điều kiện lao động đã thỏa thuận với người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ thực hiện đầy đủ các điều khoản về điều kiện lao động đã thỏa thuận với người lao động.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "62",
+                            "question": "Người sử dụng lao động có trách nhiệm bảo đảm điều gì về điều kiện làm việc?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm bảo đảm điều kiện làm việc an toàn, vệ sinh lao động và không gây nguy hiểm cho sức khỏe của người lao động.",
+                                    "answer_start": 166
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 435. Quyền và nghĩa vụ của người sử dụng lao động trong việc kiểm tra, giám sát thực hiện điều kiện lao động. 1. Người sử dụng lao động có quyền kiểm tra, giám sát việc thực hiện điều kiện lao động của người lao động. 2. Người sử dụng lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc kiểm tra, giám sát thực hiện điều kiện lao động.",
+                    "qas": [
+                        {
+                            "id": "63",
+                            "question": "Người sử dụng lao động có quyền gì trong việc thực hiện điều kiện lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có quyền kiểm tra, giám sát việc thực hiện điều kiện lao động của người lao động.",
+                                    "answer_start": 76
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "64",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì về việc kiểm tra, giám sát thực hiện điều kiện lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc kiểm tra, giám sát thực hiện điều kiện lao động.",
+                                    "answer_start": 160
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 436. Trách nhiệm của người lao động trong việc tuân thủ điều kiện lao động. 1. Người lao động có trách nhiệm tuân thủ các điều khoản về điều kiện lao động đã thỏa thuận với người sử dụng lao động. 2. Người lao động có nghĩa vụ thông báo cho người sử dụng lao động về các nguy cơ hoặc sự cố liên quan đến điều kiện làm việc.",
+                    "qas": [
+                        {
+                            "id": "65",
+                            "question": "Người lao động có trách nhiệm gì về điều kiện lao động đã thỏa thuận với người sử dụng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có trách nhiệm tuân thủ các điều khoản về điều kiện lao động đã thỏa thuận với người sử dụng lao động.",
+                                    "answer_start": 65
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "66",
+                            "question": "Người lao động có nghĩa vụ thông báo cho ai về các nguy cơ hoặc sự cố liên quan đến điều kiện làm việc?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ thông báo cho người sử dụng lao động về các nguy cơ hoặc sự cố liên quan đến điều kiện làm việc.",
+                                    "answer_start": 156
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 437. Quyền và nghĩa vụ của tổ chức đại diện người lao động trong việc bảo vệ quyền lợi người lao động. 1. Tổ chức đại diện người lao động có quyền yêu cầu người sử dụng lao động thực hiện đầy đủ các điều khoản về điều kiện lao động đã thỏa thuận với người lao động. 2. Tổ chức đại diện người lao động có nghĩa vụ tham gia giám sát việc thực hiện điều kiện lao động và bảo vệ quyền lợi của người lao động.",
+                    "qas": [
+                        {
+                            "id": "67",
+                            "question": "Tổ chức đại diện người lao động có quyền yêu cầu gì về điều kiện lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có quyền yêu cầu người sử dụng lao động thực hiện đầy đủ các điều khoản về điều kiện lao động đã thỏa thuận với người lao động.",
+                                    "answer_start": 78
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "68",
+                            "question": "Tổ chức đại diện người lao động có nghĩa vụ gì trong việc bảo vệ quyền lợi của người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có nghĩa vụ tham gia giám sát việc thực hiện điều kiện lao động và bảo vệ quyền lợi của người lao động.",
+                                    "answer_start": 187
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 438. Nghĩa vụ của tổ chức đại diện người sử dụng lao động trong việc bảo vệ quyền lợi người sử dụng lao động. 1. Tổ chức đại diện người sử dụng lao động có nghĩa vụ bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình thực hiện điều kiện lao động. 2. Tổ chức đại diện người sử dụng lao động có trách nhiệm giám sát việc thực hiện điều kiện lao động của người lao động.",
+                    "qas": [
+                        {
+                            "id": "69",
+                            "question": "Tổ chức đại diện người sử dụng lao động có nghĩa vụ gì trong việc bảo vệ quyền lợi người sử dụng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có nghĩa vụ bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình thực hiện điều kiện lao động.",
+                                    "answer_start": 77
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "70",
+                            "question": "Tổ chức đại diện người sử dụng lao động có trách nhiệm gì trong việc giám sát?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có trách nhiệm giám sát việc thực hiện điều kiện lao động của người lao động.",
+                                    "answer_start": 172
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 439. Quyền và nghĩa vụ của tổ chức đại diện người lao động trong việc tham gia xây dựng và thực hiện chính sách lao động. 1. Tổ chức đại diện người lao động có quyền tham gia xây dựng và thực hiện chính sách lao động. 2. Tổ chức đại diện người lao động có nghĩa vụ bảo vệ quyền lợi của người lao động trong quá trình xây dựng và thực hiện chính sách lao động.",
+                    "qas": [
+                        {
+                            "id": "71",
+                            "question": "Tổ chức đại diện người lao động có quyền gì trong việc tham gia xây dựng chính sách lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có quyền tham gia xây dựng và thực hiện chính sách lao động.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "72",
+                            "question": "Tổ chức đại diện người lao động có nghĩa vụ gì trong quá trình xây dựng và thực hiện chính sách lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có nghĩa vụ bảo vệ quyền lợi của người lao động trong quá trình xây dựng và thực hiện chính sách lao động.",
+                                    "answer_start": 158
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 440. Nghĩa vụ của tổ chức đại diện người sử dụng lao động trong việc xây dựng và thực hiện chính sách lao động. 1. Tổ chức đại diện người sử dụng lao động có nghĩa vụ bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình xây dựng và thực hiện chính sách lao động. 2. Tổ chức đại diện người sử dụng lao động có trách nhiệm giám sát việc thực hiện chính sách lao động của người lao động.",
+                    "qas": [
+                        {
+                            "id": "73",
+                            "question": "Tổ chức đại diện người sử dụng lao động có nghĩa vụ gì trong việc bảo vệ quyền lợi người sử dụng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có nghĩa vụ bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình xây dựng và thực hiện chính sách lao động.",
+                                    "answer_start": 77
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "74",
+                            "question": "Tổ chức đại diện người sử dụng lao động có trách nhiệm gì trong việc giám sát?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có trách nhiệm giám sát việc thực hiện chính sách lao động của người lao động.",
+                                    "answer_start": 172
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 441. Quyền và nghĩa vụ của các bên trong việc thực hiện các cam kết về điều kiện lao động. 1. Các bên có quyền yêu cầu thực hiện đầy đủ các cam kết về điều kiện lao động. 2. Các bên có nghĩa vụ tuân thủ và thực hiện đầy đủ các cam kết về điều kiện lao động.",
+                    "qas": [
+                        {
+                            "id": "75",
+                            "question": "Các bên có quyền yêu cầu gì về điều kiện lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có quyền yêu cầu thực hiện đầy đủ các cam kết về điều kiện lao động.",
+                                    "answer_start": 57
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "76",
+                            "question": "Các bên có nghĩa vụ gì về điều kiện lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ tuân thủ và thực hiện đầy đủ các cam kết về điều kiện lao động.",
+                                    "answer_start": 109
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

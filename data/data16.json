@@ -1,0 +1,1036 @@
+{
+    "version": "v2.0",
+    "data": [
+        {
+            "title": "Bộ luật lao động Việt Nam 2019 - Chương XVI",
+            "paragraphs": [
+                {
+                    "context": "Điều 442. Quyền và nghĩa vụ của các bên trong việc thực hiện hợp đồng lao động. 1. Người lao động có quyền yêu cầu người sử dụng lao động thực hiện đầy đủ các điều khoản của hợp đồng lao động. 2. Người lao động có nghĩa vụ tuân thủ và thực hiện đầy đủ các điều khoản của hợp đồng lao động.",
+                    "qas": [
+                        {
+                            "id": "1",
+                            "question": "Người lao động có quyền yêu cầu gì trong việc thực hiện hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu người sử dụng lao động thực hiện đầy đủ các điều khoản của hợp đồng lao động.",
+                                    "answer_start": 59
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "2",
+                            "question": "Người lao động có nghĩa vụ gì trong việc thực hiện hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ và thực hiện đầy đủ các điều khoản của hợp đồng lao động.",
+                                    "answer_start": 139
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 443. Quyền và nghĩa vụ của người sử dụng lao động trong việc thực hiện hợp đồng lao động. 1. Người sử dụng lao động có quyền yêu cầu người lao động thực hiện đầy đủ các điều khoản của hợp đồng lao động. 2. Người sử dụng lao động có nghĩa vụ tuân thủ và thực hiện đầy đủ các điều khoản của hợp đồng lao động.",
+                    "qas": [
+                        {
+                            "id": "3",
+                            "question": "Người sử dụng lao động có quyền yêu cầu gì trong việc thực hiện hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có quyền yêu cầu người lao động thực hiện đầy đủ các điều khoản của hợp đồng lao động.",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "4",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc thực hiện hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ tuân thủ và thực hiện đầy đủ các điều khoản của hợp đồng lao động.",
+                                    "answer_start": 139
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 444. Trách nhiệm của các bên trong việc sửa đổi, bổ sung hợp đồng lao động. 1. Các bên có trách nhiệm thỏa thuận về việc sửa đổi, bổ sung hợp đồng lao động khi có sự thay đổi về điều kiện lao động. 2. Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về việc sửa đổi, bổ sung hợp đồng lao động.",
+                    "qas": [
+                        {
+                            "id": "5",
+                            "question": "Các bên có trách nhiệm gì trong việc sửa đổi, bổ sung hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có trách nhiệm thỏa thuận về việc sửa đổi, bổ sung hợp đồng lao động khi có sự thay đổi về điều kiện lao động.",
+                                    "answer_start": 55
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "6",
+                            "question": "Các bên có nghĩa vụ gì về việc sửa đổi, bổ sung hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về việc sửa đổi, bổ sung hợp đồng lao động.",
+                                    "answer_start": 152
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 445. Quyền và nghĩa vụ của người lao động trong việc đơn phương chấm dứt hợp đồng lao động. 1. Người lao động có quyền đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật. 2. Người lao động có nghĩa vụ thông báo cho người sử dụng lao động về việc đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "7",
+                            "question": "Người lao động có quyền gì trong việc đơn phương chấm dứt hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật.",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "8",
+                            "question": "Người lao động có nghĩa vụ gì khi đơn phương chấm dứt hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ thông báo cho người sử dụng lao động về việc đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật.",
+                                    "answer_start": 142
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 446. Quyền và nghĩa vụ của người sử dụng lao động trong việc đơn phương chấm dứt hợp đồng lao động. 1. Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật. 2. Người sử dụng lao động có nghĩa vụ thông báo cho người lao động về việc đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "9",
+                            "question": "Người sử dụng lao động có quyền gì trong việc đơn phương chấm dứt hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật.",
+                                    "answer_start": 61
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "10",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì khi đơn phương chấm dứt hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ thông báo cho người lao động về việc đơn phương chấm dứt hợp đồng lao động theo quy định của pháp luật.",
+                                    "answer_start": 143
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 447. Trách nhiệm của các bên trong việc thanh toán tiền lương và trợ cấp khi chấm dứt hợp đồng lao động. 1. Người sử dụng lao động có trách nhiệm thanh toán đầy đủ tiền lương và trợ cấp cho người lao động khi chấm dứt hợp đồng lao động. 2. Người lao động có trách nhiệm hoàn trả các khoản tiền ứng trước và các tài sản của người sử dụng lao động khi chấm dứt hợp đồng lao động.",
+                    "qas": [
+                        {
+                            "id": "11",
+                            "question": "Người sử dụng lao động có trách nhiệm gì khi chấm dứt hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm thanh toán đầy đủ tiền lương và trợ cấp cho người lao động khi chấm dứt hợp đồng lao động.",
+                                    "answer_start": 65
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "12",
+                            "question": "Người lao động có trách nhiệm gì khi chấm dứt hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có trách nhiệm hoàn trả các khoản tiền ứng trước và các tài sản của người sử dụng lao động khi chấm dứt hợp đồng lao động.",
+                                    "answer_start": 165
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 448. Quyền và nghĩa vụ của các bên trong việc chấm dứt hợp đồng lao động theo thỏa thuận. 1. Các bên có quyền thỏa thuận về việc chấm dứt hợp đồng lao động. 2. Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về việc chấm dứt hợp đồng lao động theo thỏa thuận.",
+                    "qas": [
+                        {
+                            "id": "13",
+                            "question": "Các bên có quyền gì trong việc chấm dứt hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có quyền thỏa thuận về việc chấm dứt hợp đồng lao động.",
+                                    "answer_start": 56
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "14",
+                            "question": "Các bên có nghĩa vụ gì về việc chấm dứt hợp đồng lao động theo thỏa thuận?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ tuân thủ các quy định của pháp luật về việc chấm dứt hợp đồng lao động theo thỏa thuận.",
+                                    "answer_start": 114
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 449. Quyền và nghĩa vụ của người lao động trong việc khiếu nại và giải quyết tranh chấp lao động. 1. Người lao động có quyền khiếu nại về các hành vi vi phạm hợp đồng lao động của người sử dụng lao động. 2. Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc giải quyết tranh chấp lao động.",
+                    "qas": [
+                        {
+                            "id": "15",
+                            "question": "Người lao động có quyền gì trong việc khiếu nại về hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền khiếu nại về các hành vi vi phạm hợp đồng lao động của người sử dụng lao động.",
+                                    "answer_start": 65
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "16",
+                            "question": "Người lao động có nghĩa vụ gì về việc giải quyết tranh chấp lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc giải quyết tranh chấp lao động.",
+                                    "answer_start": 145
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 450. Trách nhiệm của người sử dụng lao động trong việc giải quyết khiếu nại và tranh chấp lao động. 1. Người sử dụng lao động có trách nhiệm giải quyết khiếu nại của người lao động về các hành vi vi phạm hợp đồng lao động. 2. Người sử dụng lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc giải quyết tranh chấp lao động.",
+                    "qas": [
+                        {
+                            "id": "17",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc giải quyết khiếu nại của người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm giải quyết khiếu nại của người lao động về các hành vi vi phạm hợp đồng lao động.",
+                                    "answer_start": 67
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "18",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì về việc giải quyết tranh chấp lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc giải quyết tranh chấp lao động.",
+                                    "answer_start": 147
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 451. Quyền và nghĩa vụ của các bên trong việc thực hiện quyết định của cơ quan giải quyết tranh chấp lao động. 1. Các bên có quyền yêu cầu cơ quan giải quyết tranh chấp lao động thực hiện các biện pháp bảo đảm thực hiện quyết định giải quyết tranh chấp lao động. 2. Các bên có nghĩa vụ tuân thủ và thực hiện đầy đủ các quyết định của cơ quan giải quyết tranh chấp lao động.",
+                    "qas": [
+                        {
+                            "id": "19",
+                            "question": "Các bên có quyền yêu cầu gì về việc thực hiện quyết định giải quyết tranh chấp lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có quyền yêu cầu cơ quan giải quyết tranh chấp lao động thực hiện các biện pháp bảo đảm thực hiện quyết định giải quyết tranh chấp lao động.",
+                                    "answer_start": 71
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "20",
+                            "question": "Các bên có nghĩa vụ gì về việc thực hiện quyết định của cơ quan giải quyết tranh chấp lao động?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ tuân thủ và thực hiện đầy đủ các quyết định của cơ quan giải quyết tranh chấp lao động.",
+                                    "answer_start": 167
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 452. Quyền và nghĩa vụ của người lao động trong việc nhận trợ cấp thất nghiệp. 1. Người lao động có quyền nhận trợ cấp thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp. 2. Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc nhận trợ cấp thất nghiệp.",
+                    "qas": [
+                        {
+                            "id": "21",
+                            "question": "Người lao động có quyền gì trong việc nhận trợ cấp thất nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền nhận trợ cấp thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp.",
+                                    "answer_start": 57
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "22",
+                            "question": "Người lao động có nghĩa vụ gì về việc nhận trợ cấp thất nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc nhận trợ cấp thất nghiệp.",
+                                    "answer_start": 139
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 453. Nghĩa vụ của người sử dụng lao động trong việc thực hiện chế độ bảo hiểm thất nghiệp. 1. Người sử dụng lao động có nghĩa vụ tham gia đóng bảo hiểm thất nghiệp cho người lao động theo quy định của pháp luật. 2. Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc thực hiện chế độ bảo hiểm thất nghiệp.",
+                    "qas": [
+                        {
+                            "id": "23",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc thực hiện chế độ bảo hiểm thất nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ tham gia đóng bảo hiểm thất nghiệp cho người lao động theo quy định của pháp luật.",
+                                    "answer_start": 71
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "24",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc thực hiện chế độ bảo hiểm thất nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc thực hiện chế độ bảo hiểm thất nghiệp.",
+                                    "answer_start": 158
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 454. Quyền và nghĩa vụ của người lao động trong việc hưởng chế độ bảo hiểm y tế. 1. Người lao động có quyền hưởng chế độ bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế. 2. Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc hưởng chế độ bảo hiểm y tế.",
+                    "qas": [
+                        {
+                            "id": "25",
+                            "question": "Người lao động có quyền gì trong việc hưởng chế độ bảo hiểm y tế?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền hưởng chế độ bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế.",
+                                    "answer_start": 56
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "26",
+                            "question": "Người lao động có nghĩa vụ gì về việc hưởng chế độ bảo hiểm y tế?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc hưởng chế độ bảo hiểm y tế.",
+                                    "answer_start": 136
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 455. Nghĩa vụ của người sử dụng lao động trong việc thực hiện chế độ bảo hiểm y tế. 1. Người sử dụng lao động có nghĩa vụ tham gia đóng bảo hiểm y tế cho người lao động theo quy định của pháp luật. 2. Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc thực hiện chế độ bảo hiểm y tế.",
+                    "qas": [
+                        {
+                            "id": "27",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc thực hiện chế độ bảo hiểm y tế?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ tham gia đóng bảo hiểm y tế cho người lao động theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "28",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc thực hiện chế độ bảo hiểm y tế?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc thực hiện chế độ bảo hiểm y tế.",
+                                    "answer_start": 152
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 456. Quyền và nghĩa vụ của người lao động trong việc nhận chế độ bảo hiểm xã hội. 1. Người lao động có quyền nhận chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội. 2. Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc nhận chế độ bảo hiểm xã hội.",
+                    "qas": [
+                        {
+                            "id": "29",
+                            "question": "Người lao động có quyền gì trong việc nhận chế độ bảo hiểm xã hội?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền nhận chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội.",
+                                    "answer_start": 55
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "30",
+                            "question": "Người lao động có nghĩa vụ gì về việc nhận chế độ bảo hiểm xã hội?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc nhận chế độ bảo hiểm xã hội.",
+                                    "answer_start": 133
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 457. Nghĩa vụ của người sử dụng lao động trong việc thực hiện chế độ bảo hiểm xã hội. 1. Người sử dụng lao động có nghĩa vụ tham gia đóng bảo hiểm xã hội cho người lao động theo quy định của pháp luật. 2. Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc thực hiện chế độ bảo hiểm xã hội.",
+                    "qas": [
+                        {
+                            "id": "31",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc thực hiện chế độ bảo hiểm xã hội?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ tham gia đóng bảo hiểm xã hội cho người lao động theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "32",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc thực hiện chế độ bảo hiểm xã hội?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc thực hiện chế độ bảo hiểm xã hội.",
+                                    "answer_start": 151
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 458. Quyền và nghĩa vụ của người lao động trong việc hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp. 1. Người lao động có quyền hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật. 2. Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp.",
+                    "qas": [
+                        {
+                            "id": "33",
+                            "question": "Người lao động có quyền gì trong việc hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "34",
+                            "question": "Người lao động có nghĩa vụ gì về việc hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc hưởng chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp.",
+                                    "answer_start": 150
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 459. Nghĩa vụ của người sử dụng lao động trong việc thực hiện chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp. 1. Người sử dụng lao động có nghĩa vụ tham gia đóng bảo hiểm tai nạn lao động, bệnh nghề nghiệp cho người lao động theo quy định của pháp luật. 2. Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc thực hiện chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp.",
+                    "qas": [
+                        {
+                            "id": "35",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc thực hiện chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ tham gia đóng bảo hiểm tai nạn lao động, bệnh nghề nghiệp cho người lao động theo quy định của pháp luật.",
+                                    "answer_start": 75
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "36",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc thực hiện chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc thực hiện chế độ bảo hiểm tai nạn lao động, bệnh nghề nghiệp.",
+                                    "answer_start": 158
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 460. Quyền và nghĩa vụ của người lao động trong việc nghỉ hưu và hưởng lương hưu. 1. Người lao động có quyền nghỉ hưu và hưởng lương hưu theo quy định của pháp luật về bảo hiểm xã hội. 2. Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc nghỉ hưu và hưởng lương hưu.",
+                    "qas": [
+                        {
+                            "id": "37",
+                            "question": "Người lao động có quyền gì trong việc nghỉ hưu và hưởng lương hưu?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền nghỉ hưu và hưởng lương hưu theo quy định của pháp luật về bảo hiểm xã hội.",
+                                    "answer_start": 55
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "38",
+                            "question": "Người lao động có nghĩa vụ gì về việc nghỉ hưu và hưởng lương hưu?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc nghỉ hưu và hưởng lương hưu.",
+                                    "answer_start": 133
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 461. Nghĩa vụ của người sử dụng lao động trong việc thực hiện chế độ nghỉ hưu và hưởng lương hưu. 1. Người sử dụng lao động có nghĩa vụ tham gia đóng bảo hiểm xã hội cho người lao động để đảm bảo quyền lợi nghỉ hưu và hưởng lương hưu theo quy định của pháp luật. 2. Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc thực hiện chế độ nghỉ hưu và hưởng lương hưu.",
+                    "qas": [
+                        {
+                            "id": "39",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc thực hiện chế độ nghỉ hưu và hưởng lương hưu?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ tham gia đóng bảo hiểm xã hội cho người lao động để đảm bảo quyền lợi nghỉ hưu và hưởng lương hưu theo quy định của pháp luật.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "40",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc thực hiện chế độ nghỉ hưu và hưởng lương hưu?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc thực hiện chế độ nghỉ hưu và hưởng lương hưu.",
+                                    "answer_start": 176
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 462. Quyền và nghĩa vụ của người lao động trong việc nhận trợ cấp thôi việc. 1. Người lao động có quyền nhận trợ cấp thôi việc theo quy định của pháp luật. 2. Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc nhận trợ cấp thôi việc.",
+                    "qas": [
+                        {
+                            "id": "41",
+                            "question": "Người lao động có quyền gì trong việc nhận trợ cấp thôi việc?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền nhận trợ cấp thôi việc theo quy định của pháp luật.",
+                                    "answer_start": 55
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "42",
+                            "question": "Người lao động có nghĩa vụ gì về việc nhận trợ cấp thôi việc?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc nhận trợ cấp thôi việc.",
+                                    "answer_start": 119
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 463. Nghĩa vụ của người sử dụng lao động trong việc thanh toán trợ cấp thôi việc. 1. Người sử dụng lao động có nghĩa vụ thanh toán trợ cấp thôi việc cho người lao động theo quy định của pháp luật. 2. Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc nhận trợ cấp thôi việc.",
+                    "qas": [
+                        {
+                            "id": "43",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc thanh toán trợ cấp thôi việc?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ thanh toán trợ cấp thôi việc cho người lao động theo quy định của pháp luật.",
+                                    "answer_start": 65
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "44",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc thanh toán trợ cấp thôi việc?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm cung cấp đầy đủ thông tin và hỗ trợ người lao động trong việc nhận trợ cấp thôi việc.",
+                                    "answer_start": 148
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 464. Quyền và nghĩa vụ của người lao động trong việc yêu cầu bảo vệ quyền lợi hợp pháp. 1. Người lao động có quyền yêu cầu tổ chức đại diện người lao động bảo vệ quyền lợi hợp pháp của mình trong quá trình thực hiện các chế độ bảo hiểm. 2. Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc bảo vệ quyền lợi hợp pháp.",
+                    "qas": [
+                        {
+                            "id": "45",
+                            "question": "Người lao động có quyền yêu cầu gì trong việc bảo vệ quyền lợi hợp pháp?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động bảo vệ quyền lợi hợp pháp của mình trong quá trình thực hiện các chế độ bảo hiểm.",
+                                    "answer_start": 60
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "46",
+                            "question": "Người lao động có nghĩa vụ gì về việc bảo vệ quyền lợi hợp pháp?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ tuân thủ các quy định của pháp luật về việc bảo vệ quyền lợi hợp pháp.",
+                                    "answer_start": 158
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 465. Nghĩa vụ của người sử dụng lao động trong việc bảo vệ quyền lợi hợp pháp của người lao động. 1. Người sử dụng lao động có nghĩa vụ bảo vệ quyền lợi hợp pháp của người lao động trong quá trình thực hiện các chế độ bảo hiểm. 2. Người sử dụng lao động có trách nhiệm giải quyết các tranh chấp phát sinh trong quá trình thực hiện các chế độ bảo hiểm theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "47",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì trong việc bảo vệ quyền lợi hợp pháp của người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bảo vệ quyền lợi hợp pháp của người lao động trong quá trình thực hiện các chế độ bảo hiểm.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "48",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc giải quyết các tranh chấp về chế độ bảo hiểm?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm giải quyết các tranh chấp phát sinh trong quá trình thực hiện các chế độ bảo hiểm theo quy định của pháp luật.",
+                                    "answer_start": 158
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 466. Trách nhiệm của tổ chức đại diện người lao động trong việc bảo vệ quyền lợi hợp pháp của người lao động. 1. Tổ chức đại diện người lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người lao động trong quá trình thực hiện các chế độ bảo hiểm. 2. Tổ chức đại diện người lao động có nghĩa vụ tham gia giải quyết các tranh chấp phát sinh trong quá trình thực hiện các chế độ bảo hiểm theo quy định của pháp luật.",
+                    "qas": [
+                        {
+                            "id": "49",
+                            "question": "Tổ chức đại diện người lao động có trách nhiệm gì trong việc bảo vệ quyền lợi hợp pháp của người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người lao động trong quá trình thực hiện các chế độ bảo hiểm.",
+                                    "answer_start": 73
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "50",
+                            "question": "Tổ chức đại diện người lao động có nghĩa vụ gì trong việc giải quyết các tranh chấp phát sinh về chế độ bảo hiểm?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có nghĩa vụ tham gia giải quyết các tranh chấp phát sinh trong quá trình thực hiện các chế độ bảo hiểm theo quy định của pháp luật.",
+                                    "answer_start": 169
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 467. Quyền và nghĩa vụ của tổ chức đại diện người sử dụng lao động trong việc bảo vệ quyền lợi hợp pháp của người sử dụng lao động. 1. Tổ chức đại diện người sử dụng lao động có quyền yêu cầu người lao động tuân thủ các điều khoản của hợp đồng lao động và các quy định của pháp luật về chế độ bảo hiểm. 2. Tổ chức đại diện người sử dụng lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình thực hiện các chế độ bảo hiểm.",
+                    "qas": [
+                        {
+                            "id": "51",
+                            "question": "Tổ chức đại diện người sử dụng lao động có quyền yêu cầu gì trong việc bảo vệ quyền lợi hợp pháp?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có quyền yêu cầu người lao động tuân thủ các điều khoản của hợp đồng lao động và các quy định của pháp luật về chế độ bảo hiểm.",
+                                    "answer_start": 97
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "52",
+                            "question": "Tổ chức đại diện người sử dụng lao động có trách nhiệm gì trong việc bảo vệ quyền lợi hợp pháp?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình thực hiện các chế độ bảo hiểm.",
+                                    "answer_start": 189
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 468. Trách nhiệm của cơ quan nhà nước trong việc bảo vệ quyền lợi hợp pháp của người lao động. 1. Cơ quan nhà nước có thẩm quyền có trách nhiệm giám sát việc thực hiện các chế độ bảo hiểm cho người lao động. 2. Cơ quan nhà nước có thẩm quyền có nghĩa vụ xử lý các vi phạm pháp luật về chế độ bảo hiểm và bảo vệ quyền lợi hợp pháp của người lao động.",
+                    "qas": [
+                        {
+                            "id": "53",
+                            "question": "Cơ quan nhà nước có thẩm quyền có trách nhiệm gì trong việc bảo vệ quyền lợi hợp pháp của người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có thẩm quyền có trách nhiệm giám sát việc thực hiện các chế độ bảo hiểm cho người lao động.",
+                                    "answer_start": 82
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "54",
+                            "question": "Cơ quan nhà nước có thẩm quyền có nghĩa vụ gì trong việc xử lý các vi phạm pháp luật về chế độ bảo hiểm?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có thẩm quyền có nghĩa vụ xử lý các vi phạm pháp luật về chế độ bảo hiểm và bảo vệ quyền lợi hợp pháp của người lao động.",
+                                    "answer_start": 161
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 469. Quyền và nghĩa vụ của người lao động trong việc yêu cầu bảo vệ quyền lợi khi bị sa thải. 1. Người lao động có quyền yêu cầu cơ quan nhà nước có thẩm quyền bảo vệ quyền lợi hợp pháp của mình khi bị sa thải trái pháp luật. 2. Người lao động có nghĩa vụ cung cấp đầy đủ thông tin và chứng cứ để bảo vệ quyền lợi của mình khi bị sa thải.",
+                    "qas": [
+                        {
+                            "id": "55",
+                            "question": "Người lao động có quyền yêu cầu gì khi bị sa thải trái pháp luật?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu cơ quan nhà nước có thẩm quyền bảo vệ quyền lợi hợp pháp của mình khi bị sa thải trái pháp luật.",
+                                    "answer_start": 62
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "56",
+                            "question": "Người lao động có nghĩa vụ gì khi bị sa thải?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ cung cấp đầy đủ thông tin và chứng cứ để bảo vệ quyền lợi của mình khi bị sa thải.",
+                                    "answer_start": 151
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 470. Trách nhiệm của người sử dụng lao động trong việc bảo vệ quyền lợi của người lao động khi sa thải. 1. Người sử dụng lao động có trách nhiệm bảo vệ quyền lợi của người lao động khi sa thải theo quy định của pháp luật. 2. Người sử dụng lao động có nghĩa vụ bồi thường thiệt hại cho người lao động nếu sa thải trái pháp luật.",
+                    "qas": [
+                        {
+                            "id": "57",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc bảo vệ quyền lợi của người lao động khi sa thải?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm bảo vệ quyền lợi của người lao động khi sa thải theo quy định của pháp luật.",
+                                    "answer_start": 72
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "58",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì nếu sa thải trái pháp luật?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bồi thường thiệt hại cho người lao động nếu sa thải trái pháp luật.",
+                                    "answer_start": 144
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 471. Trách nhiệm của tổ chức đại diện người lao động trong việc bảo vệ quyền lợi của người lao động khi bị sa thải. 1. Tổ chức đại diện người lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người lao động khi bị sa thải. 2. Tổ chức đại diện người lao động có nghĩa vụ cung cấp thông tin và hỗ trợ người lao động trong việc khiếu nại và giải quyết tranh chấp lao động.",
+                    "qas": [
+                        {
+                            "id": "59",
+                            "question": "Tổ chức đại diện người lao động có trách nhiệm gì trong việc bảo vệ quyền lợi của người lao động khi bị sa thải?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người lao động khi bị sa thải.",
+                                    "answer_start": 68
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "60",
+                            "question": "Tổ chức đại diện người lao động có nghĩa vụ gì trong việc cung cấp thông tin và hỗ trợ người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có nghĩa vụ cung cấp thông tin và hỗ trợ người lao động trong việc khiếu nại và giải quyết tranh chấp lao động.",
+                                    "answer_start": 158
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 472. Quyền và nghĩa vụ của tổ chức đại diện người sử dụng lao động trong việc bảo vệ quyền lợi hợp pháp của người sử dụng lao động. 1. Tổ chức đại diện người sử dụng lao động có quyền yêu cầu người lao động tuân thủ các quy định của pháp luật về việc thực hiện hợp đồng lao động. 2. Tổ chức đại diện người sử dụng lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình thực hiện hợp đồng lao động.",
+                    "qas": [
+                        {
+                            "id": "61",
+                            "question": "Tổ chức đại diện người sử dụng lao động có quyền yêu cầu gì về việc thực hiện hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có quyền yêu cầu người lao động tuân thủ các quy định của pháp luật về việc thực hiện hợp đồng lao động.",
+                                    "answer_start": 103
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "62",
+                            "question": "Tổ chức đại diện người sử dụng lao động có trách nhiệm gì trong việc thực hiện hợp đồng lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình thực hiện hợp đồng lao động.",
+                                    "answer_start": 198
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 473. Trách nhiệm của cơ quan nhà nước trong việc bảo vệ quyền lợi hợp pháp của người lao động khi bị sa thải. 1. Cơ quan nhà nước có thẩm quyền có trách nhiệm giám sát việc thực hiện các quy định của pháp luật về sa thải người lao động. 2. Cơ quan nhà nước có thẩm quyền có nghĩa vụ xử lý các vi phạm pháp luật về sa thải người lao động và bảo vệ quyền lợi hợp pháp của người lao động.",
+                    "qas": [
+                        {
+                            "id": "63",
+                            "question": "Cơ quan nhà nước có thẩm quyền có trách nhiệm gì trong việc bảo vệ quyền lợi hợp pháp của người lao động khi bị sa thải?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có thẩm quyền có trách nhiệm giám sát việc thực hiện các quy định của pháp luật về sa thải người lao động.",
+                                    "answer_start": 82
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "64",
+                            "question": "Cơ quan nhà nước có thẩm quyền có nghĩa vụ gì trong việc xử lý các vi phạm pháp luật về sa thải người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có thẩm quyền có nghĩa vụ xử lý các vi phạm pháp luật về sa thải người lao động và bảo vệ quyền lợi hợp pháp của người lao động.",
+                                    "answer_start": 163
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 474. Quyền và nghĩa vụ của người lao động trong việc yêu cầu giải quyết tranh chấp lao động khi bị sa thải. 1. Người lao động có quyền yêu cầu giải quyết tranh chấp lao động khi bị sa thải theo quy định của pháp luật. 2. Người lao động có nghĩa vụ cung cấp đầy đủ thông tin và chứng cứ để bảo vệ quyền lợi của mình khi bị sa thải.",
+                    "qas": [
+                        {
+                            "id": "65",
+                            "question": "Người lao động có quyền yêu cầu gì khi bị sa thải?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có quyền yêu cầu giải quyết tranh chấp lao động khi bị sa thải theo quy định của pháp luật.",
+                                    "answer_start": 55
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "66",
+                            "question": "Người lao động có nghĩa vụ gì khi bị sa thải?",
+                            "answers": [
+                                {
+                                    "text": "Người lao động có nghĩa vụ cung cấp đầy đủ thông tin và chứng cứ để bảo vệ quyền lợi của mình khi bị sa thải.",
+                                    "answer_start": 130
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 475. Trách nhiệm của người sử dụng lao động trong việc giải quyết tranh chấp lao động khi sa thải người lao động. 1. Người sử dụng lao động có trách nhiệm giải quyết tranh chấp lao động khi sa thải người lao động theo quy định của pháp luật. 2. Người sử dụng lao động có nghĩa vụ bồi thường thiệt hại cho người lao động nếu sa thải trái pháp luật.",
+                    "qas": [
+                        {
+                            "id": "67",
+                            "question": "Người sử dụng lao động có trách nhiệm gì trong việc giải quyết tranh chấp lao động khi sa thải người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có trách nhiệm giải quyết tranh chấp lao động khi sa thải người lao động theo quy định của pháp luật.",
+                                    "answer_start": 72
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "68",
+                            "question": "Người sử dụng lao động có nghĩa vụ gì nếu sa thải trái pháp luật?",
+                            "answers": [
+                                {
+                                    "text": "Người sử dụng lao động có nghĩa vụ bồi thường thiệt hại cho người lao động nếu sa thải trái pháp luật.",
+                                    "answer_start": 144
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 476. Trách nhiệm của tổ chức đại diện người lao động trong việc giải quyết tranh chấp lao động khi người lao động bị sa thải. 1. Tổ chức đại diện người lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người lao động khi bị sa thải. 2. Tổ chức đại diện người lao động có nghĩa vụ cung cấp thông tin và hỗ trợ người lao động trong việc khiếu nại và giải quyết tranh chấp lao động.",
+                    "qas": [
+                        {
+                            "id": "69",
+                            "question": "Tổ chức đại diện người lao động có trách nhiệm gì trong việc giải quyết tranh chấp lao động khi người lao động bị sa thải?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người lao động khi bị sa thải.",
+                                    "answer_start": 67
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "70",
+                            "question": "Tổ chức đại diện người lao động có nghĩa vụ gì trong việc cung cấp thông tin và hỗ trợ người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người lao động có nghĩa vụ cung cấp thông tin và hỗ trợ người lao động trong việc khiếu nại và giải quyết tranh chấp lao động.",
+                                    "answer_start": 157
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 477. Quyền và nghĩa vụ của tổ chức đại diện người sử dụng lao động trong việc giải quyết tranh chấp lao động khi sa thải người lao động. 1. Tổ chức đại diện người sử dụng lao động có quyền yêu cầu người lao động tuân thủ các quy định của pháp luật về việc sa thải. 2. Tổ chức đại diện người sử dụng lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình giải quyết tranh chấp lao động khi sa thải người lao động.",
+                    "qas": [
+                        {
+                            "id": "71",
+                            "question": "Tổ chức đại diện người sử dụng lao động có quyền yêu cầu gì về việc sa thải?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có quyền yêu cầu người lao động tuân thủ các quy định của pháp luật về việc sa thải.",
+                                    "answer_start": 95
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "72",
+                            "question": "Tổ chức đại diện người sử dụng lao động có trách nhiệm gì trong việc giải quyết tranh chấp lao động khi sa thải người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Tổ chức đại diện người sử dụng lao động có trách nhiệm bảo vệ quyền lợi hợp pháp của người sử dụng lao động trong quá trình giải quyết tranh chấp lao động khi sa thải người lao động.",
+                                    "answer_start": 193
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 478. Trách nhiệm của cơ quan nhà nước trong việc giải quyết tranh chấp lao động khi sa thải người lao động. 1. Cơ quan nhà nước có thẩm quyền có trách nhiệm giám sát việc thực hiện các quy định của pháp luật về sa thải người lao động. 2. Cơ quan nhà nước có thẩm quyền có nghĩa vụ xử lý các vi phạm pháp luật về sa thải người lao động và bảo vệ quyền lợi hợp pháp của người lao động.",
+                    "qas": [
+                        {
+                            "id": "73",
+                            "question": "Cơ quan nhà nước có thẩm quyền có trách nhiệm gì trong việc giải quyết tranh chấp lao động khi sa thải người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có thẩm quyền có trách nhiệm giám sát việc thực hiện các quy định của pháp luật về sa thải người lao động.",
+                                    "answer_start": 82
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "74",
+                            "question": "Cơ quan nhà nước có thẩm quyền có nghĩa vụ gì trong việc xử lý các vi phạm pháp luật về sa thải người lao động?",
+                            "answers": [
+                                {
+                                    "text": "Cơ quan nhà nước có thẩm quyền có nghĩa vụ xử lý các vi phạm pháp luật về sa thải người lao động và bảo vệ quyền lợi hợp pháp của người lao động.",
+                                    "answer_start": 163
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                },
+                {
+                    "context": "Điều 479. Quyền và nghĩa vụ của các bên trong việc bảo vệ quyền lợi hợp pháp của người lao động khi bị sa thải. 1. Các bên có quyền yêu cầu cơ quan nhà nước có thẩm quyền bảo vệ quyền lợi hợp pháp của người lao động khi bị sa thải trái pháp luật. 2. Các bên có nghĩa vụ cung cấp đầy đủ thông tin và chứng cứ để bảo vệ quyền lợi của người lao động khi bị sa thải.",
+                    "qas": [
+                        {
+                            "id": "75",
+                            "question": "Các bên có quyền yêu cầu gì khi người lao động bị sa thải trái pháp luật?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có quyền yêu cầu cơ quan nhà nước có thẩm quyền bảo vệ quyền lợi hợp pháp của người lao động khi bị sa thải trái pháp luật.",
+                                    "answer_start": 66
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "id": "76",
+                            "question": "Các bên có nghĩa vụ gì về việc bảo vệ quyền lợi của người lao động khi bị sa thải?",
+                            "answers": [
+                                {
+                                    "text": "Các bên có nghĩa vụ cung cấp đầy đủ thông tin và chứng cứ để bảo vệ quyền lợi của người lao động khi bị sa thải.",
+                                    "answer_start": 148
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
