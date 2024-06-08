@@ -495,219 +495,215 @@
                                     "answer_start": 3983
                                 }
                             ]
-                        },
+                        }
+                    ]
+                },
+                {
+                    "context": "Chương IV của Bộ luật Lao động Việt Nam quy định về việc học nghề, đào tạo, bồi dưỡng nâng cao trình độ kỹ năng nghề. Nội dung chính bao gồm các quy định về học nghề, đào tạo nghề, bồi dưỡng nâng cao trình độ kỹ năng nghề, trách nhiệm của doanh nghiệp trong đào tạo người lao động, và quyền lợi của người lao động khi tham gia các chương trình đào tạo.",
+                    "qas": [
                         {
-                            "context": "Chương IV của Bộ luật Lao động Việt Nam quy định về việc học nghề, đào tạo, bồi dưỡng nâng cao trình độ kỹ năng nghề. Nội dung chính bao gồm các quy định về học nghề, đào tạo nghề, bồi dưỡng nâng cao trình độ kỹ năng nghề, trách nhiệm của doanh nghiệp trong đào tạo người lao động, và quyền lợi của người lao động khi tham gia các chương trình đào tạo.",
-                            "qas": [
-                              {
-                                "id": "51",
-                                "question": "Người lao động có được nghỉ phép khi tham gia chương trình đào tạo nghề không?",
-                                "answers": [
-                                  {
+                            "id": "51",
+                            "question": "Người lao động có được nghỉ phép khi tham gia chương trình đào tạo nghề không?",
+                            "answers": [
+                                {
                                     "text": "Người lao động có thể được nghỉ phép để tham gia chương trình đào tạo nghề nếu có thỏa thuận với doanh nghiệp.",
                                     "answer_start": 414
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "52",
-                                "question": "Chương trình đào tạo nghề có phải đăng ký với cơ quan nhà nước không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "52",
+                            "question": "Chương trình đào tạo nghề có phải đăng ký với cơ quan nhà nước không?",
+                            "answers": [
+                                {
                                     "text": "Có, các chương trình đào tạo nghề phải được đăng ký với cơ quan nhà nước có thẩm quyền để đảm bảo tuân thủ các quy định pháp luật.",
                                     "answer_start": 472
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "53",
-                                "question": "Người lao động có thể tham gia các chương trình đào tạo trực tuyến không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "53",
+                            "question": "Người lao động có thể tham gia các chương trình đào tạo trực tuyến không?",
+                            "answers": [
+                                {
                                     "text": "Có, người lao động có thể tham gia các chương trình đào tạo trực tuyến nếu chương trình đó đáp ứng các tiêu chuẩn về chất lượng và nội dung đào tạo.",
                                     "answer_start": 549
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "54",
-                                "question": "Doanh nghiệp có trách nhiệm đánh giá kết quả đào tạo nghề không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "54",
+                            "question": "Doanh nghiệp có trách nhiệm đánh giá kết quả đào tạo nghề không?",
+                            "answers": [
+                                {
                                     "text": "Có, doanh nghiệp có trách nhiệm đánh giá kết quả đào tạo nghề để đảm bảo người lao động đạt được kiến thức và kỹ năng cần thiết.",
                                     "answer_start": 622
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "55",
-                                "question": "Người lao động có thể yêu cầu cấp chứng chỉ đào tạo nghề không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "55",
+                            "question": "Người lao động có thể yêu cầu cấp chứng chỉ đào tạo nghề không?",
+                            "answers": [
+                                {
                                     "text": "Có, người lao động có thể yêu cầu cấp chứng chỉ hoặc bằng cấp sau khi hoàn thành chương trình đào tạo nghề nếu chương trình đó có quy định.",
                                     "answer_start": 714
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "56",
-                                "question": "Doanh nghiệp có thể tổ chức đào tạo nghề trong giờ làm việc không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "56",
+                            "question": "Doanh nghiệp có thể tổ chức đào tạo nghề trong giờ làm việc không?",
+                            "answers": [
+                                {
                                     "text": "Có, doanh nghiệp có thể tổ chức đào tạo nghề trong giờ làm việc nếu điều này không ảnh hưởng đến hoạt động sản xuất kinh doanh và có thỏa thuận với người lao động.",
                                     "answer_start": 787
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "57",
-                                "question": "Người lao động có trách nhiệm hoàn trả chi phí đào tạo nếu tự ý nghỉ việc không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "57",
+                            "question": "Người lao động có trách nhiệm hoàn trả chi phí đào tạo nếu tự ý nghỉ việc không?",
+                            "answers": [
+                                {
                                     "text": "Có, người lao động có thể phải hoàn trả chi phí đào tạo nếu tự ý nghỉ việc trái với thỏa thuận đã ký kết với doanh nghiệp.",
                                     "answer_start": 865
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "58",
-                                "question": "Doanh nghiệp có thể yêu cầu người lao động bồi thường nếu không hoàn thành chương trình đào tạo nghề không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "58",
+                            "question": "Doanh nghiệp có thể yêu cầu người lao động bồi thường nếu không hoàn thành chương trình đào tạo nghề không?",
+                            "answers": [
+                                {
                                     "text": "Có, doanh nghiệp có thể yêu cầu người lao động bồi thường nếu không hoàn thành chương trình đào tạo nghề theo thỏa thuận.",
                                     "answer_start": 950
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "59",
-                                "question": "Người lao động có được hỗ trợ tài chính khi tham gia chương trình đào tạo nghề không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "59",
+                            "question": "Người lao động có được hỗ trợ tài chính khi tham gia chương trình đào tạo nghề không?",
+                            "answers": [
+                                {
                                     "text": "Có, người lao động có thể được hỗ trợ tài chính từ doanh nghiệp hoặc các quỹ hỗ trợ đào tạo nghề.",
                                     "answer_start": 1039
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "60",
-                                "question": "Chương trình đào tạo nghề có thể được tổ chức ngoài nước không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "60",
+                            "question": "Chương trình đào tạo nghề có thể được tổ chức ngoài nước không?",
+                            "answers": [
+                                {
                                     "text": "Có, chương trình đào tạo nghề có thể được tổ chức ngoài nước nếu được cơ quan nhà nước có thẩm quyền phê duyệt.",
                                     "answer_start": 1137
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "61",
-                                "question": "Người lao động có quyền tham gia đào tạo nghề miễn phí không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "61",
+                            "question": "Người lao động có quyền tham gia đào tạo nghề miễn phí không?",
+                            "answers": [
+                                {
                                     "text": "Có, người lao động có thể tham gia đào tạo nghề miễn phí nếu doanh nghiệp hoặc các tổ chức đào tạo cung cấp.",
                                     "answer_start": 1224
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "62",
-                                "question": "Doanh nghiệp có thể ký hợp đồng đào tạo nghề với người lao động không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "62",
+                            "question": "Doanh nghiệp có thể ký hợp đồng đào tạo nghề với người lao động không?",
+                            "answers": [
+                                {
                                     "text": "Có, doanh nghiệp có thể ký hợp đồng đào tạo nghề với người lao động để quy định rõ quyền và trách nhiệm của hai bên trong quá trình đào tạo.",
                                     "answer_start": 1302
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "63",
-                                "question": "Người lao động có thể nhận hỗ trợ từ nhà nước khi tham gia đào tạo nghề không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "63",
+                            "question": "Người lao động có thể nhận hỗ trợ từ nhà nước khi tham gia đào tạo nghề không?",
+                            "answers": [
+                                {
                                     "text": "Có, người lao động có thể nhận hỗ trợ từ các chương trình, chính sách của nhà nước về đào tạo nghề.",
                                     "answer_start": 1381
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "64",
-                                "question": "Người lao động có quyền tham gia các khóa học nâng cao kỹ năng nghề không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "64",
+                            "question": "Người lao động có quyền tham gia các khóa học nâng cao kỹ năng nghề không?",
+                            "answers": [
+                                {
                                     "text": "Có, người lao động có quyền tham gia các khóa học nâng cao kỹ năng nghề để cải thiện trình độ chuyên môn và đáp ứng yêu cầu công việc.",
                                     "answer_start": 1474
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "65",
-                                "question": "Doanh nghiệp có thể phối hợp với các trường đại học để đào tạo nghề không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "65",
+                            "question": "Doanh nghiệp có thể phối hợp với các trường đại học để đào tạo nghề không?",
+                            "answers": [
+                                {
                                     "text": "Có, doanh nghiệp có thể phối hợp với các trường đại học, cơ sở giáo dục nghề nghiệp để tổ chức các chương trình đào tạo nghề cho người lao động.",
                                     "answer_start": 1567
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "66",
-                                "question": "Người lao động có thể yêu cầu doanh nghiệp tổ chức đào tạo nghề không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "66",
+                            "question": "Người lao động có thể yêu cầu doanh nghiệp tổ chức đào tạo nghề không?",
+                            "answers": [
+                                {
                                     "text": "Có, người lao động có thể yêu cầu doanh nghiệp tổ chức các chương trình đào tạo nghề nếu có nhu cầu nâng cao kỹ năng nghề nghiệp.",
                                     "answer_start": 1664
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "67",
-                                "question": "Chương trình đào tạo nghề có thể được tổ chức dưới hình thức nào?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "67",
+                            "question": "Chương trình đào tạo nghề có thể được tổ chức dưới hình thức nào?",
+                            "answers": [
+                                {
                                     "text": "Chương trình đào tạo nghề có thể được tổ chức dưới nhiều hình thức như đào tạo tại chỗ, trực tuyến, tại các cơ sở đào tạo hoặc tại nơi làm việc.",
                                     "answer_start": 1738
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "68",
-                                "question": "Doanh nghiệp có thể yêu cầu người lao động ký cam kết không rời bỏ công việc sau khi đào tạo không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "68",
+                            "question": "Doanh nghiệp có thể yêu cầu người lao động ký cam kết không rời bỏ công việc sau khi đào tạo không?",
+                            "answers": [
+                                {
                                     "text": "Có, doanh nghiệp có thể yêu cầu người lao động ký cam kết không rời bỏ công việc trong một khoảng thời gian nhất định sau khi hoàn thành chương trình đào tạo.",
                                     "answer_start": 1821
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "69",
-                                "question": "Người lao động có quyền khiếu nại nếu không được tham gia đào tạo nghề không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "69",
+                            "question": "Người lao động có quyền khiếu nại nếu không được tham gia đào tạo nghề không?",
+                            "answers": [
+                                {
                                     "text": "Có, người lao động có quyền khiếu nại nếu doanh nghiệp không cho phép hoặc gây cản trở việc tham gia các chương trình đào tạo nghề.",
                                     "answer_start": 1914
-                                  }
-                                ]
-                              },
-                              {
-                                "id": "70",
-                                "question": "Doanh nghiệp có thể tổ chức đào tạo nghề theo nhu cầu cụ thể của từng vị trí công việc không?",
-                                "answers": [
-                                  {
+                                }
+                            ]
+                        },
+                        {
+                            "id": "70",
+                            "question": "Doanh nghiệp có thể tổ chức đào tạo nghề theo nhu cầu cụ thể của từng vị trí công việc không?",
+                            "answers": [
+                                {
                                     "text": "Có, doanh nghiệp có thể tổ chức các chương trình đào tạo nghề theo nhu cầu cụ thể của từng vị trí công việc để đảm bảo người lao động có đủ kỹ năng và kiến thức cần thiết.",
                                     "answer_start": 1985
-                                  }
-                                ]
-                              }
+                                }
                             ]
-                          }
+                        }
                     ]
                 }
             ]
         }
     ]
 }
-
-
-
-  
