@@ -4,11 +4,11 @@ import re
 from underthesea import word_tokenize
 
 
-def load_all_squad_data(directory_path):
+def load_all_data(data_path):
     all_data = []
-    for filename in os.listdir(directory_path):
+    for filename in os.listdir(data_path):
         if filename.endswith('.json'):
-            file_path = os.path.join(directory_path, filename)
+            file_path = os.path.join(data_path, filename)
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
                 all_data.extend(data['data'])
@@ -22,7 +22,7 @@ def clean_text(text):
     text = text.lower()
     return text
 
-def preprocess_squad_data(data):
+def preprocess_data(data):
     contexts = []
     questions = []
     answers = []
@@ -47,8 +47,8 @@ def preprocess_squad_data(data):
 def tokenize_texts(texts):
     return [word_tokenize(text, format="text") for text in texts]
 
-directory_path = './data'
-squad_data = load_all_squad_data(directory_path)
-contexts, questions, answers = preprocess_squad_data(squad_data)
+data_path = './data'
+squad_data = load_all_data(data_path)
+contexts, questions, answers = preprocess_data(squad_data)
 tokenized_contexts = tokenize_texts(contexts)
 tokenized_questions = tokenize_texts(questions)
