@@ -2280,7 +2280,7 @@
                         {
                             "id": "228",
                             "question": "Người lao động có quyền yêu cầu bồi thường thiệt hại khi bị tai nạn lao động không?",
-                            ",answers": [
+                            "answers": [
                                 {
                                     "text": "Có",
                                     "answer_start": 0
