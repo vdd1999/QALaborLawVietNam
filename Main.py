@@ -1,9 +1,7 @@
-from SupportFunction.BM25Function import get_top_n_ranked_bm25, find_best_matching_question
-from SupportFunction.Word2VecFunction import get_word2vec_scores
+from SupportFunction.BM25Function import find_best_matching_question
 
 # Get the top 5 ranked contexts based on BM25 score for the given question.
-question = "bảo hiểm y tế"
-
+question = "bảo hiểm cho người lao động"
 
 scores_word2vec = find_best_matching_question(question)
 print(scores_word2vec)

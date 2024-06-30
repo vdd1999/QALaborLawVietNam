@@ -1,0 +1,20 @@
+.gradient-custom {
+  /* fallback for old browsers */
+  background: rgb(0, 2, 36);
+  background: linear-gradient(
+    90deg,
+    rgba(0, 2, 36, 0.520413267846201) 0%,
+    rgba(32, 47, 221, 0.7136905787705707) 35%,
+    rgba(0, 205, 255, 0.9097690101431197) 100%
+  );
+}
+
+.mask-custom {
+  background: rgba(24, 24, 16, 0.2);
+  border-radius: 2em;
+  backdrop-filter: blur(15px);
+  border: 2px solid rgba(255, 255, 255, 0.05);
+  background-clip: padding-box;
+  box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+  width: 100%;
+}
