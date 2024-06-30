@@ -26,9 +26,11 @@
               <div class="card-body">
                 <label class="text-secondary-emphasis fw-semibold  mb-1" for="method">Phương thức</label>
                 <select class="form-select" name="method" id="method">
-                  <option value="1" selected>Tìm kiếm câu hỏi</option>
-                  <option value="2">Xếp hạng câu hỏi</option>
+                  <option value="0" selected>Tìm kiếm câu hỏi</option>
+                  <option value="1">Gợi ý câu hỏi</option>
                 </select>
+
+                <button class="btn btn-secondary mt-2" id="clearBtn">Xóa chat</button>
               </div>
             </div>
           </div>
@@ -83,7 +85,7 @@
       const cardEle = $("<div>").addClass("card w-100")
       const cardBodyEle = $("<div>").addClass("card-body")
       const pEle = $("<p>").addClass("mb-0").text(message)
-      const imgEle = $("<img>").attr("src", "/static/images/bot.png").attr("alt", "avatar").addClass("rounded-circle bg-light d-flex align-self-start ms-3 shadow-1-strong").attr("width", "60")
+      const imgEle = $("<img>").attr("src", "/static/images/bot.webp").attr("alt", "avatar").addClass("rounded-circle bg-light d-flex align-self-start me-3 shadow-1-strong").attr("width", "60")
       liEle.append(imgEle)
       cardBodyEle.append(pEle)
       cardEle.append(cardBodyEle)
@@ -111,7 +113,7 @@
         chatContainer.append(loadingEle)
         const postData = {
           message: message,
-          type: $("#method").val()  
+          type: parseInt($("#method").val(), 10)
         }
         console.log(postData)
         $.ajax({
@@ -122,12 +124,24 @@
           success: (data)=>{
             console.log(data)
             $("#loading").remove()
-            chatContainer.append(createChatBot("testing"))
+            if(data.type == 0){
+              chatContainer.append(createChatBot(data.message))
+            }else{
+              const dataTmp = data.data.map((item)=>{return `score: ${item.score}, question: ${item.question}`})
+              for(const item of dataTmp){
+                chatContainer.append(createChatBot(item))
+              }
+            }
           },
           error: (err)=>{
+            $("#loading").remove()
             console.log(err)
           }
-        }
+        })
+      })
+
+      $("#clearBtn").click(()=>{
+        $("#chatContainer").empty()
       })
     })
   </script>

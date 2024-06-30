@@ -60,4 +60,8 @@ def get_word2vec_scores(user_question):
         if np.isnan(score):
             score = 0
         scores.append(score)
-    return np.array(scores)
+    scores = np.array(scores)
+    scores = (scores - np.min(scores)) / \
+        (np.max(scores) - np.min(scores))
+
+    return scores
