@@ -3,111 +3,44 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Hỏi đáp luật lao động Việt Nam</title>
+    <link rel="shortcut icon" href="/static/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="/static/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="/static/styles.css" />
     <script src="/static/js/jquery-3.6.0.min.js"></script>
     <script src="/static/js/bootstrap.js"></script>
-    <script src="/static/js/popper.js"></script>
   </head>
-  <body>
-    <section class="gradient-custom vh-100">
+  <body class="gradient-custom">
+    <section>
+      <div class="w-100">
+        <h3 class="text-center fw-semibold text-white py-2">Hỏi đáp luật lao động Việt Nam</h3>
+      </div>
+    </section>
+    <section style="height: calc(100vh - 4rem);">
       <div class="container-fluid py-3">
         <div class="row" style="height: calc(100% - 2rem)">
           <div class="col-md-3 mb-4 d-sm-none d-md-block">
-            <h5 class="font-weight-bold mb-3 text-center text-white">
+            <h5 class="fw-semibold mb-3 text-center text-white">
               Lựa chọn
             </h5>
             <div class="card mask-custom">
-              <div class="card-body"></div>
+              <div class="card-body">
+                <label class="text-secondary-emphasis fw-semibold  mb-1" for="method">Phương thức</label>
+                <select class="form-select" name="method" id="method">
+                  <option value="1" selected>Tìm kiếm câu hỏi</option>
+                  <option value="2">Xếp hạng câu hỏi</option>
+                </select>
+              </div>
             </div>
           </div>
-
-          <div class="col-md-9 d-flex flex-column">
-            <div class="d-flex flex-grow-1 mb-4">
-              <ul class="list-unstyled text-white">
-                <li class="d-flex justify-content-between mb-4">
-                  <img
-                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-6.webp"
-                    alt="avatar"
-                    class="rounded-circle d-flex align-self-start me-3 shadow-1-strong"
-                    width="60"
-                  />
-                  <div class="card mask-custom">
-                    <div
-                      class="card-header d-flex justify-content-between p-3"
-                      style="border-bottom: 1px solid rgba(255, 255, 255, 0.3)"
-                    >
-                      <p class="fw-bold mb-0">Brad Pitt</p>
-                      <p class="text-light small mb-0">
-                        <i class="far fa-clock"></i> 12 mins ago
-                      </p>
-                    </div>
-                    <div class="card-body">
-                      <p class="mb-0">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua.
-                      </p>
-                    </div>
-                  </div>
-                </li>
-                <li class="d-flex justify-content-between mb-4">
-                  <div class="card mask-custom w-100">
-                    <div
-                      class="card-header d-flex justify-content-between p-3"
-                      style="border-bottom: 1px solid rgba(255, 255, 255, 0.3)"
-                    >
-                      <p class="fw-bold mb-0">Lara Croft</p>
-                      <p class="text-light small mb-0">
-                        <i class="far fa-clock"></i> 13 mins ago
-                      </p>
-                    </div>
-                    <div class="card-body">
-                      <p class="mb-0">
-                        Sed ut perspiciatis unde omnis iste natus error sit
-                        voluptatem accusantium doloremque laudantium.
-                      </p>
-                    </div>
-                  </div>
-                  <img
-                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-5.webp"
-                    alt="avatar"
-                    class="rounded-circle d-flex align-self-start ms-3 shadow-1-strong"
-                    width="60"
-                  />
-                </li>
-                <li class="d-flex justify-content-between mb-4">
-                  <img
-                    src="https://mdbcdn.b-cdn.net/img/Photos/Avatars/avatar-6.webp"
-                    alt="avatar"
-                    class="rounded-circle d-flex align-self-start me-3 shadow-1-strong"
-                    width="60"
-                  />
-                  <div class="card mask-custom">
-                    <div
-                      class="card-header d-flex justify-content-between p-3"
-                      style="border-bottom: 1px solid rgba(255, 255, 255, 0.3)"
-                    >
-                      <p class="fw-bold mb-0">Brad Pitt</p>
-                      <p class="text-light small mb-0">
-                        <i class="far fa-clock"></i> 10 mins ago
-                      </p>
-                    </div>
-                    <div class="card-body">
-                      <p class="mb-0">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua.
-                      </p>
-                    </div>
-                  </div>
-                </li>
-                <li class="mb-3"></li>
+          <div class="col-md-9 d-flex flex-column" style="max-height: 100%;">
+            <div class="d-flex flex-grow-1 mb-4 h-100" id="chatArea" style="max-height: 100%; overflow-y: auto;">
+              <ul class="list-unstyled text-white w-100" id="chatContainer">
+               
               </ul>
             </div>
             <div class="d-flex">
-              <div class="form-outline form-white w-100 p">
-                <form action="" name="chatForm" class="d-flex justify-content-between">
+              <div class="form-outline form-white w-100 px-3">
+                <form id="formChat" name="chatForm" class="d-flex justify-content-between">
                   <input
                     class="form-control me-2"
                     id="chatbox"
@@ -129,4 +62,73 @@
       </div>
     </section>
   </body>
+
+  <script>
+
+    function createChatUser(message){
+      const liEle = $("<li>").addClass("d-flex justify-content-between px-3 mb-4")
+      const cardEle = $("<div>").addClass("card w-100")
+      const cardBodyEle = $("<div>").addClass("card-body")
+      const pEle = $("<p>").addClass("mb-0").text(message)
+      cardBodyEle.append(pEle)
+      cardEle.append(cardBodyEle)
+      liEle.append(cardEle)
+      const imgEle = $("<img>").attr("src", "/static/images/user.png").attr("alt", "avatar").addClass("rounded-circle bg-light d-flex align-self-start ms-3 shadow-1-strong").attr("width", "60")
+      liEle.append(imgEle)
+      return liEle
+    }
+
+    function createChatBot(message){
+      const liEle = $("<li>").addClass("d-flex justify-content-between px-3 mb-4")
+      const cardEle = $("<div>").addClass("card w-100")
+      const cardBodyEle = $("<div>").addClass("card-body")
+      const pEle = $("<p>").addClass("mb-0").text(message)
+      const imgEle = $("<img>").attr("src", "/static/images/bot.png").attr("alt", "avatar").addClass("rounded-circle bg-light d-flex align-self-start ms-3 shadow-1-strong").attr("width", "60")
+      liEle.append(imgEle)
+      cardBodyEle.append(pEle)
+      cardEle.append(cardBodyEle)
+      liEle.append(cardEle)
+      return liEle
+    }
+
+    function createLoadingEle(){
+      const liEle = $("<li>").addClass("d-flex flex-row-reverse px-3").attr("id", "loading")
+      const divEle = $("<div>").addClass("spinner-border text-white me-1")
+      const spanEle = $("<span>").addClass("visually-hidden").text("Loading...")
+      divEle.append(spanEle)
+      liEle.append(divEle)
+      return liEle
+    }
+
+    $(document).ready(()=>{
+      $("#formChat").submit((e)=>{
+        e.preventDefault()
+        let message = $("#chatbox").val()
+        $("#chatbox").val("")
+        const chatContainer = $("#chatContainer")
+        const loadingEle = createLoadingEle()
+        chatContainer.append(createChatUser(message))
+        chatContainer.append(loadingEle)
+        const postData = {
+          message: message,
+          type: $("#method").val()  
+        }
+        console.log(postData)
+        $.ajax({
+          type: "POST",
+          url: "/chat",
+          data: JSON.stringify(postData),
+          contentType: "application/json",
+          success: (data)=>{
+            console.log(data)
+            $("#loading").remove()
+            chatContainer.append(createChatBot("testing"))
+          },
+          error: (err)=>{
+            console.log(err)
+          }
+        }
+      })
+    })
+  </script>
 </html>
