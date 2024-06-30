@@ -16,7 +16,7 @@ def get_word2vec_scores(user_question, questions):
     query_vector = get_avg_word2vec_vector(user_question)
     scores = []
     for question in questions:
-        question_vector = get_avg_word2vec_vector(question)
+        question_vector = get_avg_word2vec_vector(simple_preprocess(question))
         score = np.dot(query_vector, question_vector)
         if np.isnan(score):
             score = 0
@@ -26,7 +26,7 @@ def get_word2vec_scores(user_question, questions):
 # Added
 def get_bm25_scores(user_question):
     bm_25_score = bm25.get_scores(user_question)
-    scores = (bm_25_score - np.min(bm25_scores)) / (np.max(bm_25_score) - np.min(bm_25_score))
+    scores = (bm_25_score - np.min(bm_25_score)) / (np.max(bm_25_score) - np.min(bm_25_score))
     # Thay thế giá trị nan bằng 0
     scores = np.nan_to_num(scores)
     return scores
