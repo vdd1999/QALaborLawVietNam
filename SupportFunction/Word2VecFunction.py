@@ -1,7 +1,7 @@
 import gensim
 import numpy as np
 from gensim.utils import simple_preprocess
-from SupportFunction.DataFunction import questions
+from SupportFunction.DataFunction import questions, tokenize_texts
 
 # Load pre-trained Word2Vec model.
 model_word2vec = gensim.models.Word2Vec.load("./models/word2vec.model")
@@ -45,7 +45,7 @@ def similarity_word(word, top=5):
 
 
 def get_avg_word2vec_vector(question):
-    words = simple_preprocess(question)
+    words = simple_preprocess(tokenize_texts([question])[0])
     vector = np.mean([model_word2vec.wv[word]
                      for word in words if word in model_word2vec.wv], axis=0)
     return vector
@@ -57,5 +57,7 @@ def get_word2vec_scores(user_question):
     for question in questions:
         question_vector = get_avg_word2vec_vector(question)
         score = np.dot(query_vector, question_vector)
+        if np.isnan(score):
+            score = 0
         scores.append(score)
     return np.array(scores)

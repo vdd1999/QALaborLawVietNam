@@ -1,7 +1,7 @@
 import numpy as np
 
 from rank_bm25 import BM25Okapi
-from SupportFunction.DataFunction import split_question_pre_train, questions
+from SupportFunction.DataFunction import split_question_pre_train, questions, tokenize_texts
 from SupportFunction.Word2VecFunction import get_word2vec_scores
 from gensim.utils import simple_preprocess
 
@@ -10,8 +10,12 @@ bm25 = BM25Okapi(split_question_pre_train)
 
 
 def get_bm25_score(question):
-    tokenized_query = simple_preprocess(question)
-    return bm25.get_scores(tokenized_query)
+    tokenized_query = simple_preprocess(tokenize_texts([question])[0])
+    bm_25_score = bm25.get_scores(tokenized_query)
+    scores = (bm_25_score - np.min(bm25_scores)) / \
+        (np.max(bm_25_score) - np.min(bm_25_score))
+    scores = np.nan_to_num(scores)
+    return scores
 
 
 def get_top_n_ranked_bm25(question, n=5):
