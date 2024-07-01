@@ -44,24 +44,24 @@ def similarity_word(word, top=5):
         return []
 
 
-def get_avg_word2vec_vector(question):
-    words = simple_preprocess(tokenize_texts([question])[0])
-    vector = np.mean([model_word2vec.wv[word]
-                     for word in words if word in model_word2vec.wv], axis=0)
-    return vector
+# Changed
+def get_avg_word2vec_vector(user_question):
+    words = user_question
+    word_vectors = [model_word2vec.wv[word] for word in words if word in model_word2vec.wv]
+    if not word_vectors:
+        return np.zeros(model_word2vec.vector_size)
+    return np.mean(word_vectors, axis=0)
 
+# Changed
 
-def get_word2vec_scores(user_question):
+def get_word2vec_scores(user_question, questions):
     query_vector = get_avg_word2vec_vector(user_question)
     scores = []
     for question in questions:
-        question_vector = get_avg_word2vec_vector(question)
+        question_vector = get_avg_word2vec_vector(simple_preprocess(question))
         score = np.dot(query_vector, question_vector)
         if np.isnan(score):
             score = 0
         scores.append(score)
-    scores = np.array(scores)
-    scores = (scores - np.min(scores)) / \
-        (np.max(scores) - np.min(scores))
-
-    return scores
+    return np.array(scores)
+    
