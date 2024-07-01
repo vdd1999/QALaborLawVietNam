@@ -1,7 +1,7 @@
 import numpy as np
 
 from rank_bm25 import BM25Okapi
-from SupportFunction.DataFunction import split_question_pre_train, questions, tokenize_texts
+from SupportFunction.DataFunction import split_question_pre_train, questions, tokenize_texts, answers
 from SupportFunction.Word2VecFunction import get_word2vec_scores
 from gensim.utils import simple_preprocess
 
@@ -56,4 +56,5 @@ def find_best_matching_question(user_question):
 
     best_idx = np.argmax(combined_scores)
     best_question = questions[best_idx]
-    return best_question
+    best_ans = answers[best_idx]
+    return best_question, best_ans

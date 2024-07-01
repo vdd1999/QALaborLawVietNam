@@ -14,10 +14,11 @@ def chat():
     data = request.json
     print(data)
     if data['type'] == 0:
-        data = find_best_matching_question(data['message'])
+        ques, ans = find_best_matching_question(data['message'])
         res_data = {
             'type': 0,
-            'message': data
+            'message': ques,
+            'answer': ans
         }
         return make_response(jsonify(res_data), 200)
     elif data['type'] == 1:
