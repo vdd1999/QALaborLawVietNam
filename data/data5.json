@@ -1,4 +1,5 @@
 {
+    "version": "v2.0",
     "data": [
         {
             "title": "Bộ luật Lao động Việt Nam - Chương V",
@@ -14,7 +15,8 @@
                                     "text": "Thời giờ làm việc, thời giờ nghỉ ngơi.",
                                     "answer_start": 42
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "2",
@@ -24,7 +26,8 @@
                                     "text": "Thời giờ làm việc bình thường, làm thêm giờ, thời giờ nghỉ ngơi, nghỉ giữa giờ, nghỉ hàng tuần, nghỉ hàng năm, nghỉ lễ, Tết, nghỉ việc riêng có hưởng lương, nghỉ ốm, nghỉ thai sản và các chế độ nghỉ khác.",
                                     "answer_start": 84
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "3",
@@ -34,7 +37,8 @@
                                     "text": "Thời giờ làm việc bình thường không quá 8 giờ trong một ngày và không quá 48 giờ trong một tuần.",
                                     "answer_start": 188
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "4",
@@ -44,7 +48,8 @@
                                     "text": "Có, người lao động có thể làm thêm giờ nhưng không quá 12 giờ trong một ngày và không quá 30 giờ trong một tháng.",
                                     "answer_start": 267
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "5",
@@ -54,7 +59,8 @@
                                     "text": "Thời giờ nghỉ ngơi bao gồm nghỉ giữa giờ, nghỉ hàng tuần, nghỉ hàng năm, nghỉ lễ, Tết, nghỉ việc riêng có hưởng lương, nghỉ ốm, nghỉ thai sản và các chế độ nghỉ khác.",
                                     "answer_start": 359
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "6",
@@ -64,7 +70,8 @@
                                     "text": "Người lao động được nghỉ giữa giờ ít nhất 30 phút nếu làm việc liên tục 8 giờ trong một ngày.",
                                     "answer_start": 481
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "7",
@@ -74,7 +81,8 @@
                                     "text": "Có, người lao động có quyền nghỉ ít nhất 1 ngày trong một tuần.",
                                     "answer_start": 565
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "8",
@@ -84,7 +92,8 @@
                                     "text": "Người lao động có quyền nghỉ hàng năm với hưởng nguyên lương, số ngày nghỉ tùy thuộc vào thời gian làm việc và điều kiện công việc.",
                                     "answer_start": 636
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "9",
@@ -94,7 +103,8 @@
                                     "text": "Có, người lao động có quyền nghỉ lễ, Tết với hưởng nguyên lương theo quy định của pháp luật.",
                                     "answer_start": 742
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "10",
@@ -104,7 +114,8 @@
                                     "text": "Có, người lao động có quyền nghỉ việc riêng có hưởng lương trong các trường hợp như kết hôn, con kết hôn, bố mẹ, vợ chồng, con qua đời.",
                                     "answer_start": 817
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "11",
@@ -114,7 +125,8 @@
                                     "text": "Có, người lao động có quyền nghỉ ốm và được hưởng chế độ bảo hiểm xã hội theo quy định.",
                                     "answer_start": 934
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "12",
@@ -124,7 +136,8 @@
                                     "text": "Người lao động nữ có quyền nghỉ thai sản trước và sau khi sinh con, tổng thời gian nghỉ thai sản là 6 tháng.",
                                     "answer_start": 1007
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "13",
@@ -134,7 +147,8 @@
                                     "text": "Có, người lao động có quyền nghỉ để chăm sóc con nhỏ dưới 12 tháng tuổi.",
                                     "answer_start": 1094
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "14",
@@ -144,7 +158,8 @@
                                     "text": "Có, người lao động làm việc trong điều kiện nặng nhọc, độc hại có quyền nghỉ thêm ít nhất 5 ngày so với thời gian nghỉ hàng năm thông thường.",
                                     "answer_start": 1158
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "15",
@@ -154,7 +169,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động về việc nghỉ không lương.",
                                     "answer_start": 1271
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "16",
@@ -164,7 +180,8 @@
                                     "text": "Có, người lao động có thể làm việc theo ca nếu có thỏa thuận với người sử dụng lao động.",
                                     "answer_start": 1340
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "17",
@@ -174,7 +191,8 @@
                                     "text": "Có, người lao động làm việc theo ca có quyền nghỉ giữa giờ ít nhất 30 phút.",
                                     "answer_start": 1404
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "18",
@@ -184,7 +202,8 @@
                                     "text": "Người lao động làm việc vào ban đêm có quyền nghỉ bù và hưởng phụ cấp làm việc ban đêm.",
                                     "answer_start": 1476
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "19",
@@ -194,7 +213,8 @@
                                     "text": "Có, người lao động có quyền từ chối làm thêm giờ nếu việc làm thêm giờ không được thỏa thuận trước.",
                                     "answer_start": 1555
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "20",
@@ -204,7 +224,8 @@
                                     "text": "Người lao động có quyền yêu cầu được trả lương làm thêm giờ và các khoản phụ cấp khác nếu có.",
                                     "answer_start": 1638
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "21",
@@ -214,7 +235,8 @@
                                     "text": "Có, người lao động có thể yêu cầu sắp xếp thời giờ làm việc linh hoạt nếu có thỏa thuận với người sử dụng lao động.",
                                     "answer_start": 1714
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "22",
@@ -224,7 +246,8 @@
                                     "text": "Người sử dụng lao động có trách nhiệm báo cáo và phối hợp với cơ quan bảo hiểm xã hội để đảm bảo quyền lợi cho người lao động.",
                                     "answer_start": 1799
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "23",
@@ -234,7 +257,8 @@
                                     "text": "Có, người lao động có quyền nghỉ phép hàng năm và được hưởng lương trong thời gian nghỉ.",
                                     "answer_start": 1872
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "24",
@@ -244,7 +268,8 @@
                                     "text": "Người lao động có quyền nghỉ phép năm ít nhất 12 ngày làm việc đối với những người làm công việc trong điều kiện bình thường.",
                                     "answer_start": 1939
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "25",
@@ -254,7 +279,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép năm thành nhiều lần.",
                                     "answer_start": 2025
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "26",
@@ -264,7 +290,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ việc riêng không hưởng lương.",
                                     "answer_start": 2098
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "27",
@@ -274,7 +301,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không lương khi có công việc đột xuất.",
                                     "answer_start": 2171
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "28",
@@ -284,7 +312,8 @@
                                     "text": "Có, người lao động có quyền nghỉ việc để tham gia hoạt động công đoàn theo quy định của pháp luật.",
                                     "answer_start": 2244
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "29",
@@ -294,7 +323,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ việc tham gia các khóa học, đào tạo nâng cao trình độ chuyên môn.",
                                     "answer_start": 2320
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "30",
@@ -304,7 +334,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ việc chăm sóc thành viên gia đình bị ốm đau.",
                                     "answer_start": 2404
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "31",
@@ -314,7 +345,8 @@
                                     "text": "Có, người lao động có thể yêu cầu nghỉ phép đột xuất trong trường hợp khẩn cấp hoặc có lý do chính đáng.",
                                     "answer_start": 2477
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "32",
@@ -324,7 +356,8 @@
                                     "text": "Có, người lao động có quyền nghỉ phép để kết hôn và được hưởng lương trong thời gian nghỉ.",
                                     "answer_start": 2550
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "33",
@@ -334,7 +367,8 @@
                                     "text": "Có, người lao động nữ có quyền nghỉ phép để sinh con và được hưởng chế độ bảo hiểm thai sản.",
                                     "answer_start": 2622
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "34",
@@ -344,7 +378,8 @@
                                     "text": "Có, người lao động có quyền nghỉ phép để chăm sóc con nhỏ dưới 12 tháng tuổi.",
                                     "answer_start": 2699
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "35",
@@ -354,7 +389,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc bố mẹ già yếu.",
                                     "answer_start": 2765
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "36",
@@ -364,7 +400,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động xã hội, từ thiện.",
                                     "answer_start": 2844
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "37",
@@ -374,7 +411,8 @@
                                     "text": "Có, người lao động có quyền nghỉ phép để tham gia các cuộc họp quan trọng liên quan đến công việc hoặc quyền lợi của mình.",
                                     "answer_start": 2917
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "38",
@@ -384,7 +422,8 @@
                                     "text": "Có, người lao động có quyền nghỉ phép để điều trị bệnh và được hưởng chế độ bảo hiểm y tế nếu có.",
                                     "answer_start": 2996
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "39",
@@ -394,7 +433,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép thăm gia đình.",
                                     "answer_start": 3066
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "40",
@@ -404,7 +444,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động tín ngưỡng, tôn giáo.",
                                     "answer_start": 3135
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "41",
@@ -414,7 +455,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động văn hóa, thể thao.",
                                     "answer_start": 3209
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "42",
@@ -424,7 +466,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội thảo, hội nghị liên quan đến công việc.",
                                     "answer_start": 3280
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "43",
@@ -434,7 +477,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các khóa học ngắn hạn nhằm nâng cao kỹ năng nghề nghiệp.",
                                     "answer_start": 3361
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "44",
@@ -444,7 +488,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động cộng đồng.",
                                     "answer_start": 3447
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "45",
@@ -454,7 +499,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động tình nguyện.",
                                     "answer_start": 3519
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "46",
@@ -464,7 +510,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ môi trường.",
                                     "answer_start": 3590
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "47",
@@ -474,7 +521,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động nghiên cứu khoa học.",
                                     "answer_start": 3668
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "48",
@@ -484,7 +532,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc vợ/chồng bị ốm.",
                                     "answer_start": 3745
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "49",
@@ -494,7 +543,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động nghệ thuật.",
                                     "answer_start": 3815
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "50",
@@ -504,7 +554,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động sáng tạo.",
                                     "answer_start": 3884
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "51",
@@ -514,7 +565,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc con nhỏ bị ốm.",
                                     "answer_start": 414
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "52",
@@ -524,7 +576,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghiên cứu khoa học.",
                                     "answer_start": 472
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "53",
@@ -534,7 +587,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động từ thiện.",
                                     "answer_start": 549
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "54",
@@ -544,7 +598,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động xã hội.",
                                     "answer_start": 622
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "55",
@@ -554,7 +609,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động văn hóa.",
                                     "answer_start": 714
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "56",
@@ -564,7 +620,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động thể thao.",
                                     "answer_start": 787
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "57",
@@ -574,7 +631,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động tín ngưỡng.",
                                     "answer_start": 865
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "58",
@@ -584,7 +642,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động tôn giáo.",
                                     "answer_start": 950
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "59",
@@ -594,7 +653,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động cộng đồng.",
                                     "answer_start": 1039
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "60",
@@ -604,7 +664,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động môi trường.",
                                     "answer_start": 1137
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "61",
@@ -614,7 +675,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc người thân bị ốm.",
                                     "answer_start": 1224
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "62",
@@ -624,7 +686,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội thảo.",
                                     "answer_start": 1302
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "63",
@@ -634,7 +697,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội nghị.",
                                     "answer_start": 1381
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "64",
@@ -644,7 +708,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia khóa học.",
                                     "answer_start": 1474
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "65",
@@ -654,7 +719,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia đào tạo.",
                                     "answer_start": 1567
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "66",
@@ -664,7 +730,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghề nghiệp.",
                                     "answer_start": 1664
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "67",
@@ -674,7 +741,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động gia đình.",
                                     "answer_start": 1738
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "68",
@@ -684,7 +752,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động cá nhân.",
                                     "answer_start": 1821
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "69",
@@ -694,7 +763,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghiên cứu khoa học.",
                                     "answer_start": 1914
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "70",
@@ -704,7 +774,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động từ thiện.",
                                     "answer_start": 1985
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "71",
@@ -714,7 +785,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động văn hóa.",
                                     "answer_start": 2044
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "72",
@@ -724,7 +796,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động thể thao.",
                                     "answer_start": 2103
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "73",
@@ -734,7 +807,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động tín ngưỡng, tôn giáo.",
                                     "answer_start": 2162
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "74",
@@ -744,7 +818,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động môi trường.",
                                     "answer_start": 2227
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "75",
@@ -754,7 +829,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động cộng đồng.",
                                     "answer_start": 2292
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "76",
@@ -764,7 +840,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc người thân.",
                                     "answer_start": 2355
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "77",
@@ -774,7 +851,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc con nhỏ.",
                                     "answer_start": 2416
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "78",
@@ -784,7 +862,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc bố mẹ.",
                                     "answer_start": 2475
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "79",
@@ -794,7 +873,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghiên cứu.",
                                     "answer_start": 2534
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "80",
@@ -804,7 +884,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội nghị.",
                                     "answer_start": 2597
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "81",
@@ -814,7 +895,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội thảo.",
                                     "answer_start": 2662
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "82",
@@ -824,7 +906,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia khóa học.",
                                     "answer_start": 2725
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "83",
@@ -834,7 +917,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia đào tạo.",
                                     "answer_start": 2788
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "84",
@@ -844,7 +928,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghề nghiệp.",
                                     "answer_start": 2853
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "85",
@@ -854,7 +939,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động gia đình.",
                                     "answer_start": 2916
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "86",
@@ -864,7 +950,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động cá nhân.",
                                     "answer_start": 2979
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "87",
@@ -874,7 +961,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghệ thuật.",
                                     "answer_start": 3040
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "88",
@@ -884,7 +972,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động sáng tạo.",
                                     "answer_start": 3103
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "89",
@@ -894,7 +983,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động môi trường.",
                                     "answer_start": 3164
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "90",
@@ -904,7 +994,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc thành viên gia đình.",
                                     "answer_start": 3227
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "91",
@@ -914,7 +1005,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc người thân bị ốm.",
                                     "answer_start": 3294
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "92",
@@ -924,7 +1016,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc con nhỏ bị ốm.",
                                     "answer_start": 3357
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "92",
@@ -934,7 +1027,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hội thảo.",
                                     "answer_start": 4173
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "93",
@@ -944,7 +1038,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia khóa học.",
                                     "answer_start": 4236
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "94",
@@ -954,7 +1049,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia đào tạo.",
                                     "answer_start": 4301
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "95",
@@ -964,7 +1060,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động nghề nghiệp.",
                                     "answer_start": 4364
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "96",
@@ -974,7 +1071,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia hoạt động cá nhân.",
                                     "answer_start": 4425
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "97",
@@ -984,7 +1082,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc con cái.",
                                     "answer_start": 4488
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "98",
@@ -994,7 +1093,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc bố mẹ.",
                                     "answer_start": 4545
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "99",
@@ -1004,7 +1104,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc vợ/chồng.",
                                     "answer_start": 4600
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "100",
@@ -1014,7 +1115,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc người thân bị bệnh.",
                                     "answer_start": 4655
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "101",
@@ -1024,7 +1126,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép chăm sóc người thân bị thương.",
                                     "answer_start": 3628
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "102",
@@ -1034,7 +1137,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động thiện nguyện.",
                                     "answer_start": 3744
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "103",
@@ -1044,7 +1148,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động giáo dục.",
                                     "answer_start": 3807
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "104",
@@ -1054,7 +1159,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ động vật.",
                                     "answer_start": 3866
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "105",
@@ -1064,7 +1170,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động cứu trợ thiên tai.",
                                     "answer_start": 3929
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "106",
@@ -1074,7 +1181,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động công tác xã hội.",
                                     "answer_start": 3986
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "107",
@@ -1084,7 +1192,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động quốc tế.",
                                     "answer_start": 4047
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "108",
@@ -1094,7 +1203,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ rừng.",
                                     "answer_start": 4108
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "109",
@@ -1104,7 +1214,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ biển.",
                                     "answer_start": 4173
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "110",
@@ -1114,7 +1225,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ môi trường.",
                                     "answer_start": 4236
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "111",
@@ -1124,7 +1236,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ động vật hoang dã.",
                                     "answer_start": 4301
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "112",
@@ -1134,7 +1247,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ tài nguyên thiên nhiên.",
                                     "answer_start": 4364
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "113",
@@ -1144,7 +1258,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động chống biến đổi khí hậu.",
                                     "answer_start": 4425
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "114",
@@ -1154,7 +1269,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động cứu trợ nhân đạo.",
                                     "answer_start": 4488
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "115",
@@ -1164,7 +1280,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động cứu hộ động vật.",
                                     "answer_start": 4545
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "116",
@@ -1174,7 +1291,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động cứu trợ.",
                                     "answer_start": 4624
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "117",
@@ -1184,7 +1302,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động văn hóa cộng đồng.",
                                     "answer_start": 4691
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "118",
@@ -1194,7 +1313,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động thể thao cộng đồng.",
                                     "answer_start": 4758
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "119",
@@ -1204,7 +1324,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động chăm sóc sức khỏe cộng đồng.",
                                     "answer_start": 4827
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "120",
@@ -1214,7 +1335,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phòng chống dịch bệnh.",
                                     "answer_start": 4898
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "121",
@@ -1224,7 +1346,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động giáo dục cộng đồng.",
                                     "answer_start": 4971
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "122",
@@ -1234,7 +1357,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ môi trường.",
                                     "answer_start": 5042
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "123",
@@ -1244,7 +1368,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động từ thiện cộng đồng.",
                                     "answer_start": 5111
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "124",
@@ -1254,7 +1379,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động tình nguyện cộng đồng.",
                                     "answer_start": 5182
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "125",
@@ -1264,7 +1390,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo tồn thiên nhiên.",
                                     "answer_start": 5255
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "126",
@@ -1274,7 +1401,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển cộng đồng.",
                                     "answer_start": 5328
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "127",
@@ -1284,7 +1412,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động xã hội khác.",
                                     "answer_start": 5397
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "128",
@@ -1294,7 +1423,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ quyền lợi trẻ em.",
                                     "answer_start": 5470
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "129",
@@ -1304,7 +1434,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ phụ nữ.",
                                     "answer_start": 5541
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "130",
@@ -1314,7 +1445,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ người cao tuổi.",
                                     "answer_start": 5612
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "131",
@@ -1324,7 +1456,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ người khuyết tật.",
                                     "answer_start": 5685
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "132",
@@ -1334,7 +1467,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động bảo vệ người nghèo.",
                                     "answer_start": 5758
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "133",
@@ -1344,7 +1478,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển giáo dục.",
                                     "answer_start": 5827
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "134",
@@ -1354,7 +1489,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển y tế.",
                                     "answer_start": 5898
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "135",
@@ -1364,7 +1500,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển nông nghiệp.",
                                     "answer_start": 5971
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "136",
@@ -1374,7 +1511,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển nông thôn.",
                                     "answer_start": 6044
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "137",
@@ -1384,7 +1522,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển đô thị.",
                                     "answer_start": 6113
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "138",
@@ -1394,7 +1533,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghiệp.",
                                     "answer_start": 6186
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "139",
@@ -1404,7 +1544,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ.",
                                     "answer_start": 6259
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "140",
@@ -1414,7 +1555,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển khoa học.",
                                     "answer_start": 6330
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "141",
@@ -1424,7 +1566,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển kinh tế.",
                                     "answer_start": 6401
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "142",
@@ -1434,7 +1577,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển xã hội.",
                                     "answer_start": 6474
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "143",
@@ -1444,7 +1588,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển văn hóa.",
                                     "answer_start": 6545
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "144",
@@ -1454,7 +1599,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển thể thao.",
                                     "answer_start": 6618
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "145",
@@ -1464,7 +1610,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển du lịch.",
                                     "answer_start": 6689
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "146",
@@ -1474,7 +1621,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển nghệ thuật.",
                                     "answer_start": 6762
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "147",
@@ -1484,7 +1632,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển sáng tạo.",
                                     "answer_start": 6833
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "148",
@@ -1494,7 +1643,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển văn học.",
                                     "answer_start": 6906
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "149",
@@ -1504,7 +1654,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển âm nhạc.",
                                     "answer_start": 6977
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "150",
@@ -1514,7 +1665,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển điện ảnh.",
                                     "answer_start": 7048
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "151",
@@ -1524,7 +1676,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển sân khấu.",
                                     "answer_start": 7146
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "152",
@@ -1534,7 +1687,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển nhiếp ảnh.",
                                     "answer_start": 7220
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "153",
@@ -1544,7 +1698,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển truyền thông.",
                                     "answer_start": 7293
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "154",
@@ -1554,7 +1709,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thông tin.",
                                     "answer_start": 7364
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "155",
@@ -1564,7 +1720,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển kỹ thuật.",
                                     "answer_start": 7439
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "156",
@@ -1574,7 +1731,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển sáng chế.",
                                     "answer_start": 7509
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "157",
@@ -1584,7 +1742,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển phần mềm.",
                                     "answer_start": 7582
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "158",
@@ -1594,7 +1753,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển ứng dụng.",
                                     "answer_start": 7651
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "159",
@@ -1604,7 +1764,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển game.",
                                     "answer_start": 7724
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "160",
@@ -1614,7 +1775,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển phần cứng.",
                                     "answer_start": 7795
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "161",
@@ -1624,7 +1786,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển mạng.",
                                     "answer_start": 7868
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "162",
@@ -1634,7 +1797,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển viễn thông.",
                                     "answer_start": 7939
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "163",
@@ -1644,7 +1808,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển an ninh mạng.",
                                     "answer_start": 8012
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "164",
@@ -1654,7 +1819,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển trí tuệ nhân tạo.",
                                     "answer_start": 8085
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "165",
@@ -1664,7 +1830,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển robot.",
                                     "answer_start": 8158
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "166",
@@ -1674,7 +1841,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển blockchain.",
                                     "answer_start": 8231
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "167",
@@ -1684,7 +1852,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh học.",
                                     "answer_start": 8304
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "168",
@@ -1694,7 +1863,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vật liệu.",
                                     "answer_start": 8377
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "169",
@@ -1704,7 +1874,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển năng lượng tái tạo.",
                                     "answer_start": 8450
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "170",
@@ -1714,7 +1885,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ môi trường.",
                                     "answer_start": 8525
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "171",
@@ -1724,7 +1896,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ y tế.",
                                     "answer_start": 8600
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "172",
@@ -1734,7 +1907,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ giáo dục.",
                                     "answer_start": 8675
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "173",
@@ -1744,7 +1918,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nông nghiệp.",
                                     "answer_start": 8750
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "174",
@@ -1754,7 +1929,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thực phẩm.",
                                     "answer_start": 8825
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "175",
@@ -1764,7 +1940,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ năng lượng.",
                                     "answer_start": 8900
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "176",
@@ -1774,7 +1951,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ xây dựng.",
                                     "answer_start": 8975
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "177",
@@ -1784,7 +1962,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ giao thông.",
                                     "answer_start": 9050
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "178",
@@ -1794,7 +1973,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ hàng không.",
                                     "answer_start": 9125
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "179",
@@ -1804,7 +1984,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vũ trụ.",
                                     "answer_start": 9200
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "180",
@@ -1814,7 +1995,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ robot.",
                                     "answer_start": 9275
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "181",
@@ -1824,7 +2006,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ tự động hóa.",
                                     "answer_start": 9350
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "182",
@@ -1834,7 +2017,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ in 3D.",
                                     "answer_start": 9425
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "183",
@@ -1844,7 +2028,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thực tế ảo.",
                                     "answer_start": 9500
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "184",
@@ -1854,7 +2039,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thực tế tăng cường.",
                                     "answer_start": 9575
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "185",
@@ -1864,7 +2050,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ không gian.",
                                     "answer_start": 9650
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "186",
@@ -1874,7 +2061,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nano.",
                                     "answer_start": 9725
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "187",
@@ -1884,7 +2072,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh học.",
                                     "answer_start": 9800
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "188",
@@ -1894,7 +2083,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ tài chính.",
                                     "answer_start": 9875
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "189",
@@ -1904,7 +2094,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ bảo mật.",
                                     "answer_start": 9950
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "190",
@@ -1914,7 +2105,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ giải trí.",
                                     "answer_start": 10025
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "191",
@@ -1924,7 +2116,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ truyền thông.",
                                     "answer_start": 10100
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "192",
@@ -1934,7 +2127,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ âm thanh.",
                                     "answer_start": 10175
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "193",
@@ -1944,7 +2138,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ hình ảnh.",
                                     "answer_start": 10250
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "194",
@@ -1954,7 +2149,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ video.",
                                     "answer_start": 10325
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "195",
@@ -1964,7 +2160,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ đồ họa.",
                                     "answer_start": 10400
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "196",
@@ -1974,7 +2171,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ truyền hình.",
                                     "answer_start": 10475
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "197",
@@ -1984,7 +2182,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ phát thanh.",
                                     "answer_start": 10550
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "198",
@@ -1994,7 +2193,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ truyền hình trực tuyến.",
                                     "answer_start": 10625
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "199",
@@ -2004,7 +2204,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ truyền thông xã hội.",
                                     "answer_start": 10700
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "200",
@@ -2014,7 +2215,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thông tin truyền thông.",
                                     "answer_start": 10775
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "201",
@@ -2024,7 +2226,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ kỹ thuật số.",
                                     "answer_start": 10850
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "202",
@@ -2034,7 +2237,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thông minh.",
                                     "answer_start": 10925
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "203",
@@ -2044,7 +2248,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ tiên tiến.",
                                     "answer_start": 11000
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "204",
@@ -2054,7 +2259,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ xanh.",
                                     "answer_start": 11075
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "205",
@@ -2064,7 +2270,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ bền vững.",
                                     "answer_start": 11150
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "206",
@@ -2074,7 +2281,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sạch.",
                                     "answer_start": 11225
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "207",
@@ -2084,7 +2292,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ tái chế.",
                                     "answer_start": 11300
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "208",
@@ -2094,7 +2303,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nước.",
                                     "answer_start": 11375
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "209",
@@ -2104,7 +2314,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ không khí.",
                                     "answer_start": 11450
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "210",
@@ -2114,7 +2325,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ năng lượng mặt trời.",
                                     "answer_start": 11525
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "211",
@@ -2124,7 +2336,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ gió.",
                                     "answer_start": 11600
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "212",
@@ -2134,7 +2347,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thủy điện.",
                                     "answer_start": 11675
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "213",
@@ -2144,7 +2358,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh học.",
                                     "answer_start": 11750
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "214",
@@ -2154,7 +2369,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ địa nhiệt.",
                                     "answer_start": 11825
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "215",
@@ -2164,7 +2380,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh hóa.",
                                     "answer_start": 11900
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "216",
@@ -2174,7 +2391,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vi sinh.",
                                     "answer_start": 11975
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "217",
@@ -2184,7 +2402,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ hóa học.",
                                     "answer_start": 12050
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "218",
@@ -2194,7 +2413,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ lý học.",
                                     "answer_start": 12125
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "219",
@@ -2204,7 +2424,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ địa chất.",
                                     "answer_start": 12200
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "220",
@@ -2214,7 +2435,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thiên văn.",
                                     "answer_start": 12275
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "221",
@@ -2224,7 +2446,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vũ trụ.",
                                     "answer_start": 12350
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "222",
@@ -2234,7 +2457,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vật lý.",
                                     "answer_start": 12425
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "223",
@@ -2244,7 +2468,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ hóa học.",
                                     "answer_start": 12500
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "224",
@@ -2254,7 +2479,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh học.",
                                     "answer_start": 12575
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "225",
@@ -2264,7 +2490,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ y học.",
                                     "answer_start": 12650
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "226",
@@ -2274,7 +2501,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nông học.",
                                     "answer_start": 12725
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "227",
@@ -2284,7 +2512,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thủy sản.",
                                     "answer_start": 12800
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "228",
@@ -2294,7 +2523,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ chăn nuôi.",
                                     "answer_start": 12875
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "229",
@@ -2304,7 +2534,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thực phẩm.",
                                     "answer_start": 12950
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "230",
@@ -2314,7 +2545,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ dệt may.",
                                     "answer_start": 13025
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "231",
@@ -2324,7 +2556,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ gia dụng.",
                                     "answer_start": 13100
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "232",
@@ -2334,7 +2567,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ xây dựng.",
                                     "answer_start": 13175
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "233",
@@ -2344,7 +2578,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ kiến trúc.",
                                     "answer_start": 13250
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "234",
@@ -2354,7 +2589,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nội thất.",
                                     "answer_start": 13325
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "235",
@@ -2364,7 +2600,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thời trang.",
                                     "answer_start": 13400
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "236",
@@ -2374,7 +2611,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ làm đẹp.",
                                     "answer_start": 13475
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "237",
@@ -2384,7 +2622,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ chăm sóc sức khỏe.",
                                     "answer_start": 13550
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "238",
@@ -2394,7 +2633,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ mỹ phẩm.",
                                     "answer_start": 13625
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "239",
@@ -2404,7 +2644,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ y tế.",
                                     "answer_start": 13700
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "240",
@@ -2414,7 +2655,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ giáo dục.",
                                     "answer_start": 13775
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "241",
@@ -2424,7 +2666,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ sinh học.",
                                     "answer_start": 13850
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "242",
@@ -2434,7 +2677,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nông nghiệp.",
                                     "answer_start": 13925
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "243",
@@ -2444,7 +2688,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thực phẩm.",
                                     "answer_start": 14000
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "244",
@@ -2454,7 +2699,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ năng lượng.",
                                     "answer_start": 14075
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "245",
@@ -2464,7 +2710,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ môi trường.",
                                     "answer_start": 14150
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "246",
@@ -2474,7 +2721,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ vật liệu.",
                                     "answer_start": 14225
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "247",
@@ -2484,7 +2732,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ nano.",
                                     "answer_start": 14300
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "248",
@@ -2494,7 +2743,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ năng lượng tái tạo.",
                                     "answer_start": 14375
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "249",
@@ -2504,7 +2754,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ thông minh.",
                                     "answer_start": 14450
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "250",
@@ -2514,7 +2765,8 @@
                                     "text": "Có, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ phép tham gia các hoạt động phát triển công nghệ tiên tiến.",
                                     "answer_start": 14525
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 }

@@ -1,4 +1,5 @@
 {
+    "version": "v2.0",
     "data": [
         {
             "title": "Chương VIII Bộ Luật Lao Động Việt Nam 2019",
@@ -14,7 +15,8 @@
                                     "text": "Chương VIII của Bộ Luật Lao Động Việt Nam 2019 quy định về Đối thoại tại nơi làm việc, thương lượng tập thể và thỏa ước lao động tập thể.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "2",
@@ -24,7 +26,8 @@
                                     "text": "Đối thoại tại nơi làm việc nhằm mục đích chia sẻ thông tin, trao đổi ý kiến giữa người lao động và người sử dụng lao động về những vấn đề liên quan đến quyền và nghĩa vụ của hai bên.",
                                     "answer_start": 131
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -39,7 +42,8 @@
                                     "text": "Đối thoại tại nơi làm việc được thực hiện ít nhất một năm một lần hoặc theo yêu cầu của một bên khi có vấn đề phát sinh.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "4",
@@ -49,7 +53,8 @@
                                     "text": "Nội dung đối thoại bao gồm tình hình sản xuất, kinh doanh của doanh nghiệp, việc thực hiện hợp đồng lao động, nội quy lao động và những vấn đề khác mà hai bên quan tâm.",
                                     "answer_start": 132
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -64,7 +69,8 @@
                                     "text": "Thương lượng tập thể là quá trình đàm phán giữa tập thể lao động và người sử dụng lao động nhằm xây dựng, sửa đổi, bổ sung thỏa ước lao động tập thể và giải quyết các vấn đề phát sinh trong quan hệ lao động.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -79,7 +85,8 @@
                                     "text": "Thỏa ước lao động tập thể là văn bản ghi nhận thỏa thuận giữa tập thể lao động và người sử dụng lao động về các điều kiện lao động mà hai bên đã thương lượng và thống nhất.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -94,7 +101,8 @@
                                     "text": "Thỏa ước lao động tập thể có hiệu lực pháp lý cao hơn nội quy lao động.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "8",
@@ -104,7 +112,8 @@
                                     "text": "Thỏa ước lao động tập thể phải tuân thủ các quy định của pháp luật về lao động.",
                                     "answer_start": 54
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -119,7 +128,8 @@
                                     "text": "Người sử dụng lao động và tập thể lao động có thể yêu cầu sự hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "10",
@@ -129,7 +139,8 @@
                                     "text": "Trong quá trình thương lượng tập thể, người sử dụng lao động và tập thể lao động có thể yêu cầu sự hỗ trợ của các tổ chức và cơ quan liên quan.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -144,7 +155,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể được ký kết tại cấp doanh nghiệp, ngành hoặc cấp vùng tùy thuộc vào phạm vi áp dụng của thỏa thuận.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -159,7 +171,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể có thời hạn từ 1 đến 3 năm.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "13",
@@ -169,7 +182,8 @@
                                     "text": "Khi hết thời hạn, các bên có thể đàm phán ký kết thỏa ước mới hoặc gia hạn thỏa ước hiện tại.",
                                     "answer_start": 56
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -184,7 +198,8 @@
                                     "text": "Trong trường hợp có tranh chấp lao động, thỏa ước lao động tập thể là căn cứ để giải quyết tranh chấp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -199,7 +214,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được đăng ký với cơ quan quản lý nhà nước về lao động tại địa phương nơi doanh nghiệp hoặc tổ chức hoạt động.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -214,7 +230,8 @@
                                     "text": "Người lao động có quyền được thông tin đầy đủ về nội dung của thỏa ước lao động tập thể và có quyền tham gia đóng góp ý kiến trước khi thỏa ước được ký kết.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -229,7 +246,8 @@
                                     "text": "Người sử dụng lao động có trách nhiệm tổ chức thực hiện thỏa ước lao động tập thể và đảm bảo các điều kiện thực hiện các thỏa thuận đã ký kết.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -244,7 +262,8 @@
                                     "text": "Cơ quan quản lý nhà nước về lao động tại địa phương có trách nhiệm giám sát việc thực hiện thỏa ước lao động tập thể và giải quyết các tranh chấp phát sinh liên quan đến thỏa ước.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -259,7 +278,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bị vô hiệu toàn bộ hoặc một phần nếu vi phạm pháp luật về lao động hoặc không phù hợp với điều kiện thực tế tại nơi làm việc.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -274,7 +294,8 @@
                                     "text": "Cơ quan quản lý nhà nước về lao động có thẩm quyền yêu cầu các bên tiến hành thương lượng lại để ký kết thỏa ước mới.",
                                     "answer_start": 48
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -289,7 +310,8 @@
                                     "text": "Các bên có thể nhờ đến sự can thiệp của hội đồng hòa giải lao động hoặc tòa án nhân dân.",
                                     "answer_start": 89
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -304,7 +326,8 @@
                                     "text": "Người lao động có thể ủy quyền cho tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên trực tiếp đại diện.",
                                     "answer_start": 53
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -319,7 +342,8 @@
                                     "text": "Người sử dụng lao động phải tạo điều kiện thuận lợi để người lao động tham gia vào quá trình thương lượng tập thể.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -334,7 +358,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các thỏa thuận về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động, vệ sinh lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -349,7 +374,8 @@
                                     "text": "Người sử dụng lao động và người lao động phải tuân thủ nguyên tắc tự nguyện, bình đẳng và hợp tác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -364,7 +390,8 @@
                                     "text": "Trong quá trình thương lượng tập thể, các bên phải tôn trọng và thực hiện các thỏa thuận đã đạt được.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "27",
@@ -374,7 +401,8 @@
                                     "text": "Trong quá trình thương lượng tập thể, các bên không được có hành vi cản trở, đe dọa hoặc ép buộc đối phương.",
                                     "answer_start": 106
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -389,7 +417,8 @@
                                     "text": "Các bên có thể mời các chuyên gia hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -404,7 +433,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "30",
@@ -414,7 +444,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -429,7 +460,8 @@
                                     "text": "Trong trường hợp thỏa ước lao động tập thể bị vô hiệu một phần, các bên phải thương lượng lại các điều khoản bị vô hiệu đó để đảm bảo quyền lợi của các bên.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -444,7 +476,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được thông báo cho tất cả người lao động trong doanh nghiệp biết và thực hiện.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -459,7 +492,8 @@
                                     "text": "Trong trường hợp thỏa ước lao động tập thể có mâu thuẫn với quy định pháp luật, quy định pháp luật sẽ được ưu tiên áp dụng.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -474,7 +508,8 @@
                                     "text": "Người sử dụng lao động có trách nhiệm phổ biến nội dung thỏa ước lao động tập thể cho tất cả người lao động trong doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -489,7 +524,8 @@
                                     "text": "Các doanh nghiệp trong ngành hoặc vùng đó phải thực hiện theo thỏa ước đã ký kết.",
                                     "answer_start": 128
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -504,7 +540,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bị hủy bỏ nếu các bên phát hiện có hành vi gian lận trong quá trình thương lượng và ký kết thỏa ước.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -519,7 +556,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -534,7 +572,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -549,7 +588,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -564,7 +604,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -579,7 +620,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -594,7 +636,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -609,7 +652,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -624,7 +668,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -639,7 +684,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "46",
@@ -649,7 +695,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -664,7 +711,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -679,7 +727,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -694,7 +743,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -709,7 +759,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -724,7 +775,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -739,7 +791,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -754,7 +807,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -769,7 +823,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -784,7 +839,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "56",
@@ -794,7 +850,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -809,7 +866,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -824,7 +882,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -839,7 +898,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -854,7 +914,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -869,7 +930,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -884,7 +946,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -899,7 +962,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -914,7 +978,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -929,7 +994,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "66",
@@ -939,7 +1005,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -954,7 +1021,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -969,7 +1037,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -984,7 +1053,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -999,7 +1069,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1014,7 +1085,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1029,7 +1101,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1044,7 +1117,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1059,7 +1133,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1074,7 +1149,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "76",
@@ -1084,7 +1160,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1099,7 +1176,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1114,7 +1192,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1129,7 +1208,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1144,7 +1224,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1159,7 +1240,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1174,7 +1256,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1189,7 +1272,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1204,7 +1288,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1219,7 +1304,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "86",
@@ -1229,7 +1315,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1244,7 +1331,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1259,7 +1347,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1274,7 +1363,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1289,7 +1379,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1304,7 +1395,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1319,7 +1411,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1334,7 +1427,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1349,7 +1443,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1364,7 +1459,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "96",
@@ -1374,7 +1470,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1389,7 +1486,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1404,7 +1502,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1419,7 +1518,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1434,7 +1534,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1449,7 +1550,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1464,7 +1566,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1479,7 +1582,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1494,7 +1598,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1509,7 +1614,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "106",
@@ -1519,7 +1625,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1534,7 +1641,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1549,7 +1657,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1564,7 +1673,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1579,7 +1689,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1594,7 +1705,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1609,7 +1721,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1624,7 +1737,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1639,7 +1753,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1654,7 +1769,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "116",
@@ -1664,7 +1780,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1679,7 +1796,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1694,7 +1812,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1709,7 +1828,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1724,7 +1844,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1739,7 +1860,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1754,7 +1876,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1769,7 +1892,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1784,7 +1908,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1799,7 +1924,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "126",
@@ -1809,7 +1935,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1824,7 +1951,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1839,7 +1967,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1854,7 +1983,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1869,7 +1999,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1884,7 +2015,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1899,7 +2031,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1914,7 +2047,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1929,7 +2063,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1944,7 +2079,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "136",
@@ -1954,7 +2090,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1969,7 +2106,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1984,7 +2122,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -1999,7 +2138,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2014,7 +2154,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2029,7 +2170,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2044,7 +2186,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2059,7 +2202,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2074,7 +2218,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2089,7 +2234,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "146",
@@ -2099,7 +2245,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2114,7 +2261,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2129,7 +2277,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2144,7 +2293,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2159,7 +2309,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2174,7 +2325,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2189,7 +2341,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2204,7 +2357,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2219,7 +2373,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2234,7 +2389,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "156",
@@ -2244,7 +2400,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2259,7 +2416,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2274,7 +2432,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2289,7 +2448,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2304,7 +2464,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2319,7 +2480,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2334,7 +2496,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2349,7 +2512,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2364,7 +2528,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2379,7 +2544,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "166",
@@ -2389,7 +2555,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2404,7 +2571,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2419,7 +2587,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2434,7 +2603,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2449,7 +2619,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2464,7 +2635,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2479,7 +2651,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2494,7 +2667,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2509,7 +2683,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2524,7 +2699,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "176",
@@ -2534,7 +2710,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2549,7 +2726,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2564,7 +2742,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2579,7 +2758,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2594,7 +2774,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2609,7 +2790,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2624,7 +2806,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2639,7 +2822,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2654,7 +2838,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2669,7 +2854,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "186",
@@ -2679,7 +2865,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2694,7 +2881,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2709,7 +2897,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2724,7 +2913,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2739,7 +2929,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2754,7 +2945,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2769,7 +2961,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2784,7 +2977,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2799,7 +2993,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2814,7 +3009,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "196",
@@ -2824,7 +3020,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2839,7 +3036,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2854,7 +3052,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2869,7 +3068,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2884,7 +3084,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2899,7 +3100,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2914,7 +3116,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2929,7 +3132,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2944,7 +3148,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2959,7 +3164,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "206",
@@ -2969,7 +3175,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2984,7 +3191,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -2999,7 +3207,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3014,7 +3223,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3029,7 +3239,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3044,7 +3255,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3059,7 +3271,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3074,7 +3287,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3089,7 +3303,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3104,7 +3319,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "216",
@@ -3114,7 +3330,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3129,7 +3346,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3144,7 +3362,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3159,7 +3378,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3174,7 +3394,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3189,7 +3410,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3204,7 +3426,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3219,7 +3442,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3234,7 +3458,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3249,7 +3474,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "226",
@@ -3259,7 +3485,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3274,7 +3501,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3289,7 +3517,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3304,7 +3533,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3319,7 +3549,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3334,7 +3565,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3349,7 +3581,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3364,7 +3597,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3379,7 +3613,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3394,7 +3629,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "236",
@@ -3404,7 +3640,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3419,7 +3656,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3434,7 +3672,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3449,7 +3688,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3464,7 +3704,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3479,7 +3720,8 @@
                                     "text": "Thỏa ước lao động tập thể được ký kết tại cấp doanh nghiệp phải được gửi cho cơ quan quản lý nhà nước về lao động tại địa phương.",
                                     "answer_start": 79
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3494,7 +3736,8 @@
                                     "text": "Thỏa ước lao động tập thể sẽ được ưu tiên áp dụng.",
                                     "answer_start": 91
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3509,7 +3752,8 @@
                                     "text": "Người lao động có quyền tham gia đóng góp ý kiến và biểu quyết thông qua thỏa ước lao động tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3524,7 +3768,8 @@
                                     "text": "Thỏa ước lao động tập thể có thể bao gồm các điều khoản về tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn lao động và các phúc lợi khác.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3539,7 +3784,8 @@
                                     "text": "Thỏa ước lao động tập thể phải được lập thành văn bản.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         },
                         {
                             "id": "246",
@@ -3549,7 +3795,8 @@
                                     "text": "Thỏa ước lao động tập thể phải có chữ ký của đại diện hợp pháp của các bên tham gia thương lượng.",
                                     "answer_start": 50
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3564,7 +3811,8 @@
                                     "text": "Người lao động có quyền yêu cầu tổ chức đại diện người lao động tại cơ sở hoặc liên đoàn lao động cấp trên hỗ trợ.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3579,7 +3827,8 @@
                                     "text": "Người sử dụng lao động không được phân biệt đối xử, trù dập hoặc gây khó khăn cho người lao động.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3594,7 +3843,8 @@
                                     "text": "Các bên có thể mời các chuyên gia tư vấn pháp lý hoặc tổ chức tư vấn lao động tham gia hỗ trợ quá trình thương lượng tập thể.",
                                     "answer_start": 29
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 },
@@ -3609,7 +3859,8 @@
                                     "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin liên quan đến tình hình sản xuất, kinh doanh, tài chính của doanh nghiệp.",
                                     "answer_start": 0
                                 }
-                            ]
+                            ],
+                            "is_impossible": false
                         }
                     ]
                 }
