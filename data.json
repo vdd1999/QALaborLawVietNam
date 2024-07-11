@@ -1,0 +1,230 @@
+{
+    "title": "Tên trường",
+    "paragraphs": [
+        {
+            "context": "Trường Đại học Công Thương Thành phố Hồ Chí Minh, từ ngày 01/07/2023",
+            "qas": [
+                {
+                    "question": "HUIT là gì?",
+                    "id": "7b3edec7-0855-4d6b-b528-567faa7db2a2",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "HUIT là viết tắt của trường gì?",
+                    "id": "d3b9679a-6f15-42ca-8091-aff8be3834ae",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Trường gì có chữ viết tắt là HUIT? Ở đâu",
+                    "id": "85c2c23d-2310-477f-92fb-ccfda2ea4653",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Trường nào có chữ viết tắt là HUIT? Ở đâu",
+                    "id": "d511acc7-bec8-4104-9010-860ad1db1635",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "HUFI đổi tên thành tên gì?",
+                    "id": "f31966b9-2f53-4317-af53-9140d4785015",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "HUFI nay đổi thành tên gì?",
+                    "id": "8391e56a-1a5a-49e3-a6cd-877179df75a6",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Trường Đại học Công nghiệp Thực phẩm Thành phố Hồ Chí Minh nay có tên là gì?",
+                    "id": "4cd7a900-cdff-4e01-b649-23011016bb10",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Trường Đại học Công nghiệp Thực phẩm Thành phố Hồ Chí Minh nay đổi tên thành trường gì?",
+                    "id": "13fc4245-5769-4e9a-930a-68e5b2075126",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Tên mới của HUFI là gì?",
+                    "id": "ae9f3116-3177-44cc-b9fb-795f8fba50ea",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Nay HUFI có tên là gì?",
+                    "id": "b89dc085-5e8a-48fd-a34b-f98ea7d991bb",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "HUFI vừa mới được đổi thành tên gì?",
+                    "id": "2c21c6f8-ebfc-4d1a-bb47-15d59b849bdf",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Trường Đại học Công nghiệp Thực phẩm Thành phố Hồ Chí Minh vừa được Bộ Công Thương đổi thành tên trường gì?",
+                    "id": "05200729-bb09-4f03-9c9e-58931dba18a6",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Trường Đại học Công nghiệp Thực phẩm Thành phố Hồ Chí Minh vừa được Bộ Công Thương đổi thành tên trường gì? Thời gian nào?",
+                    "id": "3cae896b-6e59-4663-a045-78d243290816",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Trường Đại học Công Thương Thành phố Hồ Chí Minh bắt đầu từ ngày 01/07/2023.",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Bắt đầu từ ngày nào HUFI đổi tên?",
+                    "id": "9f466096-5e77-49ea-bc51-0846bf0b8be1",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Bắt đầu từ ngày 01/07/2023.",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Từ ngày mấy trường Đại học Công nghiệp Thực phẩm Thành phố Hồ Chí Minh đổi tên thành trường Đại học Công Thương Thành phố Hồ Chí Minh?",
+                    "id": "744e8244-bb38-4c5b-ad8f-3ad7278cb867",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Bắt đầu từ ngày 01/07/2023.",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Bắt đầu từ ngày nào HUFI đổi tên thành HUIT?",
+                    "id": "87a5e5fd-1ad3-4509-8820-aff1dd6a5f22",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Bắt đầu từ ngày 01/07/2023.",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Ngày mấy từ ngày nào HUFI đổi tên thành HUIT?",
+                    "id": "63de60a1-1aad-471a-b067-fddfad3815b5",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Bắt đầu từ ngày 01/07/2023.",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Thời gian nào HUFI đổi tên thành HUIT?",
+                    "id": "b1f42e31-1d06-4467-bf6a-07d2e094a2e4",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Bắt đầu từ ngày 01/07/2023.",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Bộ Công Thương đổi tên trường HUFI thành HUIT từ ngày nào?",
+                    "id": "dd8f57a8-a594-4cc7-b231-378ff44ea735",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Bắt đầu từ ngày 01/07/2023.",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Bộ Công Thương đổi tên Trường Đại học Công nghiệp Thực phẩm Thành phố Hồ Chí Minh thành Trường Đại học Công Thương Thành phố Hồ Chí Minh từ ngày nào?",
+                    "id": "753b675f-1656-41f3-b4ce-db93448d8702",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Bắt đầu từ ngày 01/07/2023.",
+                            "answer_start": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

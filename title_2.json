@@ -1,0 +1,87 @@
+{
+    "title": "Tuyển sinh, mã trường, tên ngành",
+    "paragraphs": [
+        {
+            "context": "Trường Đại học Công Thương Thành phố Hồ Chí Minh là một trường đại học tự chủ trực thuộc Bộ Công Thương. Mã trường là DCT. Trường có địa chỉ là 140 Lê Trọng Tấn, Tây Thạnh, Tân Phú, Tp. Hồ Chí Minh là cơ sở chính. Trường có 4 cơ sở tại Tân Phú và 1 cơ sở tại Trà Vinh",
+            "qas": [
+                {
+                    "question": "mã trường là gì?",
+                    "id": "3d8a77fc-80e6-4703-86ed-74e599ebfe51",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Mã trường là DCT",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "mã tuyển sinh của trường là gì?",
+                    "id": "499a0144-3db9-461d-b6ff-2002780db5a7",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Mã trường là DCT",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Trường Đại học Công Thương là trường công lập hay dân lập?",
+                    "id": "bb67ddfd-beda-4f96-8ba4-ce688d8e92c2",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Mã trường là DCT",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Mã tuyển sinh của HUIT là gì?",
+                    "id": "e8be5a4c-87ad-44df-8fec-82fc1300bd3d",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Mã trường là DCT",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "HUIT có mã tuyển sinh là gì?",
+                    "id": "0b76ef60-3bc0-472f-ae6a-d3df7cbf670b",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Mã trường là DCT",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Mã tuyển sinh của trường Đại học Công Thương Thành phố Hồ Chí Minh là gì?",
+                    "id": "15e8ae0e-3acd-4986-885c-7a13bb015f6b",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Mã trường là DCT",
+                            "answer_start": null
+                        }
+                    ]
+                },
+                {
+                    "question": "Trường Đại học Công Thương Thành phố Hồ Chí Minh có mã tuyển sinh là gì?",
+                    "id": "5fb6bd8c-ba5a-44b3-b96a-9c8ba9740127",
+                    "is_impossible": false,
+                    "answers": [
+                        {
+                            "text": "Mã trường là DCT",
+                            "answer_start": null
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
