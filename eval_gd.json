@@ -1,0 +1,1191 @@
+[
+  {
+    "version": "2.0",
+    "data": [
+      {
+        "title": "Quy chế đào tạo tín chỉ",
+        "paragraphs": [
+          {
+            "context": "Khóa học là thời gian thiết kế để sinh viên hoàn thành một chương trình cụ thể. Tùy thuộc chương trình, khóa học được quy định như sau: Đào tạo trình độ đại học theo hình thức chính, giáo dục thướng xuyên được thực hiện từ ba năm rưỡi đến sáu năm",
+            "qas": [
+              {
+                "question": "Khóa học là gì?",
+                "id": "220a1596-d038-4e31-befc-9f588ace368e",
+                "answers": [
+                  {
+                    "text": "[Khóa học là thời gian thiết kế để sinh viên hoàn thành một chương trình cụ thể.]",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Tín chỉ là đơn vị học tập để tính khối lượng học tập của người học để đạt được mục tiêu học tập mong muốn. Một tín chỉ lý thuyết được quy định bằng 45 giờ học tập của người học, gồm 15 tiết lý thuyết và 30 giờ tự học. Một tín chỉ thí nghiệm, thực hành, thảo luận trên lớp và tại phòng thí nghiệm, tại cơ sở sản xuất dưới sự hướng dẫn trực tiếp của giảng viên, cán bộ phụ trách chuyên môn được quy định bằng 45 giờ học tập của người học, gồm 30 tiết thí nghiệm, thực hành, thảo luận và 15 giờ tự học. Một tín chỉ đồ án, thực tập, khóa luận tốt nghiệp được quy định bằng 45 giờ học tập. Một tiết học được tính bằng từ 40 đến 50 phút và áp dụng đối với hình thức nghe giảng. Giờ tự học của người học được tính bắng 60 phút.",
+            "qas": [
+              {
+                "question": "Tín chỉ là gì?",
+                "id": "488b1303-1c0b-4ba3-8b13-0afadccc539c",
+                "answers": [
+                  {
+                    "text": "[Tín chỉ là đơn vị học tập để tính khối lượng học tập của người học để đạt được mục tiêu học tập mong muốn.]",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Một tín chỉ lý thuyết quy định bao nhiêu giờ?",
+                "id": "2e69f6da-cf78-4fea-89b6-e977e17f1496",
+                "answers": [
+                  {
+                    "text": "[Một tín chỉ lý thuyết được quy định bằng 45 giờ học tập của người học, gồm 15 tiết lên lớp học lý thuyết và 30 giờ tự học.]",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Một tín chỉ thí nghiệm, thực hành, thảo luận trên lớp và tại phòng thí nghiệm được tính bao nhiêu giờ?",
+                "id": "fafadee7-90fe-40fb-9e2d-e65318cec377",
+                "answers": [
+                  {
+                    "text": "[Một tín chỉ thí nghiệm, thực hành, thảo luận trên lớp và tại phòng thí nghiệm, tại cơ sở sản xuất dưới sự hướng dẫn trực tiếp của giảng viên được tính là 45 giờ học tập của người học, gồm 30 tiết thí nghiệm, thực hành, thảo luận và 15 giờ tự học]",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Một tín chỉ đồ án được quy định bao nhiêu giờ?",
+                "id": "ac09135d-250e-4604-b310-25d3466926f6",
+                "answers": [
+                  {
+                    "text": "[Một tín chỉ đồ án được quy định bằng 45 giờ học tập]",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Một tín chỉ thực tập được quy định bao nhiêu giờ?",
+                "id": "1396cddb-9666-4457-bb80-a679bcb6291b",
+                "answers": [
+                  {
+                    "text": "[Một tín chỉ thực tập được quy định được tính 45 giờ học tập.]",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Một tín chỉ khóa luận tốt nghiệp được quy định bao nhiêu giờ?",
+                "id": "4d1cfdca-db28-4493-ab1a-a02aa01a1fe9",
+                "answers": [
+                  {
+                    "text": "[Một tín chỉ khóa luận tốt nghiệp được quy định 45 giờ học tập]",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Một tiết học được tính bao nhiêu phút?",
+                "id": "dbd91753-9a2e-4d5f-b17d-f04623c6c839",
+                "answers": [
+                  {
+                    "text": "[Một tiết học được tính từ 45 đến 50 phút]",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Một giờ tự học của sinh viên được tính bao nhiêu phút?",
+                "id": "1d919ac1-5c06-402d-b4a8-68cb2ed69aa0",
+                "answers": [
+                  {
+                    "text": "[Giờ tự học của người học được tính bằng 60 phút]",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Chuẩn đầu ra là yêu cầu tối thiểu về kiến thức, kỹ năng, thái độ, trách nhiệm nghề nghiệp mà người học đạt được sau khi hoàn thành chương trình đào tạo, được cơ sở đào tạo cam kết và người học, xã hội và công bố công khai cùng với các điều kiện đảm bảo thực hiện. Chuẩn đầu ra của một chương trình đào tạo được tham chiếu theo Khung trình độ quốc gia Việt Nam, các quy định của Bộ Giáo dục và Đào tạo và đảm bảo yếu tố hội nhập khu vực, thế giới",
+            "qas": [
+              {
+                "question": "Chuẩn đầu ra là gì?",
+                "id": "04a07ab8-5f47-41fb-b161-4d391ac2d561",
+                "answers": [
+                  {
+                    "text": "[Chuẩn đầu ra là yêu cầu tối thiểu về kiến thức, kỹ năng, thái độ, trách nhiệm nghề nghiệp mà người học đạt được sau khi hoàn thành chương trình đào tạo.]",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Tín chỉ học phí là một đơn vị dùng để lượng hóa chi phí của các hoạt động giảng dạy, học tập tính cho từng học phần. Mức tiền học phí của 01 tín chỉ học phí do Hiệu trưởng quy định cho từng bậc đào tạo, hình thức đào tạo. Học phí tính theo mỗi học kỳ mà người học theo học tại HUFI. Học phí học kỳ được xác định căn cứ vào số tín chỉ học phần của người đăng ký trong thời khóa biểu học kỳ. Học phí học kỳ được tính bằng tổng của mức học phí lý thuyết nhân với số tín chỉ lý thuyết và mức học phí thực hành nhân với số tín chỉ thực hành. Học phí của các học phần người học đã đăng ký được thể hiện trên cổng thông tin sinh viên của từng người học. Trường hợp có khó khăn đột đột xuất sinh viên phải nộp đơn gia hạn tại phòng Công tác sinh viên và Thanh tra giáo dục.",
+            "qas": [
+              {
+                "question": "Tín chỉ học phí là gì?",
+                "id": "dbb7f12c-3a47-44da-af0a-58300e066fb7",
+                "answers": [
+                  {
+                    "text": "Tín chỉ học phí là một đơn vị dùng để lượng hóa chi phí của các hoạt động giảng dạy, học tập tính cho từng học phần.",
+                    "answer_start": 1
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Mức học phí của 01 tín chỉ được tính như thế nào?",
+                "id": "7d904e3f-6f69-4591-add8-992c2b94ba74",
+                "answers": [
+                  {
+                    "text": "Mức học phí của 01 tín chỉ được Hiệu trưởng quy định.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Sinh viên xem công nợ học phí học kỳ ở đâu?",
+                "id": "4a95cb8b-894c-4a39-abe7-069c84ce82a9",
+                "answers": [
+                  {
+                    "text": "Học phí của các học phần người học đã đăng ký được thể hiện trên cổng thông tin sinh viên.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Cách tính học phí học kỳ của một sinh viên.",
+                "id": "402b03b7-0691-4322-888e-9379977376be",
+                "answers": [
+                  {
+                    "text": "Học phí học kỳ được tính bằng tổng của mức học phí lý thuyết nhân với số tín chỉ lý thuyết và mức học phí thực hành nhân với số tín chỉ thực hành.",
+                    "answer_start": 391
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Nếu sinh viên gặp khó khắn đột xuất không có khả năng đóng học phí thì sinh viên phải làm gì?",
+                "id": "2ced0302-5fb6-47d6-94de-778935f5ec02",
+                "answers": [
+                  {
+                    "text": "Trường hợp có khó khăn đột đột xuất sinh viên phải nộp đơn gia hạn tại phòng Công tác sinh viên và Thanh tra giáo dục.",
+                    "answer_start": 648
+                  }
+                ],
+                "is_impossible": true
+              }
+            ]
+          },
+          {
+            "context": "Học phần bắt buộc là các học phần chứa đựng những nội dung kiến thức chính yếu của mỗi chương trình đào tạo và bắt buộc người học phải tích lũy đạt yêu cầu để được xét tốt nghiệp; Học phần tự chọn là học phần chứa đựng những nội dung kiến thức cần thiết, nhưng người học được tự chọn theo hướng dẫn của Trường nhằm đa dạng hóa hướng chuyên môn hoặc được tự chọn tùy ý để tích lũy đủ số học phần quy định cho mỗi chương trình. Học phần tự chọn được xếp theo từng nhóm với các quy định riêng liên quan. Để đủ điều kiện tốt nghiệp, người học phải hoàn tất, đạt yêu cầu một số học phần nhất định trong từng nhóm nhằm tích lũy đủ số tín chỉ tối thiểu quy định cho nhóm học phần tự chọn tương ứng. Đối với học phần tự chọn, nếu không đạt người học có quyền chọn đăng ký học lại chính học phần đó hoặc lựa chọn các học phần tự chọn khác cùng nhóm nhằm dảm bảo tích lũy đủ số tín chỉ quy định cho nhóm tự chọn. Người học không nhất thiết học lại học phần tự chọn chưa đạt nếu đã tích lũy đủ số tín chỉ của nhóm.",
+            "qas": [
+              {
+                "question": "Học phần bắt buộc là gì?",
+                "id": "2d548ddd-3f70-4b82-aaa0-1b7cfb8d4cca",
+                "answers": [
+                  {
+                    "text": "Học phần bắt buộc là các học phần chứa đựng những nội dung kiến thức chính yếu của mỗi chương trình đào tạo và bắt buộc người học phải tích lũy đạt yêu cầu để được xét tốt nghiệp.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Học phần tự chọn là gì?",
+                "id": "fb9099a0-34bc-450f-8099-c9e4e0e84f08",
+                "answers": [
+                  {
+                    "text": "Học phần tự chọn, nếu không đạt người học có quyền chọn đăng ký học lại chính học phần đó hoặc lựa chọn các học phần tự chọn khác cùng nhóm nhằm dảm bảo tích lũy đủ số tín chỉ quy định cho nhóm tự chọn. Người học không nhất thiết học lại học phần tự chọn chưa đạt nếu đã tích lũy đủ số tín chỉ của nhóm.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Nếu sinh viên không đạt môn tự chọn thì có bắt buộc học lại môn đã rớt không?",
+                "id": "afb1e1d0-80b9-4208-b617-38fc2c8fca4f",
+                "answers": [
+                  {
+                    "text": "Để đủ điều kiện tốt nghiệp, người học phải hoàn tất, đạt yêu cầu một số học phần nhất định trong từng nhóm nhằm tích lũy đủ số tín chỉ tối thiểu quy định cho nhóm học phần tự chọn tương ứng.",
+                    "answer_start": 501
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Môn tự chọn có bắt buộc phải học không?",
+                "id": "dc0b9d5b-9c80-4341-b543-050afc740195",
+                "answers": [
+                  {
+                    "text": "",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": true
+              }
+            ]
+          },
+          {
+            "context": "Học phần tương đương khi học phần A gọi là tương đương với học phần B khi hai học phần này có nội dung tương đồng hoặc cùng có chuẩn đầu ra đáp ứng yêu cầu về chauarn đầu ra của chương trình đào tạo, theo các tiêu chí do khoa quản lý hoặc bộ môn phụ trách xác định. Về số tín chỉ, học phần tương đương có thể khác nhau. Trường hợp học phần tương đương có số tín chỉ ít hơn học phần cũ thì người học phải học thêm các  học phần khác để đảm bảo tích lũy đủ số tín chỉ theo quy định của chương trình đào tạo khóa – ngành; Học phần thay thế là học phần do Bộ môn chỉ định cho người học học thay thế trong các trường hợp học phần cũ không còn tổ chức giảng dạy nữa, hoặc học phần vẫn còn trong chương trình đào tạo nhưng không được mở vào học kỳ cuối cùng đối với người học được phép học trả nợ, hoặc học phần nào ở bậc cao hơn có thể thay thế cho học phần dành riêng cho bậc học thấp hơn, hoặc khi người học học phần có nội dung bao gồm nhiều học phần có thể chỉ định thay thế cho các học phần tương ứng. Học phần thay tế có số tín chỉ ít hơn học phần cũ thì người học phải học thêm các học phần khác để đảm bảo tích lũy đủ số tín chỉ theo quy định của chương trình đào tạo khóa – ngành.",
+            "qas": [
+              {
+                "question": "Học phần tương đương là gì?",
+                "id": "c437bf65-59b2-4580-9d9d-38d58ac5a6a6",
+                "answers": [
+                  {
+                    "text": "Học phần tương đương khi học phần A gọi là tương đương với học phần B khi hai học phần này có nội dung tương đồng hoặc cùng có chuẩn đầu ra đáp ứng yêu cầu về chauarn đầu ra của chương trình đào tạo, theo các tiêu chí do khoa quản lý hoặc bộ môn phụ trách xác định.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Hai học phần tương đương với nhau thì số tín chỉ bằng nhau hay khác nhau?",
+                "id": "6679c078-63e3-423a-a291-eed774866f5a",
+                "answers": [
+                  {
+                    "text": "Về số tín chỉ, học phần tương đương có thể khác nhau.",
+                    "answer_start": 266
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Trường hợp sinh viên học học phần tương đương có số tín chỉ ít hơn môn cũ thì xử lý như thế nào?",
+                "id": "7e9380a5-d864-43f0-9f85-32ea191e1790",
+                "answers": [
+                  {
+                    "text": "Trường hợp học phần tương đương có số tín chỉ ít hơn học phần cũ thì người học phải học thêm các học phần khác để đảm bảo tích lũy đủ số tín chỉ theo quy định của chương trình đào tạo khóa – ngành.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Học phần thay thế là gì?",
+                "id": "9ee45201-d3d3-4603-bb6f-b72c69c38db1",
+                "answers": [
+                  {
+                    "text": "Học phần thay thế là học phần do Bộ môn chỉ định cho người học học thay thế trong các trường hợp học phần cũ không còn tổ chức giảng dạy nữa, hoặc học phần vẫn còn trong chương trình đào tạo nhưng không được mở vào học kỳ cuối cùng đối với người học được phép học trả nợ, hoặc học phần nào ở bậc cao hơn có thể thay thế cho học phần dành riêng cho bậc học thấp hơn, hoặc khi người học học phần có nội dung bao gồm nhiều học phần có thể chỉ định thay thế cho các học phần tương ứng",
+                    "answer_start": 519
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Trường hợp sinh viên học học phần thay thế có số tín chỉ ít hơn môn cũ thì xử lý như thế nào?",
+                "id": "9905a47c-2640-416c-bfff-ef9474b8eef1",
+                "answers": [
+                  {
+                    "text": "Trường hợp học phần thay thế có số tín chỉ ít hơn học phần cũ thì người học phải học thêm các học phần khác để đảm bảo tích lũy đủ số tín chỉ theo quy định của chương trình đào tạo khóa – ngành.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Thế nào là học phần tiên quyết?",
+                "id": "f8000e31-e0fa-4d05-a5fb-3d2cb6172088",
+                "answers": [
+                  {
+                    "text": "Học phần A là tiên quyết của học phần B, điều kiên bắt buộc để đăng ký học học phần B",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Học phần A được gọi là học phần tiên quyết với học phần B thì khi chưa đạt học phần A thì có đăng ký học phần B được không?",
+                "id": "66c9f55a-229c-4ecd-bc79-b6b4393e44c6",
+                "answers": [
+                  {
+                    "text": "người học đã học hoàn tất học phần A và kết phải đạt yêu cầu.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Thế nào là học phần trước?",
+                "id": "277e904d-55c6-499c-9ec8-65d1999d36e6",
+                "answers": [
+                  {
+                    "text": "Học phần A là học phần trước đối với học phần B nếu như người học đã đăng ký học và có điểm thi học phần A",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Học phần A được gọi là học phần trước với học phần B thì khi chưa đạt học phần A thì có đăng ký học phần B được không?",
+                "id": "ee6cf238-0bc2-4e2c-bab3-3985ec76d88b",
+                "answers": [
+                  {
+                    "text": "Người học được phép đăng ký học phần B kể cả điểm thi học phần A chưa đạt.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Thế nào là học phần song hành?",
+                "id": "823c77e6-15a6-4404-a79b-eb5c4a0453df",
+                "answers": [
+                  {
+                    "text": "Học phần B là song hành đối với học phần A với điều kiện bắt buộc để học học phần B thì người học đã đăng ký học phần A. Người học được phép đăng ký học phần B vào cùng học kỳ với học phần A.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Lớp học là những người học trúng tuyển cùng khóa tuyển sinh, học chung một chương trình đào tạo sẽ tổ chức thành một hoặc nhiều lớp học. Lớp học phần là lớp của người học cùng đăng ký một học phần, có cùng thời khóa biểu của học phần trong cùng một học kỳ. Mỗi lớp học phần được gán một mã số riêng. Số lượng người học của một lớp học phần được giới hạn bởi sức chứa của phòng học hoặc đượ sắp xếp theo các yêu cầu riêng đặc thù của học phần. Số lượng người học tối thiểu cho mỗi lớp học phần quy định: đối với lớp học phần lý thuyết hoặc lớp học phần thực hành giảng dạy tại phòng lý thuyết hoặc lớp lý thuyết học tại phòng máy tính hoặc lớp thực hành tại phòng máy tính tối thiểu 30 người học; đối với các lớp học thực hành, thí nghiệm tối thiểu 25 người học; đối với các lớp học phần Thực tập tốt nghiệp tại các đơn vị, doanh nghiệp tùy theo tình hình cụ thể người học có thể nộp đơn cho Khoa để đi thực tập tốt nghiệp theo yêu cầu cá nhân hoặc theo nhóm. Nếu số lượng người học đăng ký thấp hơn số lượng tối thiểu quy định thì lớp học học phần sẽ bị hủy, người học phải đăng ký chuyển sang học những lớp học phần khác có đủ điều kiện mở lớp.",
+            "qas": [
+              {
+                "question": "Lớp học là gì?",
+                "id": "30828a02-9f68-4bbd-9422-b3ac06db6935",
+                "answers": [
+                  {
+                    "text": "Lớp học là những người học trúng tuyển cùng khóa tuyển sinh, học chung một chương trình đào tạo sẽ tổ chức thành một hoặc nhiều lớp học.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Lớp học phần là gì?",
+                "id": "5c76ab0f-66ba-4908-bffa-d638047aae48",
+                "answers": [
+                  {
+                    "text": "Lớp học phần là lớp của người học cùng đăng ký một học phần, có cùng thời khóa biểu của học phần trong cùng một học kỳ.",
+                    "answer_start": 137
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Để đủ điều kiện mở lớp học phần thì sỉ số tối thiểu người học là bao nhiêu?",
+                "id": "ba61b6c4-690d-4f0b-a20e-2b22753c8693",
+                "answers": [
+                  {
+                    "text": "Số lượng người học tối thiểu cho mỗi lớp học phần quy định: đối với lớp học phần lý thuyết hoặc lớp học phần thực hành giảng dạy tại phòng lý thuyết hoặc lớp lý thuyết học tại phòng máy tính hoặc lớp thực hành tại phòng máy tính tối thiểu 30 người học; đối với các lớp học thực hành, thí nghiệm tối thiểu 25 người học; đối với các lớp học phần Thực tập tốt nghiệp tại các đơn vị, doanh nghiệp tùy theo tình hình cụ thể người học có thể nộp đơn cho Khoa để đi thực tập tốt nghiệp theo yêu cầu cá nhân hoặc theo nhóm.",
+                    "answer_start": 443
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Nếu đã đề nghị mở lớp học phần mà sinh viên đăng ký không đủ sỉ số tối thiểu theo quy định thì lớp học phần đó có bị hủy không?",
+                "id": "b735800a-1495-40ab-8b50-192cad5dc89a",
+                "answers": [
+                  {
+                    "text": "Nếu số lượng người học đăng ký thấp hơn số lượng tối thiểu quy định thì lớp học học phần sẽ bị hủy, người học phải đăng ký chuyển sang học những lớp học phần khác có đủ điều kiện mở lớp.",
+                    "answer_start": 959
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Sinh viên muốn mở lớp học phần theo nguyện vọng thì sinh viên phải làm như thế nào?",
+                "id": "907550f8-55d6-446b-a51f-ad954d30767b",
+                "answers": [
+                  {
+                    "text": "Sinh viên gửi giấy đề nghị mở lớp học phần gửi về Khoa quản lý môn học để được xem xét.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Đối với hệ đào tạo chính quy thời gian học được quy định như thế nào?",
+                "id": "6ff4d13c-ee16-4711-9140-b22cf22c4cd6",
+                "answers": [
+                  {
+                    "text": "Đối với hệ đào tạo chính quy thời gian hoạt động giảng dạy và học tập của Trường được tính từ 7 giờ 00 phút đến 21 giờ 00 phút các ngày trong tuần từ thứ 2 đến thứ 7.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Đối với hệ đào tạo vừa làm vừa học thời gian học được quy định như thế nào?",
+                "id": "df322c23-4ea9-45ee-baf2-ff401d5859ef",
+                "answers": [
+                  {
+                    "text": "Đối với hệ đào tạo vừa làm vừa học thời gian tổ chức hoạt động giảng dạy linh hoạt trong ngày và trong tuần.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Đối với khóa tuyển sinh từ năm 2016 trở về trước áp dụng theo Quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định số 46/QĐ-DCT ngày 12/01/2016 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh. Đối với khóa tuyển sinh từ năm 2017, 2018, 2019 áp dụng theo Quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định số 1603/QĐ-DCT ngày 23/08/2017 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh. Đối với khóa tuyển sinh năm 2020 áp dụng theo quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định 2474/QĐ-DCT ngày 14/10/2020 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh. Đối với khóa tuyển sinh từ năm 2021 trở đi áp dụng theo Quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định số 1846/QĐ-DCT ngày 01/9/2021 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh.",
+            "qas": [
+              {
+                "question": "Sinh viên tuyển sinh năm 2016 sử dụng quy chế tín chỉ nào số quyết định bao nhiêu?",
+                "id": "991703c6-693f-4880-8f22-7cbdcb43b221",
+                "answers": [
+                  {
+                    "text": "Đối với khóa tuyển sinh từ năm 2016 trở về trước áp dụng theo Quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định số 46/QĐ-DCT ngày 12/01/2016 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Sinh viên tuyển sinh năm 2017 sử dụng quy chế tín chỉ nào số quyết định bao nhiêu?",
+                "id": "e6678bd1-a5ce-467f-8a80-db9d321a3d3e",
+                "answers": [
+                  {
+                    "text": "Đối với khóa tuyển sinh từ năm 2017 áp dụng theo Quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định số 1603/QĐ-DCT ngày 23/08/2017 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Sinh viên tuyển sinh năm 2018 sử dụng quy chế tín chỉ nào số quyết định bao nhiêu?",
+                "id": "4dc815a0-bc06-4027-947f-b09a242734ca",
+                "answers": [
+                  {
+                    "text": "Đối với khóa tuyển sinh từ năm 2018 áp dụng theo Quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định số 1603/QĐ-DCT ngày 23/08/2017 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Sinh viên tuyển sinh năm 2019 sử dụng quy chế tín chỉ nào số quyết định bao nhiêu?",
+                "id": "8e0e5e99-5728-4b7d-a62a-c4db7bcf607a",
+                "answers": [
+                  {
+                    "text": "Đối với khóa tuyển sinh từ năm 2019 áp dụng theo Quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định số 1603/QĐ-DCT ngày 23/08/2017 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Sinh viên tuyển sinh năm 2020 sử dụng quy chế tín chỉ nào số quyết định bao nhiêu?",
+                "id": "0563bf05-d614-4a8b-a341-f7423e1e0d6b",
+                "answers": [
+                  {
+                    "text": "Đối với khóa tuyển sinh năm 2020 áp dụng theo quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định 2474/QĐ-DCT ngày 14/10/2020 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh.",
+                    "answer_start": 481
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Sinh viên tuyển sinh năm 2021 sử dụng quy chế tín chỉ nào số quyết định bao nhiêu?",
+                "id": "322b8bec-bd75-4d90-b7a0-1bfcece0e868",
+                "answers": [
+                  {
+                    "text": "Đối với khóa tuyển sinh từ năm 2021 trở đi áp dụng theo Quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định số 1846/QĐ-DCT ngày 01/9/2021 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh.",
+                    "answer_start": 704
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Sinh viên tuyển sinh năm 2022 sử dụng quy chế tín chỉ nào số quyết định bao nhiêu?",
+                "id": "2208b1bf-d780-4cca-a97c-b0b7afd7f1bf",
+                "answers": [
+                  {
+                    "text": "Đối với khóa tuyển sinh từ năm 2021 trở đi áp dụng theo Quy chế đào tạo theo hệ thống tín chỉ của Trường được ban hành theo Quyết định số 1846/QĐ-DCT ngày 01/9/2021 của Hiệu trưởng Trường Đại học Công nghiệp Thực phẩm Tp. Hồ Chí Minh.",
+                    "answer_start": 704
+                  }
+                ],
+                "is_impossible": true
+              }
+            ]
+          },
+          {
+            "context": "Học phần Giáo dục quốc phòng – an ninh và học phần Giáo dục thể chất không tính vào tín chỉ tích lũy, không tính vào điểm trung bình chung học kỳ, năm học, trung bình chung tích lũy, xếp loại tốt nghiệp nhưng là một trong các điều kiện để xét hoàn thành khối lượng học tập, xét tốt nghiệp và được ghi vào bảng điểm cấp kèm theo bằng tốt nghiệp.",
+            "qas": [
+              {
+                "question": "Học phần Giáo dục quốc phòng – an ninh có tính tính tích lũy không?",
+                "id": "36c4d1f4-8472-4f62-9b5a-54678c357e0c",
+                "answers": [
+                  {
+                    "text": "Học phần Giáo dục quốc phòng – an ninh không tính vào tín chỉ tích lũy, không tính vào điểm trung bình chung học kỳ, năm học, trung bình chung tích lũy, xếp loại tốt nghiệp nhưng là một trong các điều kiện để xét hoàn thành khối lượng học tập, xét tốt nghiệp và được ghi vào bảng điểm cấp kèm theo bằng tốt nghiệp.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Học phần Giáo dục thể chất có tính tính tích lũy không?",
+                "id": "3726abf6-f35d-4b8a-9ad6-9576def830b4",
+                "answers": [
+                  {
+                    "text": "Học phần Giáo dục thể chất không tính vào tín chỉ tích lũy, không tính vào điểm trung bình chung học kỳ, năm học, trung bình chung tích lũy, xếp loại tốt nghiệp nhưng là một trong các điều kiện để xét hoàn thành khối lượng học tập, xét tốt nghiệp và được ghi vào bảng điểm cấp kèm theo bằng tốt nghiệp.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Khóa học là thời gian thiết kế để người học hoàn thành một chương trình. Chương trình đào tạo liên thông cao đẳng lên đại học hệ chính quy cấp bằng cử nhân có 3 học kỳ (1.5 năm) tối đa 6 học kỳ (3 năm). Chương trình đào tạo liên thông cao đẳng lên đại học hệ chính quy cấp bằng kỹ sư có 4 học kỳ (2 năm) tối đa 7 học kỳ (3.5 năm). Chương trình đại học chính quy cấp bằng cử nhân có 7 học kỳ (3.5 năm) tối đa 12 học kỳ (6 năm). Chương trình đại học chính quy cấp bằng kỹ sư có 8 học kỳ (4 năm) tối đa 14 học kỳ (7 năm). Chương trình đại học vừa làm vừa học cấp bằng cử nhân có 9 học kỳ (4.5 năm) tối đa 18 học kỳ (9 năm). Chương trình đại học vừa làm vừa học cấp bằng kỹ sư có 10 học kỳ (5 năm) tối đa 20 học kỳ (10 năm). Quá thời gian trên sẽ bị buộc thôi học. Các học kỳ được phép tạm dừng và các học kỳ học ở trwofng khác trước khi chuyển về Trường đều được tính chung vào thời gian học tại Trường. Riêng diện tạm dừng do thực hiện nhiệm vụ an ninh – quốc phòng hoặc thai sản hoặc bản thân bị ốm, tai nạn phải điều trị thời gian dài có giấy xác nhận của cơ quan y tế cấp huyện trở lên thì thời gian tạm dừng vì lý do này không tính vào thời gian học chính thức.",
+            "qas": [
+              {
+                "question": "Chương trình đào tạo cao đẳng lên đại học chính quy cấp bằng cử nhân học mấy năm?",
+                "id": "1a65361e-7529-4efd-96f7-0eda498f9270",
+                "answers": [
+                  {
+                    "text": "Khóa học là thời gian thiết kế để người học hoàn thành một chương trình.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Chương trình đào tạo cao đẳng lên đại học chính quy cấp bằng kỹ sư học mấy năm?",
+                "id": "25d9ba48-413f-4232-aed0-313e308180a9",
+                "answers": [
+                  {
+                    "text": "Chương trình đào tạo liên thông cao đẳng lên đại học hệ chính quy cấp bằng cử nhân có 3 học kỳ (1.5 năm) tối đa 6 học kỳ (3 năm).",
+                    "answer_start": 73
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Chương trình đại học chính quy cấp bằng cử nhân học mấy năm?",
+                "id": "2f0d4182-ea61-41b6-9c04-3c5585cf5591",
+                "answers": [
+                  {
+                    "text": "Chương trình đào tạo liên thông cao đẳng lên đại học hệ chính quy cấp bằng kỹ sư có 4 học kỳ (2 năm) tối đa 7 học kỳ (3.5 năm).",
+                    "answer_start": 203
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Chương trình đại học chính quy cấp bằng kỹ sư học mấy năm?",
+                "id": "a645cb9e-5d98-4f99-8d11-16de8656e353",
+                "answers": [
+                  {
+                    "text": "Chương trình đại học chính quy cấp bằng cử nhân có 7 học kỳ (3.5 năm) tối đa 12 học kỳ (6 năm).",
+                    "answer_start": 331
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Chương trình đại học vừa làm vừa học cấp bằng cử nhân học mấy năm?",
+                "id": "b571184c-fa9e-4f84-b3b1-f228297c76a1",
+                "answers": [
+                  {
+                    "text": "Chương trình đại học chính quy cấp bằng kỹ sư có 8 học kỳ (4 năm) tối đa 14 học kỳ (7 năm).",
+                    "answer_start": 427
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Chương trình đại học vừa làm vừa học cấp bằng kỹ sư học mấy năm?",
+                "id": "c7d11239-d091-42f4-afc0-308944631010",
+                "answers": [
+                  {
+                    "text": "Chương trình đại học vừa làm vừa học cấp bằng cử nhân có 9 học kỳ (4.5 năm) tối đa 18 học kỳ (9 năm).",
+                    "answer_start": 519
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Nếu hết thời gian đào tạo mà người học vẫn chưa tốt nghiệp (hoàn thành chương trình học) thì xử lý như thế nào?",
+                "id": "147688f5-b378-4293-ab33-1ac758850cd2",
+                "answers": [
+                  {
+                    "text": "Chương trình đại học vừa làm vừa học cấp bằng kỹ sư có 10 học kỳ (5 năm) tối đa 20 học kỳ (10 năm).",
+                    "answer_start": 621
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Người học đi thực hiện nghĩa vụ quân sự có thì có được tạm dừng kết quả không?",
+                "id": "108e83fe-c8db-471d-ac5b-db11f36440b8",
+                "answers": [
+                  {
+                    "text": "Quá thời gian quy định người học sẽ bị buộc thôi học.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Các trường hợp nào khi tạm dừng kết quả học tập không tính vào thời gian học tập chính thức?",
+                "id": "df685924-4d2b-4ef5-ad0f-fa72557f045b",
+                "answers": [
+                  {
+                    "text": "Người học đi thực hiện nhiệm vụ an ninh – quốc phòng được tạm dừng kết quả học tập và thời gian tạm dừng không tính vào thời gian học chính thức.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Một năm học có mấy học kỳ?",
+                "id": "612d14a9-1631-4846-91fe-eecdce18e4ce",
+                "answers": [
+                  {
+                    "text": "Tạm dừng do thực hiện nhiệm vụ an ninh – quốc phòng hoặc thai sản hoặc bản thân bị ốm tai nạn phải điều trị thời gian dài có giấy xác nhận của cơ quan y tế cấp huyện trở lên thì gian tạm dừng không tính vào thời gian chính thức.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Học phần bắt buộc không đạt thì có bắt buộc phải học lại không?",
+                "id": "48e0ab9d-1713-48fb-82ae-6220738bc28b",
+                "answers": [
+                  {
+                    "text": "Năm học có hai học kỳ chính và một học kỳ hè.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Học phần tự chọn không đạt thì có bắt buộc phải học lại không?",
+                "id": "675f5819-d38b-457d-9194-f1717dca9c8e",
+                "answers": [
+                  {
+                    "text": "Đối với học phần bắt buộc hoặc học phần lựa chọn bắt buộc theo ngành/chuyên ngành, nếu người học có điểm tổng kết học phần không đạt thì bắt buộc phải đăng ký học lại.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Thủ tục đăng ký học lại như thế nào?",
+                "id": "93ccc9dc-4eaa-4e67-9031-1577e2513707",
+                "answers": [
+                  {
+                    "text": "Đối với học phần tự chọn nếu không đạt, người học có quyền chọn đăng ký học lại chính học phần đó hoặc lựa chọn học các học phần tự chọn khác cùng nhóm để đảm bảo tích lũy đủ số tín chỉ. Người học không nhất thiết phải học lại học phần tự chọn chưa đạt nếu đã tích lũy đủ số tín chỉ của nhóm tương ứng.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Đăng ký học cải thiện điểm: Đối với học phần bất kỳ đã có kết quả đạt, người học được phép đăng ký học lại để cải thiện điểm. Điểm của tất cả các lần học được ghi trong bảng điểm các học kỳ và trong bảng điểm tốt nghiệp. Kết quả cao nhất trong các lần học sẽ được chọn để tính vào điểm trung bình tích lũy. Thủ tục đăng ký học cải thiện điểm hoàn toàn giống như thủ tục đăng ký học phần lần đầu. Người học có thể đăng ký vào bất kỳ học kỳ nào mà học phần có mở lớp.",
+            "qas": [
+              {
+                "question": "Đăng ký học cải thiện có bắt buộc không?",
+                "id": "971e132f-8871-4b97-ab8e-09194b093f59",
+                "answers": [
+                  {
+                    "text": "Đối với học phần bất kỳ đã có kết quả đạt, người học được phép đăng ký học lại để cải thiện điểm.",
+                    "answer_start": 28
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Học cải thiện nhiều lần thì được tính điểm như thế nào?",
+                "id": "a7c9a8ed-044c-4a44-ba36-d85477466a2e",
+                "answers": [
+                  {
+                    "text": "Kết quả cao nhất trong các lần học sẽ được chọn để tính vào điểm trung bình tích lũy.",
+                    "answer_start": 221
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Các lần học cải thiện có ghi trong bảng điểm không?",
+                "id": "989981ed-bd99-4f38-a2f0-25bc280b6dd0",
+                "answers": [
+                  {
+                    "text": "Điểm của tất cả các lần học được ghi trong bảng điểm các học kỳ và trong bảng điểm tốt nghiệp.",
+                    "answer_start": 126
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Thủ tục đăng ký học cải thiện như thế nào?",
+                "id": "8629019a-9c46-43dc-ad37-edab99555b0b",
+                "answers": [
+                  {
+                    "text": "Thủ tục đăng ký học cải thiện điểm hoàn toàn giống như thủ tục đăng ký học phần lần đầu. Người học có thể đăng ký vào bất kỳ học kỳ nào mà học phần có mở lớp.",
+                    "answer_start": 307
+                  }
+                ],
+                "is_impossible": true
+              }
+            ]
+          },
+          {
+            "context": "Quy trình đăng ký học phần: Người học xem chương trình đào tạo trong từng học kỳ, danh sách các học phần bắt buộc và tự chọn, điều kiện tiên quyết để được đăng ký học cho từng học phần tại cổng thông tin sinh viên. Trong mỗi học kỳ chính thường có hai đến ba đợt đăng ký, Nhà trường sẽ thông báo cụ thể vào mỗi học kỳ về việc đăng ký học phần, người học theo dõi thông báo để thực hiện việc đăng ký. Người học đăng ký học phần cho một học kỳ mới trên trang cổng thông tin sinh viên, người học đăng nhập vào tài khoản trên hệ thống (sau khi đăng nhập lần đầu tiên yêu cầu người học thay đổi mật khẩu và bảo mật thông tin về tài khoản và mật khẩu của mình). Trong trường hợp không thể đăng nhập được vào tài khoản hoặc quên mật khẩu đăng nhập, người học liên hệ phòng Công tác sinh viên và Thanh tra giáo dục để được hỗ trợ. Sau khi kết thúc đăng ký môn học đợt 01, Nhà trường rà soát các lớp học phần không đủ điều kiện mở lớp và sẽ thông báo hủy các lớp học phần đó để người học theo dõi và đăng ký vào các lớp học phần còn lại. Người học xem thời khóa biểu chính thức trên trang cổng thông tin sinh viên sau khi hoàn tất đăng ký học phần và tiến hành nộp học phí theo thông báo của Trường. Người học mới trúng tuyển, không phải đăng ký học phần cho học kỳ đầu tiên của khóa học.",
+            "qas": [
+              {
+                "question": "sinh viên xem chương trình đào tạo ở đâu để đăng ký môn học?",
+                "id": "1edb24ab-638a-4a3d-9856-95b3c15c8932",
+                "answers": [
+                  {
+                    "text": "Người học xem chương trình đào tạo trong từng học kỳ, danh sách các học phần bắt buộc và tự chọn, điều kiện tiên quyết để được đăng ký học cho từng học phần tại cổng thông tin sinh viên.",
+                    "answer_start": 28
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Mỗi học kỳ có mấy đợt đăng ký môn học?",
+                "id": "ff2c8591-7ff7-4ace-9453-0b187bb5859b",
+                "answers": [
+                  {
+                    "text": "Trong mỗi học kỳ chính thường có hai đến ba đợt đăng ký, Nhà trường sẽ thông báo cụ thể vào mỗi học kỳ về việc đăng ký học phần, người học theo dõi thông báo để thực hiện việc đăng ký.",
+                    "answer_start": 215
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Sinh viên đăng ký môn học tại đâu?",
+                "id": "f3d4700b-7534-40b3-a69d-3b01bd7540ab",
+                "answers": [
+                  {
+                    "text": "Người học đăng ký học phần cho một học kỳ mới trên trang cổng thông tin sinh viên, người học đăng nhập vào tài khoản trên hệ thống",
+                    "answer_start": 400
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Trường hợp sinh viên không nhớ mật khẩu để đăng nhập vào hệ thống đăng ký môn học thì sinh viên phải làm sao?",
+                "id": "21144306-b74b-4c81-9f64-8ab3eaf60cf6",
+                "answers": [
+                  {
+                    "text": "Trong trường hợp không thể đăng nhập được vào tài khoản hoặc quên mật khẩu đăng nhập, người học liên hệ phòng Công tác sinh viên và Thanh tra giáo dục để được hỗ trợ.",
+                    "answer_start": 659
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Nếu nhóm học phần sinh viên đã ký mà bị hủy thì sinh viên xem thông tin ở đâu và đăng ký như thế nào?",
+                "id": "6f0b77ef-debb-42d1-9c58-62178b841c5b",
+                "answers": [
+                  {
+                    "text": "Sau khi kết thúc đăng ký môn học đợt 01, Nhà trường rà soát các lớp học phần không đủ điều kiện mở lớp và sẽ thông báo hủy các lớp học phần đó để người học theo dõi và đăng ký vào các lớp học phần còn lại.",
+                    "answer_start": 832
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Sinh viên mới trúng tuyển có phải đăng ký môn học không?",
+                "id": "b306d76e-5504-444b-bc97-ca6b02171c5c",
+                "answers": [
+                  {
+                    "text": "Người học mới trúng tuyển, không phải đăng ký học phần cho học kỳ đầu tiên của khóa học",
+                    "answer_start": 1200
+                  }
+                ],
+                "is_impossible": true
+              }
+            ]
+          },
+          {
+            "context": "Người học chỉ được phép rút bớt học phần đã đăng ký: Thời gian rút học phần: trong 02 tuần (từ tuần thứ 03 đến tuần thứ 04 đối với học kỳ chính); trong 01 tuần (tuần thứ 02 đối với học kỳ hè). Môn học được rút sẽ được xóa thời khóa biểu, xóa tên trong danh sách lớp, không tính vào số tín chỉ đăng ký, không ghi trong bảng điểm trong hệ thống. Ngoài thời hạn trên học phần vẫn được giữ nguyên theo kết quả đăng ký học và nếu người học không đi học sẽ được xem như tự ý bỏ học, bị điểm F học phần đó. Trước khi rút học phần, người học phải hoàn thành học phí của học phần đó và không được hoàn trả học phí học phần đã rút. Trường hợp do hoàn cảnh gia đình bị thiên tai, tai nạn đặc biệt; Thủ tục xin rút học phần đã đăng ký: Trong thời gian được rút học phần, người học đăng nhập vào tài khoản của cá nhân tại trang cổng thông tin sinh viên để rút bớt học phần đã đăng ký (sau khi đã hoàn thành học phí).",
+            "qas": [
+              {
+                "question": "trong mỗi học kỳ thời gian rút môn học được quy định như thế nào?",
+                "id": "b3113611-1eb2-4570-9d76-d74b0532ae4b",
+                "answers": [
+                  {
+                    "text": "Thời gian rút học phần: trong 02 tuần (từ tuần thứ 03 đến tuần thứ 04 đối với học kỳ chính); trong 01 tuần (tuần thứ 02 đối với học kỳ hè).",
+                    "answer_start": 53
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Sau khi rút môn học thì sinh viên có phải đi học môn học đã rút không?",
+                "id": "ca49aafa-8daa-4603-ab90-4a294b428119",
+                "answers": [
+                  {
+                    "text": "Môn học được rút sẽ được xóa thời khóa biểu, xóa tên trong danh sách lớp, không tính vào số tín chỉ đăng ký, không ghi trong bảng điểm trong hệ thống.",
+                    "answer_start": 193
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "sinh viên có phải đóng học phí môn học đã rút?",
+                "id": "0c78deb0-904c-47c4-83bb-01b97246afbe",
+                "answers": [
+                  {
+                    "text": "Trước khi rút học phần, người học phải hoàn thành học phí của học phần đó và không được hoàn trả học phí học phần đã rút.",
+                    "answer_start": 500
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Đóng học phí trước khi rút môn học hay sau khi rút môn học?",
+                "id": "1ef545b5-254c-4cdc-b06a-49f9aac2ffea",
+                "answers": [
+                  {
+                    "text": "Đóng học phí trước khi rút môn học.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Các trường hợp nào rút môn học được hoàn lại tất cả học phí?",
+                "id": "28d46018-d299-4b81-8414-a31691a26e52",
+                "answers": [
+                  {
+                    "text": "Trường hợp do hoàn cảnh gia đình bị thiên tai, tai nạn đặc biệt (kèm xác nhận của chính quyền) được rút lại 100% học phí các học phần xin rút.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Thủ tục rút môn học như thế nào?",
+                "id": "c1d8940c-d584-45e4-bdde-fed3ccdb380e",
+                "answers": [
+                  {
+                    "text": "Trong thời gian được rút học phần, người học đăng nhập vào tài khoản của cá nhân tại trang cổng thông tin sinh viên để rút bớt học phần đã đăng ký Trong thời gian được rút học phần, người học đăng nhập vào tài khoản của cá nhân tại trang cổng thông tin sinh viên để rút bớt học phần đã đăng ký",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Người học xin nghỉ việc riêng (gia đình có tang cha, mẹ, anh, chị em ruột, ông, bà nội ngoại hoặc được Trường cử đi tham gia hoạt động người học), nghỉ đột xuất do bị ốm hoặc do tai nạn trong quá trình học phải viết đơn, theo mẫu đăng tại trang cổng thông tin sinh viên của Trường, gửi trưởng khoa trước khi nghỉ hoặc sau khi nghỉ không quá một tuần (nghỉ ốm, tai nạn). Người học xin nghỉ ốm, nghỉ việc riêng trong đợt thi phải viết đơn hoãn thi gửi phòng Đào tạo trước khi thi hoặc sau khi thi không quá một tuần (nghỉ ốm, tai nạn). Đơn xin nghỉ ốm phải có kèm giấy xác nhận của y tế Trường, hoặc cơ sở khám chữa bệnh có đủ tư cách pháp nhân của địa phương hoặc bệnh viện. Đơn xin nghỉ việc riêng phải có xác nhận của địa phương (gia đình có tang cha, mẹ, anh, chị em ruột, ông, bà nội ngoại) hoặc của Trường (được Trường cử đi tham gia hoạt động người học). Những trường hợp nghỉ ốm không có đủ giấy tờ chứng minh thì không được chấp nhận, mọi quyền lợi học tập trong thời gian nghỉ không được giải quyết.",
+            "qas": [
+              {
+                "question": "Trường hợp nào sinh viên được xin nghỉ học việc riêng?",
+                "id": "61758057-232f-4e19-aa4b-3bc0fc4466ae",
+                "answers": [
+                  {
+                    "text": "Người học xin nghỉ việc riêng (gia đình có tang cha, mẹ, anh, chị em ruột, ông, bà nội ngoại hoặc được Trường cử đi tham gia hoạt động người học), nghỉ đột xuất do bị ốm hoặc do tai nạn trong quá trình học phải viết đơn",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Sinh viên nghỉ học việc riêng có phải nộp đơn không và nộp ở đơn vị nào?",
+                "id": "02172da9-8142-46c4-9f3f-57aa4ddacd5e",
+                "answers": [
+                  {
+                    "text": "Sinh viên làm đơn theo mẫu đăng tại Cổng thông tin sinh viên của Trường, gửi trưởng khoa trước khi nghỉ hoặc sau khi nghỉ không quá một tuần.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Xin nghỉ việc riêng cần những giấy tờ gì?",
+                "id": "03c007d5-6fff-4e92-9fc4-9eb9db38ba19",
+                "answers": [
+                  {
+                    "text": "Đơn xin nghỉ ốm phải có kèm giấy xác nhận của y tế Trường, hoặc cơ sở khám chữa bệnh có đủ tư cách pháp nhân của địa phương hoặc bệnh viện. Đơn xin nghỉ việc riêng phải có xác nhận của địa phương (gia đình có tang cha, mẹ, anh, chị em ruột, ông, bà nội ngoại) hoặc của Trường (được Trường cử đi tham gia hoạt động người học).",
+                    "answer_start": 535
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Sinh viên nghỉ trong đợt thi thì xử lý như thế nào và liên hệ phòng ban nào để được tư vấn?",
+                "id": "95d19883-2a43-488e-a420-8d1aa9127859",
+                "answers": [
+                  {
+                    "text": "Người học xin nghỉ ốm, nghỉ việc riêng trong đợt thi phải viết đơn hoãn thi gửi phòng Đào tạo trước khi thi hoặc sau khi thi không quá một tuần (nghỉ ốm, tai nạn).",
+                    "answer_start": 371
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Trường hợp nghỉ ốm không có đủ giấy tờ thì Trường có giải quyết không?",
+                "id": "086c31ad-681e-4a74-afad-3eb45de129e3",
+                "answers": [
+                  {
+                    "text": "Những trường hợp nghỉ ốm không có đủ giấy tờ chứng minh thì không được chấp nhận, mọi quyền lợi học tập trong thời gian nghỉ không được giải quyết.",
+                    "answer_start": 861
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Tỷ lệ người nghỉ học do ốm hoặc nghỉ việc riêng là bao nhiêu phần tram số giờ học trên lớp?",
+                "id": "c8a907eb-f91c-4b32-959b-77ba778a4172",
+                "answers": [
+                  {
+                    "text": "Người học nghỉ ốm, nghỉ việc riêng không quá tối đa 25% số giờ học trên lớp; nếu trường hợp phải nghỉ quá 25% số giờ học trên lớp, người học phải làm đơn xin tạm dừng học tập.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          },
+          {
+            "context": "Người học được quyền viết đơn gửi Hiệu trưởng (thông qua phòng Đào tạo) đề nghị được tạm dừng học tập và bảo lưu kết quả học tập thuộc một trong các trường hợp sau: Được cơ quan nhà nước có thẩm quyền điều động thực hiện nhiệm vụ an ninh - quốc phòng (được trả lại 100% học phí của học kỳ nếu như đã đăng ký học); Thai sản, bị ốm, hoặc tai nạn phải điều trị thời gian dài, nhưng phải có giấy xác nhận của cơ quan y tế cấp huyện trở lên; Vì nhu cầu cá nhân. Trường hợp này, người học phải học ít nhất 01 học kỳ ở Trường có điểm trung bình tích lũy từ 2.0 trở lên và không rơi vào các trường hợp bị buộc thôi học. Quy trình tạm dừng học tập: Người học làm Giấy đề nghị tạm dừng học tập kèm theo hồ sơ có liên quan về phòng Đào tạo; Phòng Đào tạo căn cứ vào hồ sơ của người học để ra quyết định tạm dừng học tập và hẹn ngày trả kết quả;  Người học tạm dừng phải nhận quyết định tạm dừng và trở về sinh hoạt tại địa phương, không được tham gia bất cứ hoạt động học tập nào tại Trường. Người học thuộc diện tạm dừng phải hoàn tất các thủ tục xin tiếp nhận lại theo đúng thời hạn ghi trong quyết định tạm dừng học tập. Giấy đề nghị tiếp nhận lại nộp tại phòng Đào tạo để trình Hiệu trưởng ra quyết định tiếp nhận lại. Trong một số trường hợp đặc biệt, Hiệu trưởng chỉ định thành lập hội đồng để xem xét hồ sơ và làm thủ tục tiếp nhận. Quy định về việc hoàn học phí trường hợp người học tạm dừng kết quả học tập: nộp đơn tạm dừng trong 2 tuần đầu của học kỳ được hoàn trả 80% tổng học phí trong học kỳ tạm dừng. Người học nộp đơn tạm dừng từ tuần thứ 3 đến tuần thứ 4 của học kỳ được hoàn trả 50% tổng học phí trong học kỳ tạm dừng. Sau tuần thứ 4 của học kỳ thì không hoàn trả học phí.",
+            "qas": [
+              {
+                "question": "sinh viên tạm dừng kết quả học tập có cần nộp đơn không?",
+                "id": "0f9141c6-017b-4669-9de9-525d95ae9eaa",
+                "answers": [
+                  {
+                    "text": "Người học được quyền viết đơn gửi Hiệu trưởng (thông qua phòng Đào tạo) đề nghị được tạm dừng học tập và bảo lưu kết quả học tập",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Trường hợp nào được tạm dừng kết quả học tập?",
+                "id": "5572aceb-4dc6-43fe-b33e-207ba3f4d49c",
+                "answers": [
+                  {
+                    "text": "một trong các trường hợp sau: Được cơ quan nhà nước có thẩm quyền điều động thực hiện nhiệm vụ an ninh - quốc phòng (được trả lại 100% học phí của học kỳ nếu như đã đăng ký học); Thai sản, bị ốm, hoặc tai nạn phải điều trị thời gian dài, nhưng phải có giấy xác nhận của cơ quan y tế cấp huyện trở lên; Vì nhu cầu cá nhân. Trường hợp này, người học phải học ít nhất 01 học kỳ ở Trường có điểm trung bình tích lũy từ 2.0 trở lên và không rơi vào các trường hợp bị buộc thôi học",
+                    "answer_start": 137
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Quy trình thủ tục tạm dừng kết quả học tập?",
+                "id": "f6703c56-ab38-4649-a824-50619bb8d0b2",
+                "answers": [
+                  {
+                    "text": "Quy trình tạm dừng học tập: Người học làm Giấy đề nghị tạm dừng học tập kèm theo hồ sơ có liên quan về phòng Đào tạo; Phòng Đào tạo căn cứ vào hồ sơ của người học để ra quyết định tạm dừng học tập và hẹn ngày trả kết quả;",
+                    "answer_start": 630
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Người học xin tạm dừng kết quả học tập có cần nhận quyết định tạm dừng không?",
+                "id": "a1e42b55-9612-4d18-a4ad-f16735ef8957",
+                "answers": [
+                  {
+                    "text": "Người học tạm dừng phải nhận quyết định tạm dừng và trở về sinh hoạt tại địa phương,",
+                    "answer_start": 853
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Trong thời gian tạm dừng kết quả học tập người học có được tham gia vào các hoạt động của trường không?",
+                "id": "84da1ca5-edcf-4766-94f5-782c5b4f99ef",
+                "answers": [
+                  {
+                    "text": "không được tham gia bất cứ hoạt động học tập nào tại Trường.",
+                    "answer_start": 938
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Trường hợp sinh viên nộp đơn xin tạm dừng kết quả học tập thì học phí của học kỳ tạm dừng có được hoàn trả học phí không và mức hoàn trả là bao nhiêu?",
+                "id": "7aa6da67-8b46-474f-8e2c-5affd2cb3b1c",
+                "answers": [
+                  {
+                    "text": "Quy định về việc hoàn học phí trường hợp người học tạm dừng kết quả học tập: nộp đơn tạm dừng trong 2 tuần đầu của học kỳ được hoàn trả 80% tổng học phí trong học kỳ tạm dừng. Người học nộp đơn tạm dừng từ tuần thứ 3 đến tuần thứ 4 của học kỳ được hoàn trả 50% tổng học phí trong học kỳ tạm dừng. Sau tuần thứ 4 của học kỳ thì không hoàn trả học phí.",
+                    "answer_start": 1347
+                  }
+                ],
+                "is_impossible": true
+              }
+            ]
+          },
+          {
+            "context": "Đối tượng chuyển ngành đào tạo: Người học đại học chính quy, vừa làm vừa học; người học đại học liên thông chính quy và vừa làm vừa học, người học đại học văn bằng thứ hai; Điều kiện được chuyển ngành đào tạo: Sinh viên chưa từng được giải quyết chuyển ngành. Sinh viên chỉ được chuyển ngành một lần từ khi nhập học vào Trường. Không trong thời gian: cảnh báo học vụ, bị kỷ luật từ mức cảnh cáo trở lên, bị truy cứu trách nhiệm hình sự. Thời gian chuyển ngành đào tạo: đối với đại học chính quy, đại học vừa làm vừa học là vào cuối học kỳ thứ 01 và các học kỳ thứ 02, 03;  đối với đại học liên thông chính quy, đại học vừa làm vừa học là vào cuối học kỳ thứ 01. Đã hoàn thành ít nhất một học kỳ của ngành học ban đầu. Thời gian chuyển ngành đào tạo: đối với đại học chính quy, đại học vừa làm vừa học là vào cuối học kỳ thứ 01 và các học kỳ thứ 02, 03;  đối với đại học liên thông chính quy, đại học vừa làm vừa học là vào cuối học kỳ thứ 01. Ngành đào tạo mới mà người học xin chuyển sang học phải có trong danh mục ngành đào tạo của trường và cùng nhóm ngành theo quy định của Bộ giáo dục và Đào tạo. Đáp ứng điều kiện đầu vào của ngành muốn chuyển đến trong cùng năm tuyển sinh, cùng nguyện vọng và có điểm trung bình tích lũy đạt 2.0 trở lên. Việc chuyển ngành của sinh viên không gây ảnh hưởng xáo trộn việc tổ chức lớp ngành chuyển đi, chuyển đến. Được sự đồng ý của Trưởng khoa xin chuyển đi và Trưởng khoa xin chuyển đến (trường hợp ngành mới không cùng khoa quản lý). Quy trình thực hiện: Người học có đơn đề nghị chuyển ngành nộp tại phòng Đào tạo (sau khi được sự đồng ý của khoa chuyển đi và khoa chuyển đến). Thời gian nhận đơn chậm nhất vào tuần thứ 02 của mỗi học kỳ. Không nhận hồ sơ xin chuyển ngành ngoài thời gian quy định và không trả lại hồ sơ nếu không được giải quyết. Sau khi nhận được hồ sơ đề nghị chuyển ngành đào tạo, phòng Đào tạo xem xét, hoàn chỉnh hồ sơ tiếp nhận người học vào học gồm dự thảo quyết định tiếp nhận vào lớp, khóa học phù hợp, danh sách học phần được công nhận chuyển điểm - điểm R. Phòng Đào tạo cập nhật điểm chuyển cho người học và yêu cầu người học đăng ký học phần, đóng học phí để tiếp tục học tập. Mọi thủ tục nhận người học chuyển ngành phải hoàn thành trước khi vào học kỳ mới ít nhất 02 tuần. Thời gian đào tạo ngành mới: Thời gian đào tạo ngành mới được tính từ khi sinh viên vào nhập học ngành học đầu tiên.",
+            "qas": [
+              {
+                "question": "Đối tượng chuyển ngành đào tạo",
+                "id": "5e670f8b-283e-4736-bbf8-3bd16219b185",
+                "answers": [
+                  {
+                    "text": "Người học đại học chính quy, vừa làm vừa học; người học đại học liên thông chính quy và vừa làm vừa học; người học đại học văn bằng thứ hai.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Điều kiện được chuyển ngành đào tạo",
+                "id": "6593c417-cfae-4b87-a4ed-83e632534a94",
+                "answers": [
+                  {
+                    "text": "Điều kiện được chuyển ngành đào tạo: Sinh viên chưa từng được giải quyết chuyển ngành. Sinh viên chỉ được chuyển ngành một lần từ khi nhập học vào Trường. Không trong thời gian: cảnh báo học vụ, bị kỷ luật từ mức cảnh cáo trở lên, bị truy cứu trách nhiệm hình sự. Thời gian chuyển ngành đào tạo: đối với đại học chính quy, đại học vừa làm vừa học là vào cuối học kỳ thứ 01 và các học kỳ thứ 02, 03;  đối với đại học liên thông chính quy, đại học vừa làm vừa học là vào cuối học kỳ thứ 01. Đã hoàn thành ít nhất một học kỳ của ngành học ban đầu. Thời gian chuyển ngành đào tạo: đối với đại học chính quy, đại học vừa làm vừa học là vào cuối học kỳ thứ 01 và các học kỳ thứ 02, 03;  đối với đại học liên thông chính quy, đại học vừa làm vừa học là vào cuối học kỳ thứ 01. Ngành đào tạo mới mà người học xin chuyển sang học phải có trong danh mục ngành đào tạo của trường và cùng nhóm ngành theo quy định của Bộ giáo dục và Đào tạo. Đáp ứng điều kiện đầu vào của ngành muốn chuyển đến trong cùng năm tuyển sinh, cùng nguyện vọng và có điểm trung bình tích lũy đạt 2.0 trở lên. Việc chuyển ngành của sinh viên không gây ảnh hưởng xáo trộn việc tổ chức lớp ngành chuyển đi, chuyển đến. Được sự đồng ý của Trưởng khoa xin chuyển đi và Trưởng khoa xin chuyển đến (trường hợp ngành mới không cùng khoa quản lý).",
+                    "answer_start": 176
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Trong quá trình học sinh viên được chuyển ngành đào tạo được mấy lần?",
+                "id": "20588c71-7213-4c15-9bc5-1a0c377a783d",
+                "answers": [
+                  {
+                    "text": "Sinh viên chỉ được chuyển ngành một lần từ khi nhập học vào Trường.",
+                    "answer_start": 272
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Quy trình thực hiện chuyển ngành đào tạo?",
+                "id": "90a86806-5a18-4e0f-b895-36e7b1e6d724",
+                "answers": [
+                  {
+                    "text": "Quy trình thực hiện: Người học có đơn đề nghị chuyển ngành nộp tại phòng Đào tạo (sau khi được sự đồng ý của khoa chuyển đi và khoa chuyển đến). Thời gian nhận đơn chậm nhất vào tuần thứ 02 của mỗi học kỳ. Không nhận hồ sơ xin chuyển ngành ngoài thời gian quy định và không trả lại hồ sơ nếu không được giải quyết. Sau khi nhận được hồ sơ đề nghị chuyển ngành đào tạo, phòng Đào tạo xem xét, hoàn chỉnh hồ sơ tiếp nhận người học vào học gồm dự thảo quyết định tiếp nhận vào lớp, khóa học phù hợp, danh sách học phần được công nhận chuyển điểm - điểm R. Phòng Đào tạo cập nhật điểm chuyển cho người học và yêu cầu người học đăng ký học phần, đóng học phí để tiếp tục học tập. Mọi thủ tục nhận người học chuyển ngành phải hoàn thành trước khi vào học kỳ mới ít nhất 02 tuần.",
+                    "answer_start": 1616
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Trường hợp sinh viên chuyển ngành đào tạo thì thời gian đào tạo ngành mới được tính như thế nào?",
+                "id": "bd066d78-1a2b-4b24-9d63-9c0ae5aaa950",
+                "answers": [
+                  {
+                    "text": "Thời gian đào tạo ngành mới được tính từ khi sinh viên vào nhập học ngành học đầu tiên.",
+                    "answer_start": 2434
+                  }
+                ],
+                "is_impossible": true
+              }
+            ]
+          },
+          {
+            "context": "Đối tượng chuyển trường: Người học đại học chính quy, vừa làm vừa học; người học đại học liên thông chính quy và vừa làm vừa học và người học đại học văn bằng thứ hai. Điều kiện được chuyển trường: Xin chuyển đến trường có cùng ngành hoặc thuộc cùng nhóm ngành với ngành đào tạo và có cùng hình thức đào tạo mà người học đang học. Được sự đồng ý của Hiệu trưởng trường xin chuyển đi và trường xin chuyển đến. Sinh viên không được phép chuyển trường trong các trường hợp sau: Sinh viên không đáp ứng điều kiện trúng tuyển của ngành học hoặc chương trình đào tạo tương ứng của trường xin chuyển đến. Sinh viên đang trong thời gian bị kỷ luật từ cảnh cáo trở lên. Sinh viên năm thứ nhất và năm cuối khóa. Quy trình thực hiện: Người học có đơn đề nghị chuyển trường nộp tại phòng Đào tạo. Thời gian nhận đơn chậm nhất vào tuần thứ hai của mỗi học kỳ. Không nhận hồ sơ xin chuyển trường ngoài thời gian quy định và không trả lại hồ sơ nếu không được giải quyết. Sau khi nhận được hồ sơ đề nghị chuyển đến, phòng Đào tạo xem xét, hoàn chỉnh hồ sơ tiếp nhận người học vào học gồm dự thảo quyết định tiếp nhận vào lớp, khóa học phù hợp, danh sách học phần được công nhận chuyển điểm - điểm R và danh sách học phần người học phải tiếp tục tích lũy để được công nhận tốt nghiệp trình Hiệu trưởng phê duyệt. Phòng Đào tạo cập nhật điểm chuyển cho người học và yêu cầu người học đăng ký học phần, đóng học phí để tiếp tục học tập. Mọi thủ tục nhận người học chuyển đến phải hoàn thành trước khi vào học kỳ mới ít nhất 02 tuần.",
+            "qas": [
+              {
+                "question": "Đối tượng nào được chuyển trường?",
+                "id": "65d344b1-72b9-4623-acfa-2152674d3b80",
+                "answers": [
+                  {
+                    "text": "Người học đại học chính quy, vừa làm vừa học; người học đại học liên thông chính quy và vừa làm vừa học và  người học đại học văn bằng thứ hai.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              },
+              {
+                "question": "Điều kiện được chuyển trường?",
+                "id": "aa975270-6a59-4ffa-91c1-5d7e66953215",
+                "answers": [
+                  {
+                    "text": "Điều kiện được chuyển trường: Xin chuyển đến trường có cùng ngành hoặc thuộc cùng nhóm ngành với ngành đào tạo và có cùng hình thức đào tạo mà người học đang học. Được sự đồng ý của Hiệu trưởng trường xin chuyển đi và trường xin chuyển đến.",
+                    "answer_start": 168
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Những trường hợp nào thì sinh viên không được chuyển trường?",
+                "id": "cd4d527b-04a8-47a2-96e8-db39c3f69834",
+                "answers": [
+                  {
+                    "text": "Sinh viên không được phép chuyển trường trong các trường hợp sau: Sinh viên không đáp ứng điều kiện trúng tuyển của ngành học hoặc chương trình đào tạo tương ứng của trường xin chuyển đến. Sinh viên đang trong thời gian bị kỷ luật từ cảnh cáo trở lên. Sinh viên năm thứ nhất và năm cuối khóa.",
+                    "answer_start": 409
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Quy trình thủ tục chuyển trường?",
+                "id": "6a706314-f3e0-473b-b694-7c73727882a6",
+                "answers": [
+                  {
+                    "text": "Quy trình thực hiện: Người học có đơn đề nghị chuyển trường nộp tại phòng Đào tạo. Thời gian nhận đơn chậm nhất vào tuần thứ hai của mỗi học kỳ. Không nhận hồ sơ xin chuyển trường ngoài thời gian quy định và không trả lại hồ sơ nếu không được giải quyết. Sau khi nhận được hồ sơ đề nghị chuyển đến, phòng Đào tạo xem xét, hoàn chỉnh hồ sơ tiếp nhận người học vào học gồm dự thảo quyết định tiếp nhận vào lớp, khóa học phù hợp, danh sách học phần được công nhận chuyển điểm - điểm R và danh sách học phần người học phải tiếp tục tích lũy để được công nhận tốt nghiệp trình Hiệu trưởng phê duyệt. Phòng Đào tạo cập nhật điểm chuyển cho người học và yêu cầu người học đăng ký học phần, đóng học phí để tiếp tục học tập.",
+                    "answer_start": 702
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Thời gian xử lý việc chuyển trường là bao lâu?",
+                "id": "2b21ec4d-169f-4b48-b494-1d12cf9695ce",
+                "answers": [
+                  {
+                    "text": "Mọi thủ tục nhận người học chuyển đến phải hoàn thành trước khi vào học kỳ mới ít nhất 02 tuần.",
+                    "answer_start": 1424
+                  }
+                ],
+                "is_impossible": true
+              }
+            ]
+          },
+          {
+            "context": "Cảnh báo học vụ được thực hiện theo từng học kỳ, nhằm giúp cho sinh viên có kết quả học tập kém biết và lập phương án học tập thích hợp để có thể tốt nghiệp trong thời hạn tối đa được phép theo học chương trình. Việc cảnh báo học vụ của sinh viên được dựa trên các điều kiện sau: Điểm trung bình chung tích luỹ đạt dưới 1,20 đối với người học năm thứ nhất, dưới 1,40 đối với người học năm thứ hai, dưới 1,60 đối với người học năm thứ ba hoặc dưới 1,80 đối với người học các năm tiếp theo và cuối khoá. Điểm trung bình chung học kỳ đạt dưới 0,80 đối với học kỳ đầu của khóa học, dưới 1,00 đối với các học kỳ tiếp theo. Người học bị cảnh cáo học vụ phải tăng cường liên hệ với Bộ môn, khoa quản lý để được tư vấn về kế hoạch học tập của cá nhân. Người học sẽ được xóa tên trong danh sách cảnh báo học vụ nếu kết quả học tập học kỳ tiếp theo không còn vi phạm các điều kiện nêu ở trên.",
+            "qas": [
+              {
+                "question": "Trường hợp nào sinh viên bị cảnh báo học vụ?",
+                "id": "f7f7e2ed-6582-40ce-82c6-b7c2d4b58387",
+                "answers": [
+                  {
+                    "text": "Việc cảnh báo học vụ của sinh viên được dựa trên các điều kiện sau: Điểm trung bình chung tích luỹ đạt dưới 1,20 đối với người học năm thứ nhất, dưới 1,40 đối với người học năm thứ hai, dưới 1,60 đối với người học năm thứ ba hoặc dưới 1,80 đối với người học các năm tiếp theo và cuối khoá. Điểm trung bình chung học kỳ đạt dưới 0,80 đối với học kỳ đầu của khóa học, dưới 1,00 đối với các học kỳ tiếp theo.",
+                    "answer_start": 214
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Việc cảnh báo học vụ thực hiện theo học kỳ hay năm học?",
+                "id": "3392b591-a25d-4fbf-877d-17c7081a7333",
+                "answers": [
+                  {
+                    "text": "Cảnh báo học vụ được thực hiện theo từng học kỳ, nhằm giúp cho sinh viên có kết quả học tập kém biết và lập phương án học tập thích hợp để có thể tốt nghiệp trong thời hạn tối đa được phép theo học chương trình.",
+                    "answer_start": 0
+                  }
+                ],
+                "is_impossible": true
+              },
+              {
+                "question": "Trường hợp sinh viên bị cảnh báo học vụ thì sinh viên phải làm gì?",
+                "id": "07f453fd-bfc3-425c-8763-b8d27c20fe90",
+                "answers": [
+                  {
+                    "text": "Người học bị cảnh cáo học vụ phải tăng cường liên hệ với Bộ môn, khoa quản lý để được tư vấn về kế hoạch học tập của cá nhân. Người học sẽ được xóa tên trong danh sách cảnh báo học vụ nếu kết quả học tập học kỳ tiếp theo không còn vi phạm các điều kiện của cảnh báo học vụ.",
+                    "answer_start": null
+                  }
+                ],
+                "is_impossible": false
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
