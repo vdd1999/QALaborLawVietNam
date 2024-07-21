@@ -27,10 +27,9 @@
               <div class="card-body">
                 <label class="text-secondary-emphasis fw-semibold  mb-1" for="method">Phương thức</label>
                 <select class="form-select" name="method" id="method">
-                  <option value="0" selected>Tìm kiếm câu hỏi</option>
-                  <option value="1">Gợi ý câu hỏi</option>
+                  <option value="0" selected>Hỏi đáp (kết hợp)</option>
+                  <option value="1">Hỏi đáp (dự đoán)</option>
                 </select>
-
                 <button class="btn btn-danger  mt-2" id="clearBtn">
                   <i class="fa fa-trash pe-1"></i> Xóa chat
                 </button>
@@ -95,11 +94,11 @@
           success: (data)=>{
             console.log(data)
             $("#loading").remove()
-            if(data.type == 0){
+            if(data.type == 0 || data.type == 1){
               const dataId = new Date().getTime()
-              const messData = {id: dataId, isAnswer: true, ...data}
+              const messData = {id: dataId, isAnswer: false, ...data}
               sessionStorage.setItem("messData", JSON.stringify(messData))
-              chatContainer.append(createChatBot({id: dataId, message: data.message, isAnswer: true}))
+              chatContainer.append(createChatBot({id: dataId, message: data.message, isAnswer: false}))
             }else{
               const groupId = new Date().getTime().toString() + "_group"
               const groupData = data.data.map((item)=>{
@@ -107,7 +106,7 @@
                   groupId, 
                   id: new Date().getTime(), 
                   message: `score: ${item.score}, question: ${item.question}`, 
-                  isAnswer: true
+                  isAnswer: false
                 }
                 return tmpObj
               })

@@ -1,8 +1,6 @@
 import json
-import os
 import re
 from underthesea import word_tokenize
-from gensim.utils import simple_preprocess
 
 
 def clean_text(text):
@@ -22,25 +20,19 @@ def clean_text(text):
     return text
 
 
-def load_all_data(data_path):
+def load_all_data(input_file: str) -> dict:
     """
-    Load all data from JSON files in the specified directory.
+    Loads the data from the given input file.
 
     Args:
-        data_path (str): The path to the directory containing the JSON files.
+        input_file (str): The path to the input file containing the data.
 
     Returns:
-        dict: A dictionary containing all the loaded data.
-
+        dict: The loaded data as a dictionary
     """
-    all_data = []
-    for filename in os.listdir(data_path):
-        if filename.endswith('.json'):
-            file_path = os.path.join(data_path, filename)
-            with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                all_data.extend(data['data'])
-    return {'data': all_data}
+    with open(input_file, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    return data
 
 
 def preprocess_data(data):
@@ -55,28 +47,35 @@ def preprocess_data(data):
         - contexts (list): A list of preprocessed contexts.
         - questions (list): A list of preprocessed questions.
         - answers (list): A list of dictionaries, each containing the preprocessed answer text and its start position.
+        - context_raws (list): A list of raw contexts.
+        - question_raws (list): A list of raw questions. 
     """
     contexts = []
+    context_raws = []
     questions = []
     answers = []
-    for article in data['data']:
+    question_raws = []
+    for dataSquad in data:
+      for article in dataSquad['data']:
         for paragraph in article['paragraphs']:
-            context = clean_text(paragraph['context'])
-            for qa in paragraph['qas']:
-                question = clean_text(qa['question'])
-                # Do ngữ liệu nhiều chỗ define thiếu is_impossible nên sẽ mặc định là False
-                is_impossible = qa.get('is_impossible', False)
-                if not is_impossible:
-                    for answer in qa['answers']:
-                        answer_text = clean_text(answer['text'])
-                        answer_start = answer['answer_start']
-                        contexts.append(context)
-                        questions.append(question)
-                        answers.append({
-                            'text': answer_text,
-                            'start': answer_start
-                        })
-    return contexts, questions, answers
+          context = clean_text(paragraph['context'])
+          for qa in paragraph['qas']:
+              question = clean_text(qa['question'])
+              # Do ngữ liệu nhiều chỗ define thiếu is_impossible nên sẽ mặc định là False
+              is_impossible = qa.get('is_impossible', False)
+              if not is_impossible:
+                for answer in qa['answers']:
+                  answer_text = clean_text(answer['text'])
+                  answer_start = answer['answer_start']
+                  contexts.append(context)
+                  context_raws.append(paragraph['context'])
+                  questions.append(question)
+                  question_raws.append(qa['question'])
+                  answers.append({
+                      'text': answer_text,
+                      'start': answer_start
+                  })
+    return contexts, questions, answers, context_raws, question_raws
 
 
 def tokenize_texts(texts):
@@ -92,12 +91,9 @@ def tokenize_texts(texts):
     return [word_tokenize(text, format="text") for text in texts]
 
 
-data_path = './data'
+data_path = './data/qa_train.json'
 squad_data = load_all_data(data_path)
-contexts, questions, answers = preprocess_data(squad_data)
+contexts, questions, answers, context_raws, question_raws = preprocess_data(squad_data)
 tokenized_contexts = tokenize_texts(contexts)
 tokenized_questions = tokenize_texts(questions)
 
-split_context_pre_train = [context.split() for context in tokenized_contexts]
-split_question_pre_train = [simple_preprocess(
-    question) for question in tokenized_questions]

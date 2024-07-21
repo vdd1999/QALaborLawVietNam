@@ -1,6 +1,6 @@
 from flask import Flask
 from flask import render_template, request, url_for, jsonify, make_response
-from SupportFunction.BM25Function import find_best_matching_question, get_top_n_ranked_bm25
+from SupportFunction.MainFunction import get_answer, get_predicted_answer
 app = Flask(__name__, static_url_path='/static')
 
 
@@ -14,18 +14,17 @@ def chat():
     data = request.json
     print(data)
     if data['type'] == 0:
-        ques, ans = find_best_matching_question(data['message'])
+        ans = get_answer(data['message'])
         res_data = {
             'type': 0,
-            'message': ques,
-            'answer': ans
+            'message': ans
         }
         return make_response(jsonify(res_data), 200)
     elif data['type'] == 1:
-        data = get_top_n_ranked_bm25(data['message'])
+        ans = get_predicted_answer(data['message'])
         res_data = {
             'type': 1,
-            'data': data
+            'message': ans
         }
         return make_response(jsonify(res_data), 200)
 

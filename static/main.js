@@ -5,7 +5,7 @@ function formatResMess(str) {
   }
 
   // Convert the first character to uppercase and the rest to lowercase
-  return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase() + "?";
+  return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
 }
 
 function createChatUser(message) {
@@ -102,9 +102,7 @@ function createLoadingEle() {
 
 function showAnswer(ele) {
   const id = $(ele).attr("data-id");
-  console.log(id);
   const groupId = $(ele).attr("data-group-id");
-  console.log(groupId);
   if (!groupId) {
     const dataStorage = JSON.parse(sessionStorage.getItem("messData"));
     const loadingEle = createLoadingEle();

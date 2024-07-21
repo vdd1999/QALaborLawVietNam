@@ -1,67 +1,29 @@
 import gensim
 import numpy as np
 from gensim.utils import simple_preprocess
-from SupportFunction.DataFunction import questions, tokenize_texts
 
 # Load pre-trained Word2Vec model.
-model_word2vec = gensim.models.Word2Vec.load("./models/word2vec.model")
+word2vec_questions = gensim.models.Word2Vec.load("./models/word2vec_question.model")
+# word2vec_contexts = gensim.models.Word2Vec.load("./models/word2vec_context.model")
 
 
-def get_vector_word(word):
-    """
-    Retrieves the vector representation of a word from the Word2Vec model.
-
-    Args:
-        word (str): The word to retrieve the vector for.
-
-    Returns:
-        numpy.ndarray or None: The vector representation of the word if it exists in the Word2Vec model,
-        otherwise returns None.
-    """
-    word = word.lower()
-    if word in model_word2vec.wv:
-        return model_word2vec.wv[word]
-    else:
-        return None
-
-
-def similarity_word(word, top=5):
-    """
-    Returns a list of similar words to the given word.
-
-    Parameters:
-    word (str): The word to find similar words for.
-    top (int): The number of similar words to return. Default is 5.
-
-    Returns:
-    list: A list of tuples containing the similar words and their similarity scores.
-    """
-    word = word.lower()
-    try:
-        similiars = model_word2vec.wv.most_similar(word, topn=top)
-        return similiars
-    except:
-        return []
-
-
-# Changed
-def get_avg_word2vec_vector(user_question):
+def get_avg_word2vec_vector(user_question, model_word2vec):
     words = user_question
     word_vectors = [model_word2vec.wv[word] for word in words if word in model_word2vec.wv]
     if not word_vectors:
         return np.zeros(model_word2vec.vector_size)
     return np.mean(word_vectors, axis=0)
 
-# Changed
-
-def get_word2vec_scores(user_question, questions):
-    query_vector = get_avg_word2vec_vector(user_question)
+def get_word2vec_scores(user_question, datas, model_word2vec):
+    query_vector = get_avg_word2vec_vector(user_question, model_word2vec)
     scores = []
-    for question in questions:
-        question_vector = get_avg_word2vec_vector(simple_preprocess(question))
-        score = np.dot(query_vector, question_vector)
+    for data in datas:
+        data_vector = get_avg_word2vec_vector(simple_preprocess(data), model_word2vec)
+        score = np.dot(query_vector, data_vector)
         if np.isnan(score):
             score = 0
         scores.append(score)
     return np.array(scores)
+    
+
     
