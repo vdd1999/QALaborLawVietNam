@@ -1,1910 +1,1467 @@
 {
-    "version": "v2.0",
-    "data": [
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Bộ luật Lao động 2019 - Chương XI",
+      "paragraphs": [
         {
-            "title": "Bộ luật lao động Việt Nam 2019 - Chương XI",
-            "paragraphs": [
+          "context": "Chương XI của Bộ luật Lao động 2019 quy định về lao động đặc thù. Các quy định bao gồm quyền và nghĩa vụ của lao động nữ, lao động chưa thành niên, lao động là người cao tuổi và lao động là người khuyết tật. Chương này cũng bao gồm các chính sách bảo vệ sức khỏe sinh sản của lao động nữ, các quy định về nghỉ thai sản và quyền lợi liên quan. Ngoài ra, còn có các điều kiện làm việc và thời gian làm việc của lao động chưa thành niên, người cao tuổi và người khuyết tật. Điều 137 quy định bảo vệ quyền làm việc của lao động nữ. Điều 138 quy định quyền và nghĩa vụ của người sử dụng lao động đối với lao động nữ. Điều 139 quy định thời giờ làm việc và nghỉ ngơi đối với lao động nữ. Điều 140 quy định bảo vệ sức khỏe sinh sản của lao động nữ. Điều 141 quy định về lao động là người cao tuổi. Điều 142 quy định về lao động là người chưa thành niên. Điều 143 quy định về lao động là người khuyết tật. Điều 144 quy định điều kiện làm việc đối với lao động đặc thù.",
+          "qas": [
+            {
+              "question": "Chương XI của Bộ luật Lao động 2019 quy định về gì?",
+              "id": "1",
+              "answers": [
                 {
-                    "context": "Điều 213. Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt. 1. Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt do Chính phủ quy định. 2. Người sử dụng lao động phải bảo đảm thời giờ làm việc, thời giờ nghỉ ngơi phù hợp với tính chất của công việc.",
-                    "qas": [
-                        {
-                            "id": "1",
-                            "question": "Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt do ai quy định?",
-                            "answers": [
-                                {
-                                    "text": "Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt do Chính phủ quy định.",
-                                    "answer_start": 74
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "2",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì về thời giờ làm việc, thời giờ nghỉ ngơi?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm thời giờ làm việc, thời giờ nghỉ ngơi phù hợp với tính chất của công việc.",
-                                    "answer_start": 163
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "3",
-                            "question": "Làm thế nào để người lao động có thể đảm bảo thời gian làm việc phù hợp khi làm công việc đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm thời giờ làm việc, thời giờ nghỉ ngơi phù hợp với tính chất của công việc.",
-                                    "answer_start": 163
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 214. Đặc điểm của công việc có tính chất đặc biệt. 1. Công việc có tính chất đặc biệt là công việc có yêu cầu cao về tính chính xác, tỉ mỉ hoặc công việc yêu cầu phải làm việc trong môi trường có yếu tố nguy hiểm, độc hại. 2. Chính phủ quy định chi tiết danh mục các công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "4",
-                            "question": "Công việc có tính chất đặc biệt là công việc như thế nào?",
-                            "answers": [
-                                {
-                                    "text": "Công việc có tính chất đặc biệt là công việc có yêu cầu cao về tính chính xác, tỉ mỉ hoặc công việc yêu cầu phải làm việc trong môi trường có yếu tố nguy hiểm, độc hại.",
-                                    "answer_start": 52
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "5",
-                            "question": "Ai quy định chi tiết danh mục các công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết danh mục các công việc có tính chất đặc biệt.",
-                                    "answer_start": 156
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "6",
-                            "question": "Tại sao một công việc lại được coi là có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Vì đó là công việc có yêu cầu cao về tính chính xác, tỉ mỉ hoặc công việc yêu cầu phải làm việc trong môi trường có yếu tố nguy hiểm, độc hại.",
-                                    "answer_start": 63
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 215. Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ làm việc và chế độ đãi ngộ đặc biệt. 2. Chính phủ quy định chi tiết về chế độ làm việc và chế độ đãi ngộ đặc biệt cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "7",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng những gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ làm việc và chế độ đãi ngộ đặc biệt.",
-                                    "answer_start": 56
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "8",
-                            "question": "Ai quy định chi tiết về chế độ làm việc và chế độ đãi ngộ đặc biệt cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ làm việc và chế độ đãi ngộ đặc biệt cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 139
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "9",
-                            "question": "Làm thế nào để người lao động làm công việc có tính chất đặc biệt được hưởng chế độ đãi ngộ phù hợp?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ làm việc và chế độ đãi ngộ đặc biệt cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 139
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 216. Quyền lợi của người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng các quyền lợi về bảo hiểm xã hội, bảo hiểm y tế và các quyền lợi khác theo quy định của pháp luật. 2. Chính phủ quy định chi tiết về quyền lợi của người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "10",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng những quyền lợi gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng các quyền lợi về bảo hiểm xã hội, bảo hiểm y tế và các quyền lợi khác theo quy định của pháp luật.",
-                                    "answer_start": 67
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "11",
-                            "question": "Ai quy định chi tiết về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về quyền lợi của người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 165
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "12",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng quyền lợi gì về bảo hiểm?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng các quyền lợi về bảo hiểm xã hội, bảo hiểm y tế và các quyền lợi khác theo quy định của pháp luật.",
-                                    "answer_start": 67
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 217. Quy định về an toàn, vệ sinh lao động cho người làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt phải được trang bị đầy đủ các thiết bị bảo hộ lao động và được huấn luyện về an toàn, vệ sinh lao động. 2. Chính phủ quy định chi tiết về các biện pháp bảo đảm an toàn, vệ sinh lao động cho người làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "13",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt phải được trang bị những gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt phải được trang bị đầy đủ các thiết bị bảo hộ lao động và được huấn luyện về an toàn, vệ sinh lao động.",
-                                    "answer_start": 74
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "14",
-                            "question": "Ai quy định chi tiết về các biện pháp bảo đảm an toàn, vệ sinh lao động cho người làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về các biện pháp bảo đảm an toàn, vệ sinh lao động cho người làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 162
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "15",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được trang bị đầy đủ thiết bị bảo hộ?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo an toàn, vệ sinh lao động cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 218. Chế độ nghỉ ngơi cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được nghỉ ngơi theo chế độ làm việc do Chính phủ quy định. 2. Người sử dụng lao động phải bảo đảm chế độ nghỉ ngơi cho người lao động làm công việc có tính chất đặc biệt phù hợp với tính chất công việc.",
-                    "qas": [
-                        {
-                            "id": "16",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được nghỉ ngơi theo chế độ làm việc do ai quy định?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được nghỉ ngơi theo chế độ làm việc do Chính phủ quy định.",
-                                    "answer_start": 85
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "17",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì về chế độ nghỉ ngơi cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm chế độ nghỉ ngơi cho người lao động làm công việc có tính chất đặc biệt phù hợp với tính chất công việc.",
-                                    "answer_start": 163
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "18",
-                            "question": "Tại sao chế độ nghỉ ngơi của người lao động làm công việc có tính chất đặc biệt cần phù hợp với tính chất công việc?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 219. Bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội. 2. Chính phủ quy định chi tiết về chế độ bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "19",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bảo hiểm xã hội theo quy định của ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội.",
-                                    "answer_start": 71
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "20",
-                            "question": "Ai quy định chi tiết về chế độ bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 148
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "21",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bảo hiểm xã hội?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và an sinh xã hội cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 135
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 220. Chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "22",
-                            "question": "Nhà nước có chính sách gì hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "23",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 189
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "24",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt cần được đào tạo nghề nhằm mục đích gì?",
-                            "answers": [
-                                {
-                                    "text": "Nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 221. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "25",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ.",
-                                    "answer_start": 62
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "26",
-                            "question": "Ai quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "27",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 222. Chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "28",
-                            "question": "Nhà nước có chính sách gì hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "29",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 172
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "30",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 223. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "31",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "32",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "33",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 224. Quy định về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt. 1. Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm thời gian làm việc, thời gian nghỉ ngơi, và chế độ đãi ngộ phù hợp với tính chất công việc. 2. Chính phủ quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "34",
-                            "question": "Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm những gì?",
-                            "answers": [
-                                {
-                                    "text": "Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm thời gian làm việc, thời gian nghỉ ngơi, và chế độ đãi ngộ phù hợp với tính chất công việc.",
-                                    "answer_start": 84
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "35",
-                            "question": "Ai quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 182
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "36",
-                            "question": "Tại sao chế độ làm việc của người lao động làm công việc có tính chất đặc biệt cần phù hợp với tính chất công việc?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 225. Quy định về an toàn, vệ sinh lao động cho người làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt phải được trang bị đầy đủ các thiết bị bảo hộ lao động và được huấn luyện về an toàn, vệ sinh lao động. 2. Chính phủ quy định chi tiết về các biện pháp bảo đảm an toàn, vệ sinh lao động cho người làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "37",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt phải được trang bị những gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt phải được trang bị đầy đủ các thiết bị bảo hộ lao động và được huấn luyện về an toàn, vệ sinh lao động.",
-                                    "answer_start": 74
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "38",
-                            "question": "Ai quy định chi tiết về các biện pháp bảo đảm an toàn, vệ sinh lao động cho người làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về các biện pháp bảo đảm an toàn, vệ sinh lao động cho người làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 162
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "39",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được trang bị đầy đủ thiết bị bảo hộ?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo an toàn, vệ sinh lao động cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 226. Chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "40",
-                            "question": "Nhà nước có chính sách gì hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "41",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 172
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "42",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 227. Quy định về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt. 1. Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm thời gian làm việc, thời gian nghỉ ngơi, và chế độ đãi ngộ phù hợp với tính chất công việc. 2. Chính phủ quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "43",
-                            "question": "Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm những gì?",
-                            "answers": [
-                                {
-                                    "text": "Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm thời gian làm việc, thời gian nghỉ ngơi, và chế độ đãi ngộ phù hợp với tính chất công việc.",
-                                    "answer_start": 84
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "44",
-                            "question": "Ai quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 182
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "45",
-                            "question": "Tại sao chế độ làm việc của người lao động làm công việc có tính chất đặc biệt cần phù hợp với tính chất công việc?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 228. Bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội. 2. Chính phủ quy định chi tiết về chế độ bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "46",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bảo hiểm xã hội theo quy định của ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội.",
-                                    "answer_start": 71
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "47",
-                            "question": "Ai quy định chi tiết về chế độ bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 148
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "48",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bảo hiểm xã hội?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và an sinh xã hội cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 135
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 229. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "49",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ.",
-                                    "answer_start": 62
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "50",
-                            "question": "Ai quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "51",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 230. Chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "52",
-                            "question": "Nhà nước có chính sách gì hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "53",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 189
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "54",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt cần được đào tạo nghề nhằm mục đích gì?",
-                            "answers": [
-                                {
-                                    "text": "Nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 231. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "55",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "56",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "57",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 232. Quy định về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt. 1. Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm thời gian làm việc, thời gian nghỉ ngơi, và chế độ đãi ngộ phù hợp với tính chất công việc. 2. Chính phủ quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "58",
-                            "question": "Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm những gì?",
-                            "answers": [
-                                {
-                                    "text": "Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm thời gian làm việc, thời gian nghỉ ngơi, và chế độ đãi ngộ phù hợp với tính chất công việc.",
-                                    "answer_start": 84
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "59",
-                            "question": "Ai quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 182
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "60",
-                            "question": "Tại sao chế độ làm việc của người lao động làm công việc có tính chất đặc biệt cần phù hợp với tính chất công việc?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 233. Chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "61",
-                            "question": "Nhà nước có chính sách gì hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "62",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 172
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "63",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 234. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "64",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "65",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "66",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 235. Chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "67",
-                            "question": "Nhà nước có chính sách gì hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "68",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 189
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "69",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt cần được đào tạo nghề nhằm mục đích gì?",
-                            "answers": [
-                                {
-                                    "text": "Nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 236. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "70",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ.",
-                                    "answer_start": 62
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "71",
-                            "question": "Ai quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "72",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 237. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "73",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "74",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "75",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 238. Chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "76",
-                            "question": "Nhà nước có chính sách gì hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "77",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 172
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "78",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 239. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "79",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "80",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "81",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 240. Chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "82",
-                            "question": "Nhà nước có chính sách gì hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "83",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 189
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "84",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt cần được đào tạo nghề nhằm mục đích gì?",
-                            "answers": [
-                                {
-                                    "text": "Nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 241. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "85",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ.",
-                                    "answer_start": 62
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "86",
-                            "question": "Ai quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "87",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 242. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "88",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "89",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "90",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 243. Chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "91",
-                            "question": "Nhà nước có chính sách gì hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "92",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 189
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "93",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt cần được đào tạo nghề nhằm mục đích gì?",
-                            "answers": [
-                                {
-                                    "text": "Nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 244. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "94",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ.",
-                                    "answer_start": 62
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "95",
-                            "question": "Ai quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "96",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 245. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "97",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "98",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "99",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 246. Chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "100",
-                            "question": "Nhà nước có chính sách gì hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "101",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 172
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "102",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 247. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "103",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "104",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "105",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 248. Chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "106",
-                            "question": "Nhà nước có chính sách gì hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "107",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 189
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "108",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt cần được đào tạo nghề nhằm mục đích gì?",
-                            "answers": [
-                                {
-                                    "text": "Nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 249. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "109",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ.",
-                                    "answer_start": 62
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "110",
-                            "question": "Ai quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "111",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 250. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "112",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "113",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "114",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 251. Chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "115",
-                            "question": "Nhà nước có chính sách gì hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "116",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 172
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "117",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 252. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "118",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "119",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "120",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 253. Chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "121",
-                            "question": "Nhà nước có chính sách gì hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "122",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 189
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "123",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt cần được đào tạo nghề nhằm mục đích gì?",
-                            "answers": [
-                                {
-                                    "text": "Nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 254. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "124",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ.",
-                                    "answer_start": 62
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "125",
-                            "question": "Ai quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "126",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 255. Chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "127",
-                            "question": "Nhà nước có chính sách gì hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "128",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 172
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "129",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 256. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "130",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "131",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "132",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 257. Chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "133",
-                            "question": "Nhà nước có chính sách gì hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "134",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 189
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "135",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt cần được đào tạo nghề nhằm mục đích gì?",
-                            "answers": [
-                                {
-                                    "text": "Nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 258. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "136",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ.",
-                                    "answer_start": 62
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "137",
-                            "question": "Ai quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "138",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 259. Chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "139",
-                            "question": "Nhà nước có chính sách gì hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt nhằm bảo đảm sức khỏe cho người lao động.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "140",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ sức khỏe cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 172
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "141",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 260. Trách nhiệm của người sử dụng lao động trong việc bảo đảm quyền lợi cho người lao động làm công việc có tính chất đặc biệt. 1. Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt. 2. Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "142",
-                            "question": "Người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi cho ai?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 104
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "143",
-                            "question": "Người sử dụng lao động phải bảo đảm điều gì cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Người sử dụng lao động phải bảo đảm môi trường làm việc an toàn và vệ sinh cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 171
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "144",
-                            "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 261. Chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt. 1. Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm. 2. Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "145",
-                            "question": "Nhà nước có chính sách gì hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Nhà nước có chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 66
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "146",
-                            "question": "Ai quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết các chính sách hỗ trợ đào tạo nghề cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 189
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "147",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt cần được đào tạo nghề nhằm mục đích gì?",
-                            "answers": [
-                                {
-                                    "text": "Nhằm nâng cao năng lực lao động và tạo điều kiện để người lao động làm công việc có tính chất đặc biệt có việc làm.",
-                                    "answer_start": 123
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
-                },
-                {
-                    "context": "Điều 262. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                    "qas": [
-                        {
-                            "id": "148",
-                            "question": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng gì?",
-                            "answers": [
-                                {
-                                    "text": "Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ.",
-                                    "answer_start": 62
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "149",
-                            "question": "Ai quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt?",
-                            "answers": [
-                                {
-                                    "text": "Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
-                                    "answer_start": 153
-                                }
-                            ],
-                            "is_impossible": false
-                        },
-                        {
-                            "id": "150",
-                            "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
-                            "answers": [
-                                {
-                                    "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                    "answer_start": 112
-                                }
-                            ],
-                            "is_impossible": false
-                        }
-                    ]
+                  "text": "lao động đặc thù",
+                  "answer_start": 52
                 }
-            ]
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Chương XI quy định về các đối tượng lao động nào?",
+              "id": "2",
+              "answers": [
+                {
+                  "text": "lao động nữ, lao động chưa thành niên, lao động là người cao tuổi và lao động là người khuyết tật",
+                  "answer_start": 86
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Chương XI bao gồm các chính sách bảo vệ sức khỏe sinh sản của đối tượng lao động nào?",
+              "id": "3",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 228
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 137 quy định về gì?",
+              "id": "4",
+              "answers": [
+                {
+                  "text": "bảo vệ quyền làm việc của lao động nữ",
+                  "answer_start": 440
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 138 quy định về quyền và nghĩa vụ của ai?",
+              "id": "5",
+              "answers": [
+                {
+                  "text": "người sử dụng lao động đối với lao động nữ",
+                  "answer_start": 482
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 139 quy định về gì?",
+              "id": "6",
+              "answers": [
+                {
+                  "text": "thời giờ làm việc và nghỉ ngơi đối với lao động nữ",
+                  "answer_start": 526
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 140 quy định về gì?",
+              "id": "7",
+              "answers": [
+                {
+                  "text": "bảo vệ sức khỏe sinh sản của lao động nữ",
+                  "answer_start": 581
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 141 quy định về ai?",
+              "id": "8",
+              "answers": [
+                {
+                  "text": "lao động là người cao tuổi",
+                  "answer_start": 624
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 142 quy định về ai?",
+              "id": "9",
+              "answers": [
+                {
+                  "text": "lao động là người chưa thành niên",
+                  "answer_start": 666
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 143 quy định về ai?",
+              "id": "10",
+              "answers": [
+                {
+                  "text": "lao động là người khuyết tật",
+                  "answer_start": 707
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 144 quy định về gì?",
+              "id": "11",
+              "answers": [
+                {
+                  "text": "điều kiện làm việc đối với lao động đặc thù",
+                  "answer_start": 748
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Chương XI của Bộ luật Lao động 2019 quy định về các quyền và nghĩa vụ của ai?",
+              "id": "12",
+              "answers": [
+                {
+                  "text": "lao động nữ, lao động chưa thành niên, lao động là người cao tuổi và lao động là người khuyết tật",
+                  "answer_start": 86
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Chương XI bao gồm các chính sách bảo vệ sức khỏe sinh sản của lao động nào?",
+              "id": "13",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 228
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 137 của Chương XI quy định về gì?",
+              "id": "14",
+              "answers": [
+                {
+                  "text": "bảo vệ quyền làm việc của lao động nữ",
+                  "answer_start": 440
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 138 của Chương XI quy định về quyền và nghĩa vụ của ai?",
+              "id": "15",
+              "answers": [
+                {
+                  "text": "người sử dụng lao động đối với lao động nữ",
+                  "answer_start": 482
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 139 của Chương XI quy định về gì?",
+              "id": "16",
+              "answers": [
+                {
+                  "text": "thời giờ làm việc và nghỉ ngơi đối với lao động nữ",
+                  "answer_start": 526
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 140 của Chương XI quy định về gì?",
+              "id": "17",
+              "answers": [
+                {
+                  "text": "bảo vệ sức khỏe sinh sản của lao động nữ",
+                  "answer_start": 581
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 141 của Chương XI quy định về ai?",
+              "id": "18",
+              "answers": [
+                {
+                  "text": "lao động là người cao tuổi",
+                  "answer_start": 624
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 142 của Chương XI quy định về ai?",
+              "id": "19",
+              "answers": [
+                {
+                  "text": "lao động là người chưa thành niên",
+                  "answer_start": 666
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 143 của Chương XI quy định về ai?",
+              "id": "20",
+              "answers": [
+                {
+                  "text": "lao động là người khuyết tật",
+                  "answer_start": 707
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 144 của Chương XI quy định về gì?",
+              "id": "21",
+              "answers": [
+                {
+                  "text": "điều kiện làm việc đối với lao động đặc thù",
+                  "answer_start": 748
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Chương XI của Bộ luật Lao động 2019 bảo vệ quyền làm việc của ai?",
+              "id": "22",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 440
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Chương XI của Bộ luật Lao động 2019 quy định thời giờ làm việc và nghỉ ngơi đối với ai?",
+              "id": "23",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 526
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Chương XI của Bộ luật Lao động 2019 quy định về bảo vệ sức khỏe sinh sản của ai?",
+              "id": "24",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 581
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 141 của Chương XI quy định về lao động là ai?",
+              "id": "25",
+              "answers": [
+                {
+                  "text": "người cao tuổi",
+                  "answer_start": 624
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 142 của Chương XI quy định về lao động là ai?",
+              "id": "26",
+              "answers": [
+                {
+                  "text": "người chưa thành niên",
+                  "answer_start": 666
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 143 của Chương XI quy định về lao động là ai?",
+              "id": "27",
+              "answers": [
+                {
+                  "text": "người khuyết tật",
+                  "answer_start": 707
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 144 của Chương XI quy định về điều kiện làm việc đối với ai?",
+              "id": "28",
+              "answers": [
+                {
+                  "text": "lao động đặc thù",
+                  "answer_start": 748
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Điều 137 của Bộ luật Lao động 2019 quy định về bảo vệ quyền làm việc của lao động nữ. Lao động nữ có quyền làm việc bình đẳng như nam giới và không bị phân biệt đối xử. Người sử dụng lao động có trách nhiệm đảm bảo môi trường làm việc an toàn, không gây nguy hại đến sức khỏe sinh sản của lao động nữ. Điều 138 quy định quyền và nghĩa vụ của người sử dụng lao động đối với lao động nữ. Người sử dụng lao động phải đảm bảo các quyền lợi cơ bản của lao động nữ và thực hiện các biện pháp bảo vệ sức khỏe cho lao động nữ, đặc biệt là trong thời kỳ mang thai và nuôi con nhỏ. Điều 139 quy định thời giờ làm việc và nghỉ ngơi đối với lao động nữ. Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ. Điều 140 quy định bảo vệ sức khỏe sinh sản của lao động nữ. Người sử dụng lao động không được yêu cầu lao động nữ làm việc trong các công việc nặng nhọc, độc hại, nguy hiểm hoặc tiếp xúc với các yếu tố có hại cho sức khỏe sinh sản.",
+          "qas": [
+            {
+              "question": "Điều 137 quy định về bảo vệ quyền làm việc của ai?",
+              "id": "29",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 46
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động nữ có quyền làm việc như thế nào?",
+              "id": "30",
+              "answers": [
+                {
+                  "text": "bình đẳng như nam giới và không bị phân biệt đối xử",
+                  "answer_start": 83
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với môi trường làm việc của lao động nữ?",
+              "id": "31",
+              "answers": [
+                {
+                  "text": "đảm bảo môi trường làm việc an toàn, không gây nguy hại đến sức khỏe sinh sản của lao động nữ",
+                  "answer_start": 143
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 138 quy định quyền và nghĩa vụ của ai đối với lao động nữ?",
+              "id": "32",
+              "answers": [
+                {
+                  "text": "người sử dụng lao động",
+                  "answer_start": 300
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các quyền lợi gì cho lao động nữ?",
+              "id": "33",
+              "answers": [
+                {
+                  "text": "các quyền lợi cơ bản của lao động nữ và thực hiện các biện pháp bảo vệ sức khỏe cho lao động nữ, đặc biệt là trong thời kỳ mang thai và nuôi con nhỏ",
+                  "answer_start": 342
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 139 quy định thời giờ làm việc và nghỉ ngơi đối với ai?",
+              "id": "34",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 511
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như thế nào?",
+              "id": "35",
+              "answers": [
+                {
+                  "text": "nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ",
+                  "answer_start": 550
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 140 quy định bảo vệ gì của lao động nữ?",
+              "id": "36",
+              "answers": [
+                {
+                  "text": "sức khỏe sinh sản",
+                  "answer_start": 620
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động không được yêu cầu lao động nữ làm việc trong các công việc nào?",
+              "id": "37",
+              "answers": [
+                {
+                  "text": "công việc nặng nhọc, độc hại, nguy hiểm hoặc tiếp xúc với các yếu tố có hại cho sức khỏe sinh sản",
+                  "answer_start": 666
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Điều 141 của Bộ luật Lao động 2019 quy định về lao động là người cao tuổi. Người cao tuổi có quyền làm việc và được bảo vệ quyền lợi hợp pháp khi làm việc. Người sử dụng lao động có trách nhiệm đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi. Điều 142 quy định về lao động là người chưa thành niên. Người chưa thành niên được bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn, không gây ảnh hưởng xấu đến sự phát triển thể chất, trí tuệ và đạo đức. Điều 143 quy định về lao động là người khuyết tật. Người khuyết tật có quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp. Người sử dụng lao động có trách nhiệm đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật. Điều 144 quy định điều kiện làm việc đối với lao động đặc thù. Người sử dụng lao động phải đảm bảo các điều kiện làm việc phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ.",
+          "qas": [
+            {
+              "question": "Điều 141 quy định về lao động là ai?",
+              "id": "38",
+              "answers": [
+                {
+                  "text": "người cao tuổi",
+                  "answer_start": 52
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người cao tuổi có quyền gì khi làm việc?",
+              "id": "39",
+              "answers": [
+                {
+                  "text": "quyền làm việc và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 71
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với điều kiện làm việc của người cao tuổi?",
+              "id": "40",
+              "answers": [
+                {
+                  "text": "đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi",
+                  "answer_start": 135
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 142 quy định về lao động là ai?",
+              "id": "41",
+              "answers": [
+                {
+                  "text": "người chưa thành niên",
+                  "answer_start": 218
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người chưa thành niên được bảo vệ quyền lợi gì?",
+              "id": "42",
+              "answers": [
+                {
+                  "text": "bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn",
+                  "answer_start": 237
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 143 quy định về lao động là ai?",
+              "id": "43",
+              "answers": [
+                {
+                  "text": "người khuyết tật",
+                  "answer_start": 343
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người khuyết tật có quyền gì khi làm việc?",
+              "id": "44",
+              "answers": [
+                {
+                  "text": "quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 362
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với điều kiện làm việc của người khuyết tật?",
+              "id": "45",
+              "answers": [
+                {
+                  "text": "đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật",
+                  "answer_start": 421
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 144 quy định về điều kiện làm việc đối với ai?",
+              "id": "46",
+              "answers": [
+                {
+                  "text": "lao động đặc thù",
+                  "answer_start": 502
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các điều kiện làm việc như thế nào?",
+              "id": "47",
+              "answers": [
+                {
+                  "text": "phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ",
+                  "answer_start": 526
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lao động nữ có quyền làm việc bình đẳng như nam giới và không bị phân biệt đối xử. Người sử dụng lao động phải đảm bảo môi trường làm việc an toàn, không gây nguy hại đến sức khỏe sinh sản của lao động nữ. Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ. Lao động là người cao tuổi có quyền làm việc và được bảo vệ quyền lợi hợp pháp khi làm việc. Người sử dụng lao động phải đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi. Người chưa thành niên được bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn, không gây ảnh hưởng xấu đến sự phát triển thể chất, trí tuệ và đạo đức. Người khuyết tật có quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp. Người sử dụng lao động phải đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật. Người sử dụng lao động phải đảm bảo các điều kiện làm việc phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ.",
+          "qas": [
+            {
+              "question": "Lao động nữ có quyền làm việc như thế nào?",
+              "id": "48",
+              "answers": [
+                {
+                  "text": "bình đẳng như nam giới và không bị phân biệt đối xử",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo môi trường làm việc như thế nào cho lao động nữ?",
+              "id": "49",
+              "answers": [
+                {
+                  "text": "an toàn, không gây nguy hại đến sức khỏe sinh sản của lao động nữ",
+                  "answer_start": 60
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như thế nào?",
+              "id": "50",
+              "answers": [
+                {
+                  "text": "nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ",
+                  "answer_start": 134
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động là người cao tuổi có quyền gì khi làm việc?",
+              "id": "51",
+              "answers": [
+                {
+                  "text": "quyền làm việc và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 214
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo điều kiện làm việc như thế nào cho người cao tuổi?",
+              "id": "52",
+              "answers": [
+                {
+                  "text": "an toàn, phù hợp với sức khỏe của người cao tuổi",
+                  "answer_start": 278
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người chưa thành niên được bảo vệ quyền lợi như thế nào?",
+              "id": "53",
+              "answers": [
+                {
+                  "text": "bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn",
+                  "answer_start": 345
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người khuyết tật có quyền gì khi làm việc?",
+              "id": "54",
+              "answers": [
+                {
+                  "text": "quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 480
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo điều kiện làm việc như thế nào cho người khuyết tật?",
+              "id": "55",
+              "answers": [
+                {
+                  "text": "an toàn và phù hợp với sức khỏe của người khuyết tật",
+                  "answer_start": 537
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các điều kiện làm việc như thế nào?",
+              "id": "56",
+              "answers": [
+                {
+                  "text": "phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ",
+                  "answer_start": 601
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ. Lao động là người cao tuổi có quyền làm việc và được bảo vệ quyền lợi hợp pháp khi làm việc. Người sử dụng lao động phải đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi. Người chưa thành niên được bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn, không gây ảnh hưởng xấu đến sự phát triển thể chất, trí tuệ và đạo đức. Người khuyết tật có quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp. Người sử dụng lao động phải đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật. Người sử dụng lao động phải đảm bảo các điều kiện làm việc phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ.",
+          "qas": [
+            {
+              "question": "Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như thế nào?",
+              "id": "57",
+              "answers": [
+                {
+                  "text": "nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động là người cao tuổi có quyền gì khi làm việc?",
+              "id": "58",
+              "answers": [
+                {
+                  "text": "quyền làm việc và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 91
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo điều kiện làm việc như thế nào cho người cao tuổi?",
+              "id": "59",
+              "answers": [
+                {
+                  "text": "an toàn, phù hợp với sức khỏe của người cao tuổi",
+                  "answer_start": 155
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người chưa thành niên được bảo vệ quyền lợi như thế nào?",
+              "id": "60",
+              "answers": [
+                {
+                  "text": "bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn",
+                  "answer_start": 222
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người khuyết tật có quyền gì khi làm việc?",
+              "id": "61",
+              "answers": [
+                {
+                  "text": "quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 357
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo điều kiện làm việc như thế nào cho người khuyết tật?",
+              "id": "62",
+              "answers": [
+                {
+                  "text": "an toàn và phù hợp với sức khỏe của người khuyết tật",
+                  "answer_start": 414
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các điều kiện làm việc như thế nào?",
+              "id": "63",
+              "answers": [
+                {
+                  "text": "phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ",
+                  "answer_start": 478
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Điều 141 của Bộ luật Lao động 2019 quy định về lao động là người cao tuổi. Người cao tuổi có quyền làm việc và được bảo vệ quyền lợi hợp pháp khi làm việc. Người sử dụng lao động có trách nhiệm đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi. Điều 142 quy định về lao động là người chưa thành niên. Người chưa thành niên được bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn, không gây ảnh hưởng xấu đến sự phát triển thể chất, trí tuệ và đạo đức. Điều 143 quy định về lao động là người khuyết tật. Người khuyết tật có quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp. Người sử dụng lao động có trách nhiệm đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật. Điều 144 quy định điều kiện làm việc đối với lao động đặc thù. Người sử dụng lao động phải đảm bảo các điều kiện làm việc phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ.",
+          "qas": [
+            {
+              "question": "Điều 141 của Bộ luật Lao động 2019 quy định về ai?",
+              "id": "64",
+              "answers": [
+                {
+                  "text": "lao động là người cao tuổi",
+                  "answer_start": 46
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người cao tuổi có quyền gì khi làm việc?",
+              "id": "65",
+              "answers": [
+                {
+                  "text": "quyền làm việc và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 65
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với điều kiện làm việc của người cao tuổi?",
+              "id": "66",
+              "answers": [
+                {
+                  "text": "đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi",
+                  "answer_start": 129
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 142 quy định về lao động là ai?",
+              "id": "67",
+              "answers": [
+                {
+                  "text": "người chưa thành niên",
+                  "answer_start": 212
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người chưa thành niên được bảo vệ quyền lợi như thế nào?",
+              "id": "68",
+              "answers": [
+                {
+                  "text": "bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn",
+                  "answer_start": 231
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 143 quy định về lao động là ai?",
+              "id": "69",
+              "answers": [
+                {
+                  "text": "người khuyết tật",
+                  "answer_start": 337
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người khuyết tật có quyền gì khi làm việc?",
+              "id": "70",
+              "answers": [
+                {
+                  "text": "quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 356
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với điều kiện làm việc của người khuyết tật?",
+              "id": "71",
+              "answers": [
+                {
+                  "text": "đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật",
+                  "answer_start": 415
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 144 quy định về điều kiện làm việc đối với ai?",
+              "id": "72",
+              "answers": [
+                {
+                  "text": "lao động đặc thù",
+                  "answer_start": 496
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các điều kiện làm việc như thế nào?",
+              "id": "73",
+              "answers": [
+                {
+                  "text": "phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ",
+                  "answer_start": 520
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lao động nữ có quyền làm việc bình đẳng như nam giới và không bị phân biệt đối xử. Người sử dụng lao động phải đảm bảo môi trường làm việc an toàn, không gây nguy hại đến sức khỏe sinh sản của lao động nữ. Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ. Lao động là người cao tuổi có quyền làm việc và được bảo vệ quyền lợi hợp pháp khi làm việc. Người sử dụng lao động phải đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi. Người chưa thành niên được bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn, không gây ảnh hưởng xấu đến sự phát triển thể chất, trí tuệ và đạo đức. Người khuyết tật có quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp. Người sử dụng lao động phải đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật. Người sử dụng lao động phải đảm bảo các điều kiện làm việc phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ.",
+          "qas": [
+            {
+              "question": "Lao động nữ có quyền làm việc như thế nào?",
+              "id": "74",
+              "answers": [
+                {
+                  "text": "bình đẳng như nam giới và không bị phân biệt đối xử",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo môi trường làm việc như thế nào cho lao động nữ?",
+              "id": "75",
+              "answers": [
+                {
+                  "text": "an toàn, không gây nguy hại đến sức khỏe sinh sản của lao động nữ",
+                  "answer_start": 60
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như thế nào?",
+              "id": "76",
+              "answers": [
+                {
+                  "text": "nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ",
+                  "answer_start": 134
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động là người cao tuổi có quyền gì khi làm việc?",
+              "id": "77",
+              "answers": [
+                {
+                  "text": "quyền làm việc và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 214
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo điều kiện làm việc như thế nào cho người cao tuổi?",
+              "id": "78",
+              "answers": [
+                {
+                  "text": "an toàn, phù hợp với sức khỏe của người cao tuổi",
+                  "answer_start": 278
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người chưa thành niên được bảo vệ quyền lợi như thế nào?",
+              "id": "79",
+              "answers": [
+                {
+                  "text": "bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn",
+                  "answer_start": 345
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người khuyết tật có quyền gì khi làm việc?",
+              "id": "80",
+              "answers": [
+                {
+                  "text": "quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 480
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo điều kiện làm việc như thế nào cho người khuyết tật?",
+              "id": "81",
+              "answers": [
+                {
+                  "text": "an toàn và phù hợp với sức khỏe của người khuyết tật",
+                  "answer_start": 537
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các điều kiện làm việc như thế nào?",
+              "id": "82",
+              "answers": [
+                {
+                  "text": "phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ",
+                  "answer_start": 601
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ. Lao động là người cao tuổi có quyền làm việc và được bảo vệ quyền lợi hợp pháp khi làm việc. Người sử dụng lao động phải đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi. Người chưa thành niên được bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn, không gây ảnh hưởng xấu đến sự phát triển thể chất, trí tuệ và đạo đức. Người khuyết tật có quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp. Người sử dụng lao động phải đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật. Người sử dụng lao động phải đảm bảo các điều kiện làm việc phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ.",
+          "qas": [
+            {
+              "question": "Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như thế nào?",
+              "id": "83",
+              "answers": [
+                {
+                  "text": "nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động là người cao tuổi có quyền gì khi làm việc?",
+              "id": "84",
+              "answers": [
+                {
+                  "text": "quyền làm việc và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 91
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo điều kiện làm việc như thế nào cho người cao tuổi?",
+              "id": "85",
+              "answers": [
+                {
+                  "text": "an toàn, phù hợp với sức khỏe của người cao tuổi",
+                  "answer_start": 155
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người chưa thành niên được bảo vệ quyền lợi như thế nào?",
+              "id": "86",
+              "answers": [
+                {
+                  "text": "bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn",
+                  "answer_start": 222
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người khuyết tật có quyền gì khi làm việc?",
+              "id": "87",
+              "answers": [
+                {
+                  "text": "quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 357
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo điều kiện làm việc như thế nào cho người khuyết tật?",
+              "id": "88",
+              "answers": [
+                {
+                  "text": "an toàn và phù hợp với sức khỏe của người khuyết tật",
+                  "answer_start": 414
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các điều kiện làm việc như thế nào?",
+              "id": "89",
+              "answers": [
+                {
+                  "text": "phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ",
+                  "answer_start": 478
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Điều 137 của Bộ luật Lao động 2019 quy định về bảo vệ quyền làm việc của lao động nữ. Lao động nữ có quyền làm việc bình đẳng như nam giới và không bị phân biệt đối xử. Người sử dụng lao động có trách nhiệm đảm bảo môi trường làm việc an toàn, không gây nguy hại đến sức khỏe sinh sản của lao động nữ. Điều 138 quy định quyền và nghĩa vụ của người sử dụng lao động đối với lao động nữ. Người sử dụng lao động phải đảm bảo các quyền lợi cơ bản của lao động nữ và thực hiện các biện pháp bảo vệ sức khỏe cho lao động nữ, đặc biệt là trong thời kỳ mang thai và nuôi con nhỏ. Điều 139 quy định thời giờ làm việc và nghỉ ngơi đối với lao động nữ. Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ. Điều 140 quy định bảo vệ sức khỏe sinh sản của lao động nữ. Người sử dụng lao động không được yêu cầu lao động nữ làm việc trong các công việc nặng nhọc, độc hại, nguy hiểm hoặc tiếp xúc với các yếu tố có hại cho sức khỏe sinh sản.",
+          "qas": [
+            {
+              "question": "Điều 137 quy định về bảo vệ quyền làm việc của ai?",
+              "id": "90",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 46
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động nữ có quyền làm việc như thế nào?",
+              "id": "91",
+              "answers": [
+                {
+                  "text": "bình đẳng như nam giới và không bị phân biệt đối xử",
+                  "answer_start": 83
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với môi trường làm việc của lao động nữ?",
+              "id": "92",
+              "answers": [
+                {
+                  "text": "đảm bảo môi trường làm việc an toàn, không gây nguy hại đến sức khỏe sinh sản của lao động nữ",
+                  "answer_start": 143
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 138 quy định quyền và nghĩa vụ của ai đối với lao động nữ?",
+              "id": "93",
+              "answers": [
+                {
+                  "text": "người sử dụng lao động",
+                  "answer_start": 300
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các quyền lợi gì cho lao động nữ?",
+              "id": "94",
+              "answers": [
+                {
+                  "text": "các quyền lợi cơ bản của lao động nữ và thực hiện các biện pháp bảo vệ sức khỏe cho lao động nữ, đặc biệt là trong thời kỳ mang thai và nuôi con nhỏ",
+                  "answer_start": 342
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 139 quy định thời giờ làm việc và nghỉ ngơi đối với ai?",
+              "id": "95",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 511
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như thế nào?",
+              "id": "96",
+              "answers": [
+                {
+                  "text": "nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ",
+                  "answer_start": 550
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 140 quy định bảo vệ gì của lao động nữ?",
+              "id": "97",
+              "answers": [
+                {
+                  "text": "sức khỏe sinh sản",
+                  "answer_start": 620
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động không được yêu cầu lao động nữ làm việc trong các công việc nào?",
+              "id": "98",
+              "answers": [
+                {
+                  "text": "công việc nặng nhọc, độc hại, nguy hiểm hoặc tiếp xúc với các yếu tố có hại cho sức khỏe sinh sản",
+                  "answer_start": 666
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Điều 141 của Bộ luật Lao động 2019 quy định về lao động là người cao tuổi. Người cao tuổi có quyền làm việc và được bảo vệ quyền lợi hợp pháp khi làm việc. Người sử dụng lao động có trách nhiệm đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi. Điều 142 quy định về lao động là người chưa thành niên. Người chưa thành niên được bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn, không gây ảnh hưởng xấu đến sự phát triển thể chất, trí tuệ và đạo đức. Điều 143 quy định về lao động là người khuyết tật. Người khuyết tật có quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp. Người sử dụng lao động có trách nhiệm đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật. Điều 144 quy định điều kiện làm việc đối với lao động đặc thù. Người sử dụng lao động phải đảm bảo các điều kiện làm việc phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ.",
+          "qas": [
+            {
+              "question": "Điều 141 của Bộ luật Lao động 2019 quy định về ai?",
+              "id": "99",
+              "answers": [
+                {
+                  "text": "lao động là người cao tuổi",
+                  "answer_start": 46
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người cao tuổi có quyền gì khi làm việc?",
+              "id": "100",
+              "answers": [
+                {
+                  "text": "quyền làm việc và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 65
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với điều kiện làm việc của người cao tuổi?",
+              "id": "101",
+              "answers": [
+                {
+                  "text": "đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi",
+                  "answer_start": 129
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 142 quy định về lao động là ai?",
+              "id": "102",
+              "answers": [
+                {
+                  "text": "người chưa thành niên",
+                  "answer_start": 212
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người chưa thành niên được bảo vệ quyền lợi như thế nào?",
+              "id": "103",
+              "answers": [
+                {
+                  "text": "bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn",
+                  "answer_start": 231
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 143 quy định về lao động là ai?",
+              "id": "104",
+              "answers": [
+                {
+                  "text": "người khuyết tật",
+                  "answer_start": 337
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người khuyết tật có quyền gì khi làm việc?",
+              "id": "105",
+              "answers": [
+                {
+                  "text": "quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 356
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với điều kiện làm việc của người khuyết tật?",
+              "id": "106",
+              "answers": [
+                {
+                  "text": "đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật",
+                  "answer_start": 415
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 144 quy định về điều kiện làm việc đối với ai?",
+              "id": "107",
+              "answers": [
+                {
+                  "text": "lao động đặc thù",
+                  "answer_start": 496
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các điều kiện làm việc như thế nào?",
+              "id": "108",
+              "answers": [
+                {
+                  "text": "phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ",
+                  "answer_start": 520
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Điều 137 của Bộ luật Lao động 2019 quy định về bảo vệ quyền làm việc của lao động nữ. Lao động nữ có quyền làm việc bình đẳng như nam giới và không bị phân biệt đối xử. Người sử dụng lao động có trách nhiệm đảm bảo môi trường làm việc an toàn, không gây nguy hại đến sức khỏe sinh sản của lao động nữ. Điều 138 quy định quyền và nghĩa vụ của người sử dụng lao động đối với lao động nữ. Người sử dụng lao động phải đảm bảo các quyền lợi cơ bản của lao động nữ và thực hiện các biện pháp bảo vệ sức khỏe cho lao động nữ, đặc biệt là trong thời kỳ mang thai và nuôi con nhỏ. Điều 139 quy định thời giờ làm việc và nghỉ ngơi đối với lao động nữ. Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ. Điều 140 quy định bảo vệ sức khỏe sinh sản của lao động nữ. Người sử dụng lao động không được yêu cầu lao động nữ làm việc trong các công việc nặng nhọc, độc hại, nguy hiểm hoặc tiếp xúc với các yếu tố có hại cho sức khỏe sinh sản.",
+          "qas": [
+            {
+              "question": "Điều 137 quy định về bảo vệ quyền làm việc của ai?",
+              "id": "109",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 46
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động nữ có quyền làm việc như thế nào?",
+              "id": "110",
+              "answers": [
+                {
+                  "text": "bình đẳng như nam giới và không bị phân biệt đối xử",
+                  "answer_start": 83
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với môi trường làm việc của lao động nữ?",
+              "id": "111",
+              "answers": [
+                {
+                  "text": "đảm bảo môi trường làm việc an toàn, không gây nguy hại đến sức khỏe sinh sản của lao động nữ",
+                  "answer_start": 143
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 138 quy định quyền và nghĩa vụ của ai đối với lao động nữ?",
+              "id": "112",
+              "answers": [
+                {
+                  "text": "người sử dụng lao động",
+                  "answer_start": 300
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các quyền lợi gì cho lao động nữ?",
+              "id": "113",
+              "answers": [
+                {
+                  "text": "các quyền lợi cơ bản của lao động nữ và thực hiện các biện pháp bảo vệ sức khỏe cho lao động nữ, đặc biệt là trong thời kỳ mang thai và nuôi con nhỏ",
+                  "answer_start": 342
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 139 quy định thời giờ làm việc và nghỉ ngơi đối với ai?",
+              "id": "114",
+              "answers": [
+                {
+                  "text": "lao động nữ",
+                  "answer_start": 511
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Lao động nữ được hưởng các chế độ nghỉ ngơi đặc biệt như thế nào?",
+              "id": "115",
+              "answers": [
+                {
+                  "text": "nghỉ thai sản, nghỉ trong thời gian hành kinh và nuôi con nhỏ",
+                  "answer_start": 550
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 140 quy định bảo vệ gì của lao động nữ?",
+              "id": "116",
+              "answers": [
+                {
+                  "text": "sức khỏe sinh sản",
+                  "answer_start": 620
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động không được yêu cầu lao động nữ làm việc trong các công việc nào?",
+              "id": "117",
+              "answers": [
+                {
+                  "text": "công việc nặng nhọc, độc hại, nguy hiểm hoặc tiếp xúc với các yếu tố có hại cho sức khỏe sinh sản",
+                  "answer_start": 666
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Điều 141 của Bộ luật Lao động 2019 quy định về lao động là người cao tuổi. Người cao tuổi có quyền làm việc và được bảo vệ quyền lợi hợp pháp khi làm việc. Người sử dụng lao động có trách nhiệm đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi. Điều 142 quy định về lao động là người chưa thành niên. Người chưa thành niên được bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn, không gây ảnh hưởng xấu đến sự phát triển thể chất, trí tuệ và đạo đức. Điều 143 quy định về lao động là người khuyết tật. Người khuyết tật có quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp. Người sử dụng lao động có trách nhiệm đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật. Điều 144 quy định điều kiện làm việc đối với lao động đặc thù. Người sử dụng lao động phải đảm bảo các điều kiện làm việc phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ.",
+          "qas": [
+            {
+              "question": "Điều 141 của Bộ luật Lao động 2019 quy định về ai?",
+              "id": "118",
+              "answers": [
+                {
+                  "text": "lao động là người cao tuổi",
+                  "answer_start": 46
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người cao tuổi có quyền gì khi làm việc?",
+              "id": "119",
+              "answers": [
+                {
+                  "text": "quyền làm việc và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 65
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với điều kiện làm việc của người cao tuổi?",
+              "id": "120",
+              "answers": [
+                {
+                  "text": "đảm bảo điều kiện làm việc an toàn, phù hợp với sức khỏe của người cao tuổi",
+                  "answer_start": 129
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 142 quy định về lao động là ai?",
+              "id": "121",
+              "answers": [
+                {
+                  "text": "người chưa thành niên",
+                  "answer_start": 212
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người chưa thành niên được bảo vệ quyền lợi như thế nào?",
+              "id": "122",
+              "answers": [
+                {
+                  "text": "bảo vệ quyền lợi hợp pháp và được đảm bảo điều kiện làm việc an toàn",
+                  "answer_start": 231
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 143 quy định về lao động là ai?",
+              "id": "123",
+              "answers": [
+                {
+                  "text": "người khuyết tật",
+                  "answer_start": 337
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người khuyết tật có quyền gì khi làm việc?",
+              "id": "124",
+              "answers": [
+                {
+                  "text": "quyền làm việc bình đẳng và được bảo vệ quyền lợi hợp pháp",
+                  "answer_start": 356
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động có trách nhiệm gì đối với điều kiện làm việc của người khuyết tật?",
+              "id": "125",
+              "answers": [
+                {
+                  "text": "đảm bảo điều kiện làm việc an toàn và phù hợp với sức khỏe của người khuyết tật",
+                  "answer_start": 415
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Điều 144 quy định về điều kiện làm việc đối với ai?",
+              "id": "126",
+              "answers": [
+                {
+                  "text": "lao động đặc thù",
+                  "answer_start": 496
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải đảm bảo các điều kiện làm việc như thế nào?",
+              "id": "127",
+              "answers": [
+                {
+                  "text": "phù hợp với từng đối tượng lao động đặc thù và thực hiện các biện pháp bảo vệ sức khỏe cho họ",
+                  "answer_start": 520
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
         }
-    ]
+      ]
+    }
+  ]
 }
