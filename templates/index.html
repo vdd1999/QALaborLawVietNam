@@ -97,11 +97,11 @@
             console.log(data)
             $("#loading").remove()
             if (data.type == 0){
-              const groupId = crypto.randomUUID().toString() + "_group"
+              const groupId = new Date().getTime().toString() + "_group"
               const groupData = data.data.map((item)=>{
                 const tmpObj = {
                   groupId, 
-                  id: crypto.randomUUID().toString(), 
+                  id: new Date().getTime().toString(), 
                   message: `score: ${item.score}, question: ${item.question}`, 
                   answer: item.answer.text,
                   isAnswer: true
@@ -113,7 +113,7 @@
                 chatContainer.append(createChatBot(item))
               }
             }else if (data.type == 1){
-              const dataId =crypto.randomUUID().toString()
+              const dataId =new Date().getTime().toString()
               const messData = {id: dataId, isAnswer: true, message: data.data.question, answer: data.data.answer.text}
               sessionStorage.setItem("messData", JSON.stringify(messData))
               chatContainer.append(createChatBot(messData))
