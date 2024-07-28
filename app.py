@@ -52,3 +52,7 @@ def chat():
         return make_response(jsonify(res_data), 200)
 
     return make_response(jsonify({'message': 'Invalid request'}), 400)
+
+
+if __name__ == "__main__":
+    app.run()
