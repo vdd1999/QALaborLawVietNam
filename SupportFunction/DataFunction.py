@@ -56,25 +56,25 @@ def preprocess_data(data):
     answers = []
     question_raws = []
     for dataSquad in data:
-      for article in dataSquad['data']:
-        for paragraph in article['paragraphs']:
-          context = clean_text(paragraph['context'])
-          for qa in paragraph['qas']:
-              question = clean_text(qa['question'])
-              # Do ngữ liệu nhiều chỗ define thiếu is_impossible nên sẽ mặc định là False
-              is_impossible = qa.get('is_impossible', False)
-              if not is_impossible:
-                for answer in qa['answers']:
-                  answer_text = clean_text(answer['text'])
-                  answer_start = answer['answer_start']
-                  contexts.append(context)
-                  context_raws.append(paragraph['context'])
-                  questions.append(question)
-                  question_raws.append(qa['question'])
-                  answers.append({
-                      'text': answer_text,
-                      'start': answer_start
-                  })
+        for article in dataSquad['data']:
+            for paragraph in article['paragraphs']:
+                context = clean_text(paragraph['context'])
+                for qa in paragraph['qas']:
+                    question = clean_text(qa['question'])
+                    # Do ngữ liệu nhiều chỗ define thiếu is_impossible nên sẽ mặc định là False
+                    is_impossible = qa.get('is_impossible', False)
+                    if not is_impossible:
+                        for answer in qa['answers']:
+                            answer_text = clean_text(answer['text'])
+                            answer_start = answer['answer_start']
+                            contexts.append(context)
+                            context_raws.append(paragraph['context'])
+                            questions.append(question)
+                            question_raws.append(qa['question'])
+                            answers.append({
+                                'text': answer_text,
+                                'start': answer_start
+                            })
     return contexts, questions, answers, context_raws, question_raws
 
 
@@ -88,12 +88,12 @@ def tokenize_texts(texts):
     Returns:
       list: A list of tokenized texts.
     """
-    return [word_tokenize(text, format="text") for text in texts]
+    return [text.split() for text in texts]
 
 
 data_path = './data/qa_train.json'
 squad_data = load_all_data(data_path)
-contexts, questions, answers, context_raws, question_raws = preprocess_data(squad_data)
+contexts, questions, answers, context_raws, question_raws = preprocess_data(
+    squad_data)
 tokenized_contexts = tokenize_texts(contexts)
 tokenized_questions = tokenize_texts(questions)
-

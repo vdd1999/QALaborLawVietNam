@@ -20,6 +20,26 @@ def get_combined_scores(user_question, datas, model_word2vec, bm25_model):
     return combined_scores
 
 
+def get_combined_bm25_word2vec_scores(user_question):
+    tokenized_query = user_question.split()
+    word2vec_scores = get_word2vec_scores(
+        tokenized_query, questions, word2vec_questions)
+    bm25_scores = get_bm25_scores(tokenized_query, bm25_questions)
+    word2vec_scores = (word2vec_scores - np.min(word2vec_scores)) / \
+        (np.max(word2vec_scores) - np.min(word2vec_scores))
+    combined_scores = word2vec_scores + bm25_scores
+    # Thay thế giá trị nan bằng 0 trong combined_scores
+    combined_scores = np.nan_to_num(combined_scores)
+    if np.all(combined_scores == 0):
+        return "Không có câu hỏi được tìm thấy", {'text': "Không có câu trả lời được tìm thấy"}
+
+    best_match_idx = np.argmax(combined_scores)
+    best_question = questions[best_match_idx]
+    best_ans = answers[best_match_idx]
+    print(best_question, best_ans)
+    return best_question, best_ans
+
+
 def find_best_matching_question(user_question, questions, context_raws, question_raws):
     combined_scores = get_combined_scores(
         user_question, questions, word2vec_questions, bm25_questions)

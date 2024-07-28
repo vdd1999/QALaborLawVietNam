@@ -27,8 +27,10 @@
               <div class="card-body">
                 <label class="text-secondary-emphasis fw-semibold  mb-1" for="method">Phương thức</label>
                 <select class="form-select" name="method" id="method">
-                  <option value="0" selected>Hỏi đáp (kết hợp)</option>
-                  <option value="1">Hỏi đáp (dự đoán)</option>
+                  <option value="0" selected>Tìm câu hỏi xếp hạng cao (BM25)</option>
+                  <option value="1">Tìm câu hỏi kết hợp (BM25 + word2vec)</option>
+                  <option value="3">Hỏi đáp (phoBERT)</option>
+                  <option value="2" >Hỏi đáp (BM25 + word2vec + phoBERT)</option>
                 </select>
                 <button class="btn btn-danger  mt-2" id="clearBtn">
                   <i class="fa fa-trash pe-1"></i> Xóa chat
@@ -39,7 +41,7 @@
           <div class="col-md-9 d-flex flex-column" style="max-height: 100%;">
             <div class="d-flex flex-grow-1 mb-4 h-100" id="chatArea" style="max-height: 100%; overflow-y: auto;">
               <ul class="list-unstyled text-white w-100" id="chatContainer">
-                
+               
               </ul>
             </div>
             <div class="d-flex">
@@ -94,7 +96,28 @@
           success: (data)=>{
             console.log(data)
             $("#loading").remove()
-            if(data.type == 0 || data.type == 1){
+            if (data.type == 0){
+              const groupId = crypto.randomUUID().toString() + "_group"
+              const groupData = data.data.map((item)=>{
+                const tmpObj = {
+                  groupId, 
+                  id: crypto.randomUUID().toString(), 
+                  message: `score: ${item.score}, question: ${item.question}`, 
+                  answer: item.answer.text,
+                  isAnswer: true
+                }
+                return tmpObj
+              })
+              sessionStorage.setItem("groupData", JSON.stringify(groupData))
+              for(const item of groupData){
+                chatContainer.append(createChatBot(item))
+              }
+            }else if (data.type == 1){
+              const dataId =crypto.randomUUID().toString()
+              const messData = {id: dataId, isAnswer: true, message: data.data.question, answer: data.data.answer.text}
+              sessionStorage.setItem("messData", JSON.stringify(messData))
+              chatContainer.append(createChatBot(messData))
+            }else if(data.type == 2 || data.type == 3){
               const dataId = new Date().getTime()
               const messData = {id: dataId, isAnswer: false, ...data}
               sessionStorage.setItem("messData", JSON.stringify(messData))
@@ -106,7 +129,7 @@
                   groupId, 
                   id: new Date().getTime(), 
                   message: `score: ${item.score}, question: ${item.question}`, 
-                  isAnswer: false
+                  isAnswer: true
                 }
                 return tmpObj
               })

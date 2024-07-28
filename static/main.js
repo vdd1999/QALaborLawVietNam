@@ -1,11 +1,15 @@
-function formatResMess(str) {
+function formatResMess(str, isAnswer = false) {
   // Handle cases where the input is empty or null
   if (!str) {
     return "";
   }
 
   // Convert the first character to uppercase and the rest to lowercase
-  return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
+  return (
+    str.charAt(0).toUpperCase() +
+    str.slice(1).toLowerCase() +
+    (isAnswer ? "" : "?")
+  );
 }
 
 function createChatUser(message) {
@@ -33,14 +37,16 @@ function createChatBot({
   message = "Vui lòng chờ đợi",
   isAnswer = false,
 }) {
+  console.log("mesage", message);
   const liEle = $("<li>").addClass("d-flex justify-content-between px-3 mb-4");
   liEle.attr("data-group-id", groupId);
   liEle.attr("data-id", id);
   const cardEle = $("<div>").addClass("card w-100");
-  const cardBodyEle = $("<div>").addClass("card-body d-flex");
+  const cardBodyEle = $("<div>").addClass("card-body d-flex flex-wrap");
+  const questionEle = $("<div>").addClass("w-100 d-flex");
   const pEle = $("<p>")
     .addClass("mb-0 flex-grow-1")
-    .text(formatResMess(message));
+    .text(formatResMess(message, !isAnswer));
   const imgEle = $("<img>")
     .attr("src", "/static/images/bot.webp")
     .attr("alt", "avatar")
@@ -49,7 +55,7 @@ function createChatBot({
     )
     .attr("width", "60");
   liEle.append(imgEle);
-  cardBodyEle.append(pEle);
+  questionEle.append(pEle);
   if (isAnswer) {
     const iEle = $("<i>")
       .addClass("fa fa-commenting text-success")
@@ -57,8 +63,9 @@ function createChatBot({
       .attr("data-id", id)
       .attr("data-group-id", groupId)
       .attr("onclick", "showAnswer(this);");
-    cardBodyEle.append(iEle);
+    questionEle.append(iEle);
   }
+  cardBodyEle.append(questionEle);
   cardEle.append(cardBodyEle);
   liEle.append(cardEle);
   return liEle;
@@ -104,20 +111,38 @@ function showAnswer(ele) {
   const id = $(ele).attr("data-id");
   const groupId = $(ele).attr("data-group-id");
   if (!groupId) {
-    const dataStorage = JSON.parse(sessionStorage.getItem("messData"));
-    const loadingEle = createLoadingEle();
-    const chatContainer = $("#chatContainer");
-    chatContainer.append(loadingEle);
-    const chatBotReply = createChatBot({
-      message: dataStorage?.answer?.text,
-      isAnswer: false,
-    });
-    $("#loading").remove();
-    chatContainer.append(chatBotReply);
-
-    console.log(dataStorage);
+    const targetData = JSON.parse(sessionStorage.getItem("messData"));
+    if (targetData.id === id) {
+      const parentEle = $(ele).parent().parent();
+      if (parentEle.find("hr").length > 0) {
+        parentEle.find("hr").remove();
+        parentEle.find("p.ans").remove();
+        return;
+      }
+      const hrEle = $("<hr>").addClass("w-100");
+      const replyEle = $("<p>")
+        .addClass("ans w-100 mb-0")
+        .text(targetData.answer);
+      parentEle.append(hrEle);
+      parentEle.append(replyEle);
+    }
   } else {
     const dataStorage = JSON.parse(sessionStorage.getItem("groupData"));
-    console.log(dataStorage);
+    const targetData = dataStorage.find((item) => item.id === id);
+    if (!targetData) {
+      return;
+    }
+    const parentEle = $(ele).parent().parent();
+    if (parentEle.find("hr").length > 0) {
+      parentEle.find("hr").remove();
+      parentEle.find("p.ans").remove();
+      return;
+    }
+    const hrEle = $("<hr>").addClass("w-100");
+    const replyEle = $("<p>")
+      .addClass("ans w-100 mb-0")
+      .text(targetData.answer);
+    parentEle.append(hrEle);
+    parentEle.append(replyEle);
   }
 }
