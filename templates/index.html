@@ -101,7 +101,7 @@
               const groupData = data.data.map((item)=>{
                 const tmpObj = {
                   groupId, 
-                  id: new Date().getTime().toString(), 
+                  id: item.id, 
                   message: `score: ${item.score}, question: ${item.question}`, 
                   answer: item.answer.text,
                   isAnswer: true

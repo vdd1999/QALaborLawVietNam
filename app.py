@@ -3,6 +3,7 @@ from flask import render_template, request, jsonify, make_response
 from SupportFunction.MainFunction import get_answer, get_predicted_answer, get_combined_bm25_word2vec_scores
 from SupportFunction.BM25Function import get_top_n_ranked_bm25
 
+import uuid
 app = Flask(__name__, static_url_path='/static')
 
 
@@ -20,7 +21,7 @@ def chat():
         print(ans)
         res_data = {
             'type': 0,
-            'data': ans
+            'data': [{**ans, 'id': uuid.uuid4().hex} for ans in ans]
         }
         return make_response(jsonify(res_data), 200)
     elif data['type'] == 1:
