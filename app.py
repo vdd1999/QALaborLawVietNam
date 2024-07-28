@@ -39,7 +39,7 @@ def chat():
         print(ans)
         res_data = {
             'type': 2,
-            'message': ans
+            'message': ans.replace('</s>', '')
         }
         return make_response(jsonify(res_data), 200)
     elif data['type'] == 3:
@@ -47,7 +47,7 @@ def chat():
         print(ans)
         res_data = {
             'type': 3,
-            'message': ans
+            'message': ans.replace('</s>', '')
         }
         return make_response(jsonify(res_data), 200)
 
