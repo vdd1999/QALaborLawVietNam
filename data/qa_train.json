@@ -1532,7 +1532,7 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động phải thông báo ngay cho người phụ trách trực tiếp.",
-                                        "answer_start": 101
+                                        "answer_start": 334
                                     }
                                 ],
                                 "is_impossible": false
@@ -1741,7 +1741,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 273. Chấm dứt hợp đồng lao động. 1. Hợp đồng lao động chấm dứt khi hết hạn hợp đồng, hoàn thành công việc theo hợp đồng, hoặc khi các bên thỏa thuận chấm dứt hợp đồng. 2. Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn nếu có lý do chính đáng theo quy định của pháp luật. 3. Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn nếu người lao động vi phạm nghiêm trọng nghĩa vụ theo hợp đồng lao động hoặc các trường hợp khác theo quy định của pháp luật.",
+                        "context": "Điều 273. Chấm dứt hợp đồng lao động. 1. Hợp đồng lao động chấm dứt khi hết hạn hợp đồng, hoàn thành công việc theo hợp đồng, hoặc khi các bên thỏa thuận chấm dứt hợp đồng. 2. Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn nếu có lý do chính đáng theo quy định của pháp luật.",
                         "qas": [
                             {
                                 "id": "31",
@@ -1764,14 +1764,19 @@
                                     }
                                 ],
                                 "is_impossible": false
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "context": "3. Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn nếu người lao động vi phạm nghiêm trọng nghĩa vụ theo hợp đồng lao động hoặc các trường hợp khác theo quy định của pháp luật.",
+                        "qas": [
                             {
                                 "id": "33",
                                 "question": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn trong trường hợp nào?",
                                 "answers": [
                                     {
                                         "text": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn nếu người lao động vi phạm nghiêm trọng nghĩa vụ theo hợp đồng lao động hoặc các trường hợp khác theo quy định của pháp luật.",
-                                        "answer_start": 300
+                                        "answer_start": 2
                                     }
                                 ],
                                 "is_impossible": false
@@ -1782,7 +1787,7 @@
                                 "answers": [
                                     {
                                         "text": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn nếu người lao động vi phạm nghiêm trọng nghĩa vụ theo hợp đồng lao động.",
-                                        "answer_start": 300
+                                        "answer_start": 2
                                     }
                                 ],
                                 "is_impossible": false
@@ -2260,7 +2265,7 @@
                                 "answers": [
                                     {
                                         "text": "Khi không sắp xếp được việc làm mới cho họ.",
-                                        "answer_start": -1
+                                        "answer_start": 161
                                     }
                                 ],
                                 "is_impossible": false
@@ -13659,7 +13664,7 @@
                 "title": "Bộ luật Lao động Việt Nam - Chương 2",
                 "paragraphs": [
                     {
-                        "context": "Người lao động và người sử dụng lao động có trách nhiệm tuân thủ các quy định về hợp đồng lao động. Hợp đồng lao động phải được ký kết bằng văn bản, trừ trường hợp hợp đồng lao động có thời hạn dưới 3 tháng thì có thể giao kết bằng lời nói. Hợp đồng lao động xác định thời hạn là hợp đồng mà hai bên xác định thời hạn của hợp đồng là thời hạn không quá 36 tháng. Khi hợp đồng lao động hết hạn mà người lao động và người sử dụng lao động không ký kết hợp đồng mới thì hợp đồng sẽ trở thành hợp đồng lao động không xác định thời hạn.",
+                        "context": "Người lao động và người sử dụng lao động có trách nhiệm tuân thủ các quy định về hợp đồng lao động. Hợp đồng lao động phải được ký kết bằng văn bản, trừ trường hợp hợp đồng lao động có thời hạn dưới 3 tháng thì có thể giao kết bằng lời nói.",
                         "qas": [
                             {
                                 "question": "Ai là người có trách nhiệm tuân thủ các quy định về hợp đồng lao động?",
@@ -13680,14 +13685,19 @@
                                         "answer_start": 134
                                     }
                                 ]
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "context": " Hợp đồng lao động xác định thời hạn là hợp đồng mà hai bên xác định thời hạn của hợp đồng là thời hạn không quá 36 tháng. Khi hợp đồng lao động hết hạn mà người lao động và người sử dụng lao động không ký kết hợp đồng mới thì hợp đồng sẽ trở thành hợp đồng lao động không xác định thời hạn.",
+                        "qas": [
                             {
                                 "question": "Thời hạn của hợp đồng lao động xác định thời hạn tối đa là bao nhiêu lâu?",
                                 "id": "3",
                                 "answers": [
                                     {
                                         "text": "36 tháng",
-                                        "answer_start": 350
+                                        "answer_start": 113
                                     }
                                 ]
                             },
@@ -13697,7 +13707,7 @@
                                 "answers": [
                                     {
                                         "text": "Hợp đồng lao động không xác định thời hạn",
-                                        "answer_start": 485
+                                        "answer_start": 248
                                     }
                                 ]
                             }
@@ -13764,7 +13774,7 @@
                         ]
                     },
                     {
-                        "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
+                        "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật.",
                         "qas": [
                             {
                                 "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
@@ -13777,12 +13787,87 @@
                                 ]
                             },
                             {
+                                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
+                                "id": "35",
+                                "answers": [
+                                    {
+                                        "text": "Có",
+                                        "answer_start": 15
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
+                                "id": "78",
+                                "answers": [
+                                    {
+                                        "text": "Có",
+                                        "answer_start": 15
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
+                                "id": "97",
+                                "answers": [
+                                    {
+                                        "text": "Có",
+                                        "answer_start": 15
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "context": "Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
+                        "qas": [
+                            {
                                 "question": "Người lao động phải báo trước cho người sử dụng lao động biết trong thời gian bao lâu đối với hợp đồng lao động không xác định thời hạn?",
                                 "id": "11",
                                 "answers": [
                                     {
                                         "text": "Ít nhất 45 ngày",
-                                        "answer_start": 263
+                                        "answer_start": 49
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
+                                "id": "79",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 45 ngày",
+                                        "answer_start": 49
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
+                                "id": "98",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 45 ngày",
+                                        "answer_start": 49
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
+                                "id": "55",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 45 ngày",
+                                        "answer_start": 49
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Người lao động phải báo trước cho người sử dụng lao động biết trong thời gian bao lâu đối với hợp đồng lao động không xác định thời hạn?",
+                                "id": "36",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 45 ngày",
+                                        "answer_start": 49
                                     }
                                 ]
                             },
@@ -13792,7 +13877,47 @@
                                 "answers": [
                                     {
                                         "text": "Ít nhất 30 ngày",
-                                        "answer_start": 330
+                                        "answer_start": 116
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Thời hạn báo trước đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng là bao lâu?",
+                                "id": "37",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 30 ngày",
+                                        "answer_start": 116
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
+                                "id": "80",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 30 ngày",
+                                        "answer_start": 116
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
+                                "id": "99",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 30 ngày",
+                                        "answer_start": 116
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
+                                "id": "56",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 30 ngày",
+                                        "answer_start": 116
                                     }
                                 ]
                             },
@@ -13802,7 +13927,47 @@
                                 "answers": [
                                     {
                                         "text": "Ít nhất 3 ngày làm việc",
-                                        "answer_start": 416
+                                        "answer_start": 202
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
+                                "id": "81",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 3 ngày làm việc",
+                                        "answer_start": 202
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
+                                "id": "100",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 3 ngày làm việc",
+                                        "answer_start": 202
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
+                                "id": "57",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 3 ngày làm việc",
+                                        "answer_start": 202
+                                    }
+                                ]
+                            },
+                            {
+                                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
+                                "id": "38",
+                                "answers": [
+                                    {
+                                        "text": "Ít nhất 3 ngày làm việc",
+                                        "answer_start": 202
                                     }
                                 ]
                             }
@@ -13859,7 +14024,7 @@
                         ]
                     },
                     {
-                        "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+                        "context": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
                         "qas": [
                             {
                                 "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào?",
@@ -13867,7 +14032,7 @@
                                 "answers": [
                                     {
                                         "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
-                                        "answer_start": 115
+                                        "answer_start": 0
                                     }
                                 ]
                             }
@@ -14079,52 +14244,7 @@
                         ]
                     },
                     {
-                        "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-                        "qas": [
-                            {
-                                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
-                                "id": "35",
-                                "answers": [
-                                    {
-                                        "text": "Có",
-                                        "answer_start": 15
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Người lao động phải báo trước cho người sử dụng lao động biết trong thời gian bao lâu đối với hợp đồng lao động không xác định thời hạn?",
-                                "id": "36",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 45 ngày",
-                                        "answer_start": 263
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Thời hạn báo trước đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng là bao lâu?",
-                                "id": "37",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 30 ngày",
-                                        "answer_start": 330
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
-                                "id": "38",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 3 ngày làm việc",
-                                        "answer_start": 416
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+                        "context": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
                         "qas": [
                             {
                                 "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào?",
@@ -14132,7 +14252,7 @@
                                 "answers": [
                                     {
                                         "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
-                                        "answer_start": 115
+                                        "answer_start": 0
                                     }
                                 ]
                             }
@@ -14278,41 +14398,6 @@
                                     {
                                         "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
                                         "answer_start": 148
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-                        "qas": [
-                            {
-                                "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
-                                "id": "55",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 45 ngày",
-                                        "answer_start": 263
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
-                                "id": "56",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 30 ngày",
-                                        "answer_start": 330
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
-                                "id": "57",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 3 ngày làm việc",
-                                        "answer_start": 416
                                     }
                                 ]
                             }
@@ -14599,51 +14684,6 @@
                         ]
                     },
                     {
-                        "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-                        "qas": [
-                            {
-                                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
-                                "id": "78",
-                                "answers": [
-                                    {
-                                        "text": "Có",
-                                        "answer_start": 15
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
-                                "id": "79",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 45 ngày",
-                                        "answer_start": 263
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
-                                "id": "80",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 30 ngày",
-                                        "answer_start": 330
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
-                                "id": "81",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 3 ngày làm việc",
-                                        "answer_start": 416
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
                         "context": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong các trường hợp sau đây: người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của pháp luật mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không còn việc làm cho người lao động.",
                         "qas": [
                             {
@@ -14832,51 +14872,6 @@
                                 ]
                             }
                         ]
-                    },
-                    {
-                        "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-                        "qas": [
-                            {
-                                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
-                                "id": "97",
-                                "answers": [
-                                    {
-                                        "text": "Có",
-                                        "answer_start": 15
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
-                                "id": "98",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 45 ngày",
-                                        "answer_start": 263
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
-                                "id": "99",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 30 ngày",
-                                        "answer_start": 330
-                                    }
-                                ]
-                            },
-                            {
-                                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
-                                "id": "100",
-                                "answers": [
-                                    {
-                                        "text": "Ít nhất 3 ngày làm việc",
-                                        "answer_start": 416
-                                    }
-                                ]
-                            }
-                        ]
                     }
                 ]
             }
@@ -15003,7 +14998,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 106. Làm thêm giờ. 1. Thời giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày; không quá 12 giờ trong 01 ngày khi làm việc vào ngày nghỉ lễ, Tết và ngày nghỉ hằng tuần; không quá 40 giờ trong 01 tháng; không quá 200 giờ trong 01 năm, trừ trường hợp đặc biệt do Chính phủ quy định được làm thêm giờ không quá 300 giờ trong 01 năm. 2. Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đủ các điều kiện sau đây: a) Phải được sự đồng ý của người lao động; b) Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày, trừ trường hợp quy định tại khoản 3 Điều này.",
+                        "context": "Điều 106. Làm thêm giờ. 1. Thời giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày; không quá 12 giờ trong 01 ngày khi làm việc vào ngày nghỉ lễ, Tết và ngày nghỉ hằng tuần.",
                         "qas": [
                             {
                                 "id": "10",
@@ -15021,12 +15016,28 @@
                                 "question": "Thời giờ làm thêm tối đa trong 01 ngày khi làm việc vào ngày nghỉ lễ, Tết và ngày nghỉ hằng tuần là bao nhiêu?",
                                 "answers": [
                                     {
-                                        "text": "Thời giờ làm thêm tối đa trong 01 ngày khi làm việc vào ngày nghỉ lễ, Tết và ngày nghỉ hằng tuần là không quá 12 giờ.",
-                                        "answer_start": 24
+                                        "text": "Không quá 12 giờ.",
+                                        "answer_start": 118
                                     }
                                 ],
                                 "is_impossible": false
                             },
+                            {
+                                "id": "10",
+                                "question": "Thời giờ làm thêm của người lao động không quá bao nhiêu phần trăm số giờ làm việc bình thường trong 01 ngày?",
+                                "answers": [
+                                    {
+                                        "text": "Thời giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày.",
+                                        "answer_start": 24
+                                    }
+                                ],
+                                "is_impossible": false
+                            }
+                        ]
+                    },
+                    {
+                        "context": "Điều 106. Làm thêm giờ. 1. Thời giờ làm thêm của người lao động không quá 40 giờ trong 01 tháng. 2. Người sử dụng lao động được sử dụng người lao động làm thêm giờ khi đáp ứng đủ các điều kiện sau đây: a) Phải được sự đồng ý của người lao động; b) Bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày, trừ trường hợp quy định tại khoản 3 Điều này.",
+                        "qas": [
                             {
                                 "id": "12",
                                 "question": "Thời giờ làm thêm tối đa trong 01 tháng là bao nhiêu?",
@@ -15044,7 +15055,7 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động phải được sự đồng ý của người lao động và bảo đảm số giờ làm thêm của người lao động không quá 50% số giờ làm việc bình thường trong 01 ngày.",
-                                        "answer_start": 46
+                                        "answer_start": 200
                                     }
                                 ],
                                 "is_impossible": false
@@ -15125,18 +15136,23 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ sau đây: Tết Dương lịch 01 ngày (ngày 01 tháng 01 dương lịch); Tết Âm lịch 05 ngày; Ngày Chiến thắng 01 ngày (ngày 30 tháng 4 dương lịch); Ngày Quốc tế Lao động 01 ngày (ngày 01 tháng 5 dương lịch); Quốc khánh 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau); Ngày Giỗ Tổ Hùng Vương 01 ngày (ngày 10 tháng 3 âm lịch).",
-                                        "answer_start": 37
+                                        "answer_start": 52
                                     }
                                 ],
                                 "is_impossible": false
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "context": "2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.",
+                        "qas": [
                             {
                                 "id": "20",
                                 "question": "Lao động là người nước ngoài làm việc tại Việt Nam được nghỉ thêm bao nhiêu ngày lễ theo quy định tại khoản 2?",
                                 "answers": [
                                     {
                                         "text": "Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.",
-                                        "answer_start": 473
+                                        "answer_start": 2
                                     }
                                 ],
                                 "is_impossible": false
@@ -15182,7 +15198,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 111. Nghỉ hằng năm. 1. Người lao động có đủ 12 tháng làm việc cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm. 2. Người lao động có dưới 12 tháng làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc. 3. Trường hợp do thôi việc, mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được thanh toán bằng tiền những ngày chưa nghỉ.",
+                        "context": "Điều 111. Nghỉ hằng năm. 1. Người lao động có đủ 12 tháng làm việc cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.",
                         "qas": [
                             {
                                 "id": "24",
@@ -15190,7 +15206,7 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động có đủ 12 tháng làm việc cho một người sử dụng lao động thì được nghỉ hằng năm 12 ngày làm việc trong điều kiện bình thường.",
-                                        "answer_start": 25
+                                        "answer_start": 40
                                     }
                                 ],
                                 "is_impossible": false
@@ -15201,7 +15217,7 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động làm công việc nặng nhọc, độc hại, nguy hiểm thì được nghỉ hằng năm 14 ngày làm việc.",
-                                        "answer_start": 25
+                                        "answer_start": 203
                                     }
                                 ],
                                 "is_impossible": false
@@ -15216,14 +15232,19 @@
                                     }
                                 ],
                                 "is_impossible": false
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "context": "2. Người lao động có dưới 12 tháng làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc. 3. Trường hợp do thôi việc, mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được thanh toán bằng tiền những ngày chưa nghỉ.",
+                        "qas": [
                             {
                                 "id": "27",
                                 "question": "Người lao động có dưới 12 tháng làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm được tính như thế nào?",
                                 "answers": [
                                     {
                                         "text": "Người lao động có dưới 12 tháng làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc.",
-                                        "answer_start": 480
+                                        "answer_start": 2
                                     }
                                 ],
                                 "is_impossible": false
@@ -15234,7 +15255,7 @@
                                 "answers": [
                                     {
                                         "text": "Trường hợp do thôi việc, mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được thanh toán bằng tiền những ngày chưa nghỉ.",
-                                        "answer_start": 623
+                                        "answer_start": 145
                                     }
                                 ],
                                 "is_impossible": false
@@ -15242,15 +15263,15 @@
                         ]
                     },
                     {
-                        "context": "Điều 112. Nghỉ việc riêng, nghỉ không hưởng lương. 1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử dụng lao động trong trường hợp sau đây: a) Kết hôn: nghỉ 03 ngày; b) Con đẻ, con nuôi kết hôn: nghỉ 01 ngày; c) Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, cha đẻ, mẹ đẻ của vợ hoặc chồng chết, vợ hoặc chồng chết, con đẻ, con nuôi chết: nghỉ 03 ngày. 2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng lao động khi ông nội, bà nội, ông ngoại, bà ngoại, anh, chị, em ruột chết; cha hoặc mẹ kết hôn; anh, chị, em ruột kết hôn. 3. Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương.",
+                        "context": "Điều 112. Nghỉ việc riêng, nghỉ không hưởng lương. 1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử dụng lao động trong trường hợp sau đây: a) Kết hôn: nghỉ 03 ngày; b) Con đẻ, con nuôi kết hôn: nghỉ 01 ngày; c) Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi, cha đẻ, mẹ đẻ của vợ hoặc chồng chết, vợ hoặc chồng chết, con đẻ, con nuôi chết: nghỉ 03 ngày.",
                         "qas": [
                             {
                                 "id": "29",
                                 "question": "Người lao động được nghỉ bao nhiêu ngày khi kết hôn?",
                                 "answers": [
                                     {
-                                        "text": "Người lao động được nghỉ 03 ngày khi kết hôn.",
-                                        "answer_start": 50
+                                        "text": "Kết hôn: nghỉ 03 ngày.",
+                                        "answer_start": 186
                                     }
                                 ],
                                 "is_impossible": false
@@ -15260,8 +15281,8 @@
                                 "question": "Người lao động được nghỉ bao nhiêu ngày khi con đẻ, con nuôi kết hôn?",
                                 "answers": [
                                     {
-                                        "text": "Người lao động được nghỉ 01 ngày khi con đẻ, con nuôi kết hôn.",
-                                        "answer_start": 50
+                                        "text": "Nghỉ 01 ngày khi con đẻ, con nuôi kết hôn.",
+                                        "answer_start": 237
                                     }
                                 ],
                                 "is_impossible": false
@@ -15272,18 +15293,23 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động được nghỉ 03 ngày khi cha đẻ, mẹ đẻ chết.",
-                                        "answer_start": 50
+                                        "answer_start": 65
                                     }
                                 ],
                                 "is_impossible": false
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "context": "2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng lao động khi ông nội, bà nội, ông ngoại, bà ngoại, anh, chị, em ruột chết; cha hoặc mẹ kết hôn; anh, chị, em ruột kết hôn. 3. Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương.",
+                        "qas": [
                             {
                                 "id": "32",
                                 "question": "Người lao động được nghỉ bao nhiêu ngày không hưởng lương khi ông nội, bà nội chết?",
                                 "answers": [
                                     {
                                         "text": "Người lao động được nghỉ không hưởng lương 01 ngày khi ông nội, bà nội chết.",
-                                        "answer_start": 50
+                                        "answer_start": 17
                                     }
                                 ],
                                 "is_impossible": false
@@ -15294,7 +15320,7 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương.",
-                                        "answer_start": 579
+                                        "answer_start": 205
                                     }
                                 ],
                                 "is_impossible": false
@@ -15302,15 +15328,15 @@
                         ]
                     },
                     {
-                        "context": "Điều 113. Nghỉ dưỡng sức, phục hồi sức khỏe. 1. Người lao động sau thời gian nghỉ chế độ ốm đau, thai sản theo quy định của Luật bảo hiểm xã hội mà trong khoảng 30 ngày đầu làm việc mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức, phục hồi sức khỏe từ 05 ngày đến 10 ngày cho một năm: a) Tối đa 10 ngày đối với lao động nữ sinh một lần từ hai con trở lên; b) Tối đa 07 ngày đối với người lao động trừ trường hợp quy định tại điểm a khoản này; c) Bằng 05 ngày đối với các trường hợp khác. 2. Thời gian nghỉ dưỡng sức, phục hồi sức khỏe bao gồm cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần. Trường hợp nghỉ dưỡng sức, phục hồi sức khỏe vào cuối năm và chuyển tiếp sang đầu năm sau thì được tính cho năm trước.",
+                        "context": "Điều 113. Nghỉ dưỡng sức, phục hồi sức khỏe. 1. Người lao động sau thời gian nghỉ chế độ ốm đau, thai sản theo quy định của Luật bảo hiểm xã hội mà trong khoảng 30 ngày đầu làm việc mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức, phục hồi sức khỏe từ 05 ngày đến 10 ngày cho một năm: a) Tối đa 10 ngày đối với lao động nữ sinh một lần từ hai con trở lên;",
                         "qas": [
                             {
                                 "id": "34",
                                 "question": "Người lao động sau thời gian nghỉ chế độ ốm đau, thai sản mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức từ bao nhiêu ngày đến bao nhiêu ngày cho một năm?",
                                 "answers": [
                                     {
-                                        "text": "Người lao động sau thời gian nghỉ chế độ ốm đau, thai sản mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức từ 05 ngày đến 10 ngày cho một năm.",
-                                        "answer_start": 44
+                                        "text": "Từ 05 ngày đến 10 ngày cho một năm.",
+                                        "answer_start": 245
                                     }
                                 ],
                                 "is_impossible": false
@@ -15320,19 +15346,24 @@
                                 "question": "Lao động nữ sinh một lần từ hai con trở lên thì được nghỉ dưỡng sức tối đa bao nhiêu ngày?",
                                 "answers": [
                                     {
-                                        "text": "Lao động nữ sinh một lần từ hai con trở lên thì được nghỉ dưỡng sức tối đa 10 ngày.",
-                                        "answer_start": 50
+                                        "text": "Tối đa 10 ngày.",
+                                        "answer_start": 284
                                     }
                                 ],
                                 "is_impossible": false
-                            },
+                            }
+                        ]
+                    },
+                    {
+                        "context": "b) Tối đa 07 ngày đối với người lao động trừ trường hợp quy định tại điểm a khoản này; c) Bằng 05 ngày đối với các trường hợp khác. 2. Thời gian nghỉ dưỡng sức, phục hồi sức khỏe bao gồm cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần. Trường hợp nghỉ dưỡng sức, phục hồi sức khỏe vào cuối năm và chuyển tiếp sang đầu năm sau thì được tính cho năm trước.",
+                        "qas": [
                             {
                                 "id": "36",
                                 "question": "Người lao động (trừ lao động nữ sinh một lần từ hai con trở lên) thì được nghỉ dưỡng sức tối đa bao nhiêu ngày?",
                                 "answers": [
                                     {
-                                        "text": "Người lao động (trừ lao động nữ sinh một lần từ hai con trở lên) thì được nghỉ dưỡng sức tối đa 07 ngày.",
-                                        "answer_start": 44
+                                        "text": "tối đa 07 ngày.",
+                                        "answer_start": 3
                                     }
                                 ],
                                 "is_impossible": false
@@ -15343,7 +15374,7 @@
                                 "answers": [
                                     {
                                         "text": "Thời gian nghỉ dưỡng sức, phục hồi sức khỏe bao gồm cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần.",
-                                        "answer_start": 485
+                                        "answer_start": 133
                                     }
                                 ],
                                 "is_impossible": false
@@ -15511,7 +15542,7 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động có quyền: Được bảo đảm các điều kiện làm việc an toàn, vệ sinh; Được trang bị đầy đủ phương tiện bảo vệ cá nhân, được huấn luyện an toàn, vệ sinh lao động; Yêu cầu người sử dụng lao động bảo đảm nơi làm việc đáp ứng các yêu cầu an toàn, vệ sinh lao động; Từ chối làm công việc hoặc rời bỏ nơi làm việc khi thấy rõ nguy cơ xảy ra tai nạn lao động, đe dọa nghiêm trọng tính mạng, sức khỏe của mình và phải báo ngay với người phụ trách trực tiếp; Khiếu nại, tố cáo hoặc khởi kiện theo quy định của pháp luật khi người sử dụng lao động không bảo đảm các điều kiện làm việc an toàn, vệ sinh.",
-                                        "answer_start": 34
+                                        "answer_start": 120
                                     }
                                 ],
                                 "is_impossible": false
@@ -15522,7 +15553,7 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động có trách nhiệm: Chấp hành nội quy, quy trình bảo đảm an toàn, vệ sinh lao động, sử dụng và bảo quản các phương tiện bảo vệ cá nhân được trang bị, tham gia huấn luyện an toàn, vệ sinh lao động; Báo cáo kịp thời với người có trách nhiệm khi phát hiện nguy cơ xảy ra tai nạn lao động, bệnh nghề nghiệp, sự cố gây mất an toàn, vệ sinh lao động, gây nguy hiểm đến tính mạng, sức khỏe của mình và mọi người xung quanh; Chấp hành sự điều tra tai nạn lao động, bệnh nghề nghiệp theo yêu cầu của cơ quan, tổ chức có thẩm quyền.",
-                                        "answer_start": 34
+                                        "answer_start": 730
                                     }
                                 ],
                                 "is_impossible": false
@@ -15928,7 +15959,7 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động phải bồi thường theo quy định của pháp luật hoặc nội quy lao động của người sử dụng lao động.",
-                                        "answer_start": 32
+                                        "answer_start": 150
                                     }
                                 ],
                                 "is_impossible": false
@@ -15939,7 +15970,7 @@
                                 "answers": [
                                     {
                                         "text": "Người lao động phải bồi thường một phần hoặc toàn bộ theo thời giá thị trường hoặc nội quy lao động của người sử dụng lao động.",
-                                        "answer_start": 32
+                                        "answer_start": 150
                                     }
                                 ],
                                 "is_impossible": false
@@ -33612,8 +33643,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được trang bị đầy đủ thiết bị bảo hộ?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo an toàn, vệ sinh lao động cho người lao động làm công việc có tính chất đặc biệt.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm an toàn, vệ sinh lao động cho người lao động làm công việc có tính chất đặc biệt.",
+                                        "answer_start": 294
                                     }
                                 ],
                                 "is_impossible": false
@@ -33650,8 +33681,8 @@
                                 "question": "Tại sao chế độ nghỉ ngơi của người lao động làm công việc có tính chất đặc biệt cần phù hợp với tính chất công việc?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 222
                                     }
                                 ],
                                 "is_impossible": false
@@ -33659,7 +33690,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 219. Bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội. 2. Chính phủ quy định chi tiết về chế độ bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 219. Bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội. 2. Chính phủ quy định chi tiết về chế độ bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt. Nhằm đảm bảo quyền lợi và an sinh xã hội cho người lao động làm công việc có tính chất đặc biệt.",
                         "qas": [
                             {
                                 "id": "19",
@@ -33689,7 +33720,7 @@
                                 "answers": [
                                     {
                                         "text": "Để đảm bảo quyền lợi và an sinh xã hội cho người lao động làm công việc có tính chất đặc biệt.",
-                                        "answer_start": -1
+                                        "answer_start": 330
                                     }
                                 ],
                                 "is_impossible": false
@@ -33764,7 +33795,7 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
                                         "answer_start": -1
                                     }
                                 ],
@@ -33802,8 +33833,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 192
                                     }
                                 ],
                                 "is_impossible": false
@@ -33840,8 +33871,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -33878,7 +33909,7 @@
                                 "question": "Tại sao chế độ làm việc của người lao động làm công việc có tính chất đặc biệt cần phù hợp với tính chất công việc?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
                                         "answer_start": -1
                                     }
                                 ],
@@ -33954,8 +33985,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 192
                                     }
                                 ],
                                 "is_impossible": false
@@ -33992,7 +34023,7 @@
                                 "question": "Tại sao chế độ làm việc của người lao động làm công việc có tính chất đặc biệt cần phù hợp với tính chất công việc?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
                                         "answer_start": -1
                                     }
                                 ],
@@ -34001,7 +34032,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 228. Bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội. 2. Chính phủ quy định chi tiết về chế độ bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 228. Bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội. 2. Chính phủ quy định chi tiết về chế độ bảo hiểm xã hội cho người lao động làm công việc có tính chất đặc biệt. Nhằm đảm bảo quyền lợi và an sinh xã hội cho người lao động làm công việc có tính chất đặc biệt.",
                         "qas": [
                             {
                                 "id": "46",
@@ -34031,7 +34062,7 @@
                                 "answers": [
                                     {
                                         "text": "Để đảm bảo quyền lợi và an sinh xã hội cho người lao động làm công việc có tính chất đặc biệt.",
-                                        "answer_start": -1
+                                        "answer_start": 330
                                     }
                                 ],
                                 "is_impossible": false
@@ -34039,7 +34070,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 229. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 229. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. Nhằm bảo đảm sức khỏe cho người lao động.",
                         "qas": [
                             {
                                 "id": "49",
@@ -34068,8 +34099,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 329
                                     }
                                 ],
                                 "is_impossible": false
@@ -34144,8 +34175,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -34153,7 +34184,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 232. Quy định về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt. 1. Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm thời gian làm việc, thời gian nghỉ ngơi, và chế độ đãi ngộ phù hợp với tính chất công việc. 2. Chính phủ quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 232. Quy định về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt. 1. Chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt bao gồm thời gian làm việc, thời gian nghỉ ngơi, và chế độ đãi ngộ phù hợp với tính chất công việc. 2. Chính phủ quy định chi tiết về chế độ làm việc cho người lao động làm công việc có tính chất đặc biệt. Nhằm bảo đảm sức khỏe cho người lao động.",
                         "qas": [
                             {
                                 "id": "58",
@@ -34182,8 +34213,8 @@
                                 "question": "Tại sao chế độ làm việc của người lao động làm công việc có tính chất đặc biệt cần phù hợp với tính chất công việc?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 371
                                     }
                                 ],
                                 "is_impossible": false
@@ -34220,8 +34251,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 192
                                     }
                                 ],
                                 "is_impossible": false
@@ -34258,8 +34289,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -34305,7 +34336,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 236. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 236. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. Nhằm bảo đảm sức khỏe cho người lao động.",
                         "qas": [
                             {
                                 "id": "70",
@@ -34334,8 +34365,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 329
                                     }
                                 ],
                                 "is_impossible": false
@@ -34372,8 +34403,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -34410,8 +34441,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 192
                                     }
                                 ],
                                 "is_impossible": false
@@ -34448,8 +34479,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -34495,7 +34526,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 241. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 241. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. Nhằm bảo đảm sức khỏe cho người lao động.",
                         "qas": [
                             {
                                 "id": "85",
@@ -34524,8 +34555,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 329
                                     }
                                 ],
                                 "is_impossible": false
@@ -34562,8 +34593,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -34609,7 +34640,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 244. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 244. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. nhằm bảo đảm sức khỏe cho người lao động.",
                         "qas": [
                             {
                                 "id": "94",
@@ -34638,8 +34669,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 329
                                     }
                                 ],
                                 "is_impossible": false
@@ -34676,8 +34707,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -34714,8 +34745,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 192
                                     }
                                 ],
                                 "is_impossible": false
@@ -34752,8 +34783,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -34799,7 +34830,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 249. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 249. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. Nhằm bảo đảm sức khỏe cho người lao động.",
                         "qas": [
                             {
                                 "id": "109",
@@ -34828,8 +34859,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 329
                                     }
                                 ],
                                 "is_impossible": false
@@ -34866,8 +34897,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -34904,8 +34935,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 192
                                     }
                                 ],
                                 "is_impossible": false
@@ -34942,8 +34973,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -34989,7 +35020,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 254. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 254. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. Nhằm bảo đảm sức khỏe cho người lao động.",
                         "qas": [
                             {
                                 "id": "124",
@@ -35018,8 +35049,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 329
                                     }
                                 ],
                                 "is_impossible": false
@@ -35056,8 +35087,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 192
                                     }
                                 ],
                                 "is_impossible": false
@@ -35094,8 +35125,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -35141,7 +35172,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 258. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 258. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. Nhằm bảo đảm sức khỏe cho người lao động.",
                         "qas": [
                             {
                                 "id": "136",
@@ -35170,8 +35201,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 329
                                     }
                                 ],
                                 "is_impossible": false
@@ -35208,8 +35239,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hỗ trợ sức khỏe?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 192
                                     }
                                 ],
                                 "is_impossible": false
@@ -35246,8 +35277,8 @@
                                 "question": "Tại sao người sử dụng lao động phải thực hiện đầy đủ các quy định của pháp luật về quyền lợi của người lao động làm công việc có tính chất đặc biệt?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo quyền lợi và sức khỏe của người lao động.",
-                                        "answer_start": -1
+                                        "text": "Để bảo đảm quyền lợi và sức khỏe của người lao động.",
+                                        "answer_start": 59
                                     }
                                 ],
                                 "is_impossible": false
@@ -35293,7 +35324,7 @@
                         ]
                     },
                     {
-                        "context": "Điều 262. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt.",
+                        "context": "Điều 262. Chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. 1. Người lao động làm công việc có tính chất đặc biệt được hưởng chế độ bồi dưỡng bằng hiện vật hoặc bằng tiền theo quy định của Chính phủ. 2. Chính phủ quy định chi tiết về chế độ bồi dưỡng cho người lao động làm công việc có tính chất đặc biệt. Nhằm bảo đảm sức khỏe cho người lao động.",
                         "qas": [
                             {
                                 "id": "148",
@@ -35322,8 +35353,8 @@
                                 "question": "Tại sao người lao động làm công việc có tính chất đặc biệt cần được hưởng chế độ bồi dưỡng?",
                                 "answers": [
                                     {
-                                        "text": "Để đảm bảo sức khỏe và hiệu quả làm việc của người lao động.",
-                                        "answer_start": -1
+                                        "text": "bảo đảm sức khỏe cho người lao động.",
+                                        "answer_start": 329
                                     }
                                 ],
                                 "is_impossible": false
