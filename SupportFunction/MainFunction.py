@@ -5,6 +5,7 @@ from SupportFunction.BM25Function import bm25_questions, get_bm25_scores
 from SupportFunction.Word2VecFunction import get_word2vec_scores, word2vec_questions
 from SupportFunction.DataFunction import questions, contexts, answers, context_raws, question_raws
 from SupportFunction.PhoBertFunction import model, tokenizer, check_model_exist
+from collections import Counter
 
 
 def get_combined_scores(user_question, datas, model_word2vec, bm25_model):
