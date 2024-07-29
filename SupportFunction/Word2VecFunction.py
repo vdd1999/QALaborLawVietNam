@@ -3,7 +3,7 @@ import numpy as np
 from gensim.utils import simple_preprocess
 
 # Load pre-trained Word2Vec model.
-word2vec_questions = gensim.models.Word2Vec.load("./models/word2vec_question.model")
+word2vec_questions = gensim.models.Word2Vec.load("./models/model_word2vec_question.model")
 # word2vec_contexts = gensim.models.Word2Vec.load("./models/word2vec_context.model")
 
 

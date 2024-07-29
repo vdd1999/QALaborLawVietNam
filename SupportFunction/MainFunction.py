@@ -55,21 +55,27 @@ def get_answer(question):
     bestQuestion, contextMatch, answerMatch = find_best_matching_question(
         question, questions, context_raws, question_raws)
     inputs = tokenizer(bestQuestion.lower(), contextMatch, return_tensors="pt",
-                       max_length=128, padding="max_length", truncation="only_second")
-    with torch.no_grad():
-        outputs = model(**inputs)
-    answer_start_index = outputs.start_logits.argmax()
-    answer_end_index = outputs.end_logits.argmax()
-    predict_answer_tokens = inputs.input_ids[0,
-                                             answer_start_index: answer_end_index + 1]
-    answer_result = tokenizer.decode(predict_answer_tokens)
-
-    if len(answerMatch['text'].strip()) > len(answer_result.strip()):
-        return answerMatch['text']
-    elif (tokenizer.decode(predict_answer_tokens) == ""):
-        return "Chưa thể tìm thấy câu trả lời!"
-    else:
-        return tokenizer.decode(predict_answer_tokens)
+                       max_length=258, padding="max_length", truncation="only_second")
+    try:
+      with torch.no_grad():
+          outputs = model(**inputs)
+      answer_start_index = outputs.start_logits.argmax()
+      answer_end_index = outputs.end_logits.argmax()
+      predict_answer_tokens = inputs.input_ids[0, answer_start_index : answer_end_index + 1]
+    
+      answer_predict = tokenizer.decode(predict_answer_tokens, skip_special_tokens=True)
+      predict_score = f1_score(answer_predict, answerMatch['text'])
+      answer_match_score = f1_score(answerMatch['text'], answerMatch['text'])
+      if(answer_predict == ""):
+          answer_result = answerMatch['text']
+      elif predict_score > answer_match_score:
+        answer_result = answer_predict
+      else:
+          answer_result = answer_predict
+    except IndexError as e:
+        print(f"Lỗi: {e}")
+        answer_result = "Không tìm thấy câu trả lời phù hợp"
+    return answer_result
 
 
 def get_predicted_answer(question):
@@ -88,3 +94,26 @@ def get_predicted_answer(question):
     answer = tokenizer.convert_tokens_to_string(
         tokenizer.convert_ids_to_tokens(input_ids[answer_start:answer_end]))
     return answer
+
+
+
+def normalize_answer(s):
+    def white_space_fix(text):
+        return ' '.join(text.split())
+
+    def lower(text):
+        return text.lower()
+
+    return white_space_fix(lower(s))
+
+def f1_score(prediction, ground_truth):
+    pred_tokens = normalize_answer(prediction).split()
+    ground_truth_tokens = normalize_answer(ground_truth).split()
+    common = Counter(pred_tokens) & Counter(ground_truth_tokens)
+    num_same = sum(common.values())
+    if num_same == 0:
+        return 0
+    precision = num_same / len(pred_tokens)
+    recall = num_same / len(ground_truth_tokens)
+    f1 = (2 * precision * recall) / (precision + recall)
+    return f1
