@@ -1,1230 +1,1327 @@
 {
-    "data": [
-      {
-        "title": "Bộ luật Lao động Việt Nam - Chương 2",
-        "paragraphs": [
-          {
-            "context": "Người lao động và người sử dụng lao động có trách nhiệm tuân thủ các quy định về hợp đồng lao động. Hợp đồng lao động phải được ký kết bằng văn bản, trừ trường hợp hợp đồng lao động có thời hạn dưới 3 tháng thì có thể giao kết bằng lời nói. Hợp đồng lao động xác định thời hạn là hợp đồng mà hai bên xác định thời hạn của hợp đồng là thời hạn không quá 36 tháng. Khi hợp đồng lao động hết hạn mà người lao động và người sử dụng lao động không ký kết hợp đồng mới thì hợp đồng sẽ trở thành hợp đồng lao động không xác định thời hạn.",
-            "qas": [
-              {
-                "question": "Ai là người có trách nhiệm tuân thủ các quy định về hợp đồng lao động?",
-                "id": "1",
-                "answers": [
-                  {
-                    "text": "Người lao động và người sử dụng lao động",
-                    "answer_start": 0
-                  }
-                ]
-              },
-              {
-                "question": "Hợp đồng lao động phải được ký kết dưới hình thức gì?",
-                "id": "2",
-                "answers": [
-                  {
-                    "text": "Bằng văn bản",
-                    "answer_start": 83
-                  }
-                ]
-              },
-              {
-                "question": "Thời hạn của hợp đồng lao động xác định thời hạn tối đa là bao nhiêu lâu?",
-                "id": "3",
-                "answers": [
-                  {
-                    "text": "36 tháng",
-                    "answer_start": 229
-                  }
-                ]
-              },
-              {
-                "question": "Khi hợp đồng lao động hết hạn, người lao động và người sử dụng lao động không ký kết hợp đồng mới thì hợp đồng sẽ trở thành loại hợp đồng gì?",
-                "id": "4",
-                "answers": [
-                  {
-                    "text": "Hợp đồng lao động không xác định thời hạn",
-                    "answer_start": 316
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên. Hợp đồng lao động có các nội dung chủ yếu sau đây: công việc phải làm, thời hạn của hợp đồng, điều kiện làm việc, tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, bảo hiểm xã hội, bảo hiểm y tế và các vấn đề liên quan đến việc bảo đảm an toàn lao động.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
-                "id": "5",
-                "answers": [
-                  {
-                    "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
-                    "answer_start": 35
-                  }
-                ]
-              },
-              {
-                "question": "Các nội dung chủ yếu của hợp đồng lao động bao gồm gì?",
-                "id": "6",
-                "answers": [
-                  {
-                    "text": "Công việc phải làm, thời hạn của hợp đồng, điều kiện làm việc, tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, bảo hiểm xã hội, bảo hiểm y tế và các vấn đề liên quan đến việc bảo đảm an toàn lao động",
-                    "answer_start": 138
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Hợp đồng lao động phải do hai bên thỏa thuận và cam kết thực hiện. Trường hợp người lao động chưa đủ 15 tuổi khi ký kết hợp đồng lao động thì hợp đồng lao động phải có sự đồng ý của người đại diện theo pháp luật của người lao động. Người sử dụng lao động phải bảo đảm điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm cho người lao động theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Hợp đồng lao động phải do ai thỏa thuận và cam kết thực hiện?",
-                "id": "7",
-                "answers": [
-                  {
-                    "text": "Hai bên",
-                    "answer_start": 32
-                  }
-                ]
-              },
-              {
-                "question": "Trường hợp người lao động chưa đủ 15 tuổi khi ký kết hợp đồng lao động thì phải có sự đồng ý của ai?",
-                "id": "8",
-                "answers": [
-                  {
-                    "text": "Người đại diện theo pháp luật của người lao động",
-                    "answer_start": 102
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động phải bảo đảm điều kiện gì cho người lao động?",
-                "id": "9",
-                "answers": [
-                  {
-                    "text": "Điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm",
-                    "answer_start": 202
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
-                "id": "10",
-                "answers": [
-                  {
-                    "text": "Có",
-                    "answer_start": 12
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động phải báo trước cho người sử dụng lao động biết trong thời gian bao lâu đối với hợp đồng lao động không xác định thời hạn?",
-                "id": "11",
-                "answers": [
-                  {
-                    "text": "Ít nhất 45 ngày",
-                    "answer_start": 266
-                  }
-                ]
-              },
-              {
-                "question": "Thời hạn báo trước đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng là bao lâu?",
-                "id": "12",
-                "answers": [
-                  {
-                    "text": "Ít nhất 30 ngày",
-                    "answer_start": 316
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
-                "id": "13",
-                "answers": [
-                  {
-                    "text": "Ít nhất 3 ngày làm việc",
-                    "answer_start": 374
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong các trường hợp sau đây: người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của pháp luật mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không còn việc làm cho người lao động.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong trường hợp nào?",
-                "id": "14",
-                "answers": [
-                  {
-                    "text": "Người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác",
-                    "answer_start": 79
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Khi đơn phương chấm dứt hợp đồng lao động, người sử dụng lao động phải báo trước cho người lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải báo trước bao nhiêu ngày đối với hợp đồng lao động không xác định thời hạn khi đơn phương chấm dứt hợp đồng?",
-                "id": "15",
-                "answers": [
-                  {
-                    "text": "Ít nhất 45 ngày",
-                    "answer_start": 182
-                  }
-                ]
-              },
-              {
-                "question": "Thời hạn báo trước là bao nhiêu ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng khi người sử dụng lao động đơn phương chấm dứt hợp đồng?",
-                "id": "16",
-                "answers": [
-                  {
-                    "text": "Ít nhất 30 ngày",
-                    "answer_start": 232
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng khi đơn phương chấm dứt hợp đồng?",
-                "id": "17",
-                "answers": [
-                  {
-                    "text": "Ít nhất 3 ngày làm việc",
-                    "answer_start": 290
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào?",
-                "id": "18",
-                "answers": [
-                  {
-                    "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
-                    "answer_start": 89
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động phải bảo đảm tiền lương không thấp hơn mức lương tối thiểu vùng đối với người lao động làm công việc đơn giản nhất trong điều kiện lao động bình thường. Mức lương tối thiểu vùng được xác định theo tháng, ngày, giờ và được công bố công khai theo quy định của Chính phủ.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải bảo đảm điều gì về tiền lương đối với người lao động làm công việc đơn giản nhất?",
-                "id": "19",
-                "answers": [
-                  {
-                    "text": "Tiền lương không thấp hơn mức lương tối thiểu vùng",
-                    "answer_start": 43
-                  }
-                ]
-              },
-              {
-                "question": "Mức lương tối thiểu vùng được xác định theo đơn vị nào?",
-                "id": "20",
-                "answers": [
-                  {
-                    "text": "Theo tháng, ngày, giờ",
-                    "answer_start": 156
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục. Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện không bảo đảm an toàn, vệ sinh lao động.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
-                "id": "21",
-                "answers": [
-                  {
-                    "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
-                    "answer_start": 52
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện như thế nào?",
-                "id": "22",
-                "answers": [
-                  {
-                    "text": "Không bảo đảm an toàn, vệ sinh lao động",
-                    "answer_start": 189
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Hợp đồng lao động phải có các nội dung chủ yếu sau đây: công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế.",
-            "qas": [
-              {
-                "question": "Hợp đồng lao động phải có những nội dung chủ yếu nào?",
-                "id": "23",
-                "answers": [
-                  {
-                    "text": "Công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế",
-                    "answer_start": 50
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
-                "id": "24",
-                "answers": [
-                  {
-                    "text": "Nhiều người sử dụng lao động",
-                    "answer_start": 48
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
-                "id": "25",
-                "answers": [
-                  {
-                    "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
-                    "answer_start": 160
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong trường hợp nào?",
-                "id": "26",
-                "answers": [
-                  {
-                    "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng",
-                    "answer_start": 89
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào khác?",
-                "id": "27",
-                "answers": [
-                  {
-                    "text": "Được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
-                    "answer_start": 89
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc trái pháp luật, đạo đức xã hội. Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc như thế nào?",
-                "id": "28",
-                "answers": [
-                  {
-                    "text": "Trái pháp luật, đạo đức xã hội",
-                    "answer_start": 56
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
-                "id": "29",
-                "answers": [
-                  {
-                    "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
-                    "answer_start": 120
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Hợp đồng lao động phải có các nội dung chủ yếu sau đây: công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế. Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
-                "id": "30",
-                "answers": [
-                  {
-                    "text": "Nhiều người sử dụng lao động",
-                    "answer_start": 202
-                  }
-                ]
-              },
-              {
-                "question": "Hợp đồng lao động phải có những nội dung chủ yếu nào?",
-                "id": "31",
-                "answers": [
-                  {
-                    "text": "Công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế",
-                    "answer_start": 50
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Hợp đồng lao động phải do hai bên thỏa thuận và cam kết thực hiện. Trường hợp người lao động chưa đủ 15 tuổi khi ký kết hợp đồng lao động thì hợp đồng lao động phải có sự đồng ý của người đại diện theo pháp luật của người lao động. Người sử dụng lao động phải bảo đảm điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm cho người lao động theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Hợp đồng lao động phải do ai thỏa thuận và cam kết thực hiện?",
-                "id": "32",
-                "answers": [
-                  {
-                    "text": "Hai bên",
-                    "answer_start": 32
-                  }
-                ]
-              },
-              {
-                "question": "Trường hợp người lao động chưa đủ 15 tuổi khi ký kết hợp đồng lao động thì phải có sự đồng ý của ai?",
-                "id": "33",
-                "answers": [
-                  {
-                    "text": "Người đại diện theo pháp luật của người lao động",
-                    "answer_start": 102
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động phải bảo đảm điều kiện gì cho người lao động?",
-                "id": "34",
-                "answers": [
-                  {
-                    "text": "Điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm",
-                    "answer_start": 202
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
-                "id": "35",
-                "answers": [
-                  {
-                    "text": "Có",
-                    "answer_start": 12
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động phải báo trước cho người sử dụng lao động biết trong thời gian bao lâu đối với hợp đồng lao động không xác định thời hạn?",
-                "id": "36",
-                "answers": [
-                  {
-                    "text": "Ít nhất 45 ngày",
-                    "answer_start": 266
-                  }
-                ]
-              },
-              {
-                "question": "Thời hạn báo trước đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng là bao lâu?",
-                "id": "37",
-                "answers": [
-                  {
-                    "text": "Ít nhất 30 ngày",
-                    "answer_start": 316
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
-                "id": "38",
-                "answers": [
-                  {
-                    "text": "Ít nhất 3 ngày làm việc",
-                    "answer_start": 374
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào?",
-                "id": "43",
-                "answers": [
-                  {
-                    "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
-                    "answer_start": 89
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động phải bảo đảm tiền lương không thấp hơn mức lương tối thiểu vùng đối với người lao động làm công việc đơn giản nhất trong điều kiện lao động bình thường. Mức lương tối thiểu vùng được xác định theo tháng, ngày, giờ và được công bố công khai theo quy định của Chính phủ.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải bảo đảm điều gì về tiền lương đối với người lao động làm công việc đơn giản nhất?",
-                "id": "44",
-                "answers": [
-                  {
-                    "text": "Tiền lương không thấp hơn mức lương tối thiểu vùng",
-                    "answer_start": 43
-                  }
-                ]
-              },
-              {
-                "question": "Mức lương tối thiểu vùng được xác định theo đơn vị nào?",
-                "id": "45",
-                "answers": [
-                  {
-                    "text": "Theo tháng, ngày, giờ",
-                    "answer_start": 156
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục. Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện không bảo đảm an toàn, vệ sinh lao động.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
-                "id": "46",
-                "answers": [
-                  {
-                    "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
-                    "answer_start": 52
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện như thế nào?",
-                "id": "47",
-                "answers": [
-                  {
-                    "text": "Không bảo đảm an toàn, vệ sinh lao động",
-                    "answer_start": 189
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Hợp đồng lao động phải có các nội dung chủ yếu sau đây: công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế.",
-            "qas": [
-              {
-                "question": "Hợp đồng lao động phải có những nội dung chủ yếu nào?",
-                "id": "48",
-                "answers": [
-                  {
-                    "text": "Công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế",
-                    "answer_start": 50
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
-                "id": "49",
-                "answers": [
-                  {
-                    "text": "Nhiều người sử dụng lao động",
-                    "answer_start": 48
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
-                "id": "50",
-                "answers": [
-                  {
-                    "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
-                    "answer_start": 160
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong trường hợp nào?",
-                "id": "51",
-                "answers": [
-                  {
-                    "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng",
-                    "answer_start": 89
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào khác?",
-                "id": "52",
-                "answers": [
-                  {
-                    "text": "Được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
-                    "answer_start": 89
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc trái pháp luật, đạo đức xã hội. Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc như thế nào?",
-                "id": "53",
-                "answers": [
-                  {
-                    "text": "Trái pháp luật, đạo đức xã hội",
-                    "answer_start": 56
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
-                "id": "54",
-                "answers": [
-                  {
-                    "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
-                    "answer_start": 120
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
-                "id": "55",
-                "answers": [
-                  {
-                    "text": "Ít nhất 45 ngày",
-                    "answer_start": 266
-                  }
-                ]
-              },
-              {
-                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
-                "id": "56",
-                "answers": [
-                  {
-                    "text": "Ít nhất 30 ngày",
-                    "answer_start": 316
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
-                "id": "57",
-                "answers": [
-                  {
-                    "text": "Ít nhất 3 ngày làm việc",
-                    "answer_start": 374
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong các trường hợp sau đây: người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của pháp luật mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không còn việc làm cho người lao động.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong trường hợp nào?",
-                "id": "58",
-                "answers": [
-                  {
-                    "text": "Người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác",
-                    "answer_start": 79
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Khi đơn phương chấm dứt hợp đồng lao động, người sử dụng lao động phải báo trước cho người lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải báo trước bao lâu đối với hợp đồng lao động không xác định thời hạn khi đơn phương chấm dứt hợp đồng?",
-                "id": "59",
-                "answers": [
-                  {
-                    "text": "Ít nhất 45 ngày",
-                    "answer_start": 182
-                  }
-                ]
-              },
-              {
-                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng khi người sử dụng lao động đơn phương chấm dứt hợp đồng?",
-                "id": "60",
-                "answers": [
-                  {
-                    "text": "Ít nhất 30 ngày",
-                    "answer_start": 232
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động phải báo trước bao lâu đối với hợp đồng lao động xác định thời hạn dưới 12 tháng khi đơn phương chấm dứt hợp đồng?",
-                "id": "61",
-                "answers": [
-                  {
-                    "text": "Ít nhất 3 ngày làm việc",
-                    "answer_start": 290
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong các trường hợp sau đây: người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của pháp luật mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không còn việc làm cho người lao động.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong trường hợp nào?",
-                "id": "62",
-                "answers": [
-                  {
-                    "text": "Người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác",
-                    "answer_start": 79
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục. Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện không bảo đảm an toàn, vệ sinh lao động.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
-                "id": "63",
-                "answers": [
-                  {
-                    "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
-                    "answer_start": 52
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện như thế nào?",
-                "id": "64",
-                "answers": [
-                  {
-                    "text": "Không bảo đảm an toàn, vệ sinh lao động",
-                    "answer_start": 189
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động phải bảo đảm tiền lương không thấp hơn mức lương tối thiểu vùng đối với người lao động làm công việc đơn giản nhất trong điều kiện lao động bình thường. Mức lương tối thiểu vùng được xác định theo tháng, ngày, giờ và được công bố công khai theo quy định của Chính phủ.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải bảo đảm điều gì về tiền lương đối với người lao động làm công việc đơn giản nhất?",
-                "id": "65",
-                "answers": [
-                  {
-                    "text": "Tiền lương không thấp hơn mức lương tối thiểu vùng",
-                    "answer_start": 43
-                  }
-                ]
-              },
-              {
-                "question": "Mức lương tối thiểu vùng được xác định theo đơn vị nào?",
-                "id": "66",
-                "answers": [
-                  {
-                    "text": "Theo tháng, ngày, giờ",
-                    "answer_start": 156
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
-                "id": "67",
-                "answers": [
-                  {
-                    "text": "Nhiều người sử dụng lao động",
-                    "answer_start": 48
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
-                "id": "68",
-                "answers": [
-                  {
-                    "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
-                    "answer_start": 160
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong trường hợp nào?",
-                "id": "69",
-                "answers": [
-                  {
-                    "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng",
-                    "answer_start": 89
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào khác?",
-                "id": "70",
-                "answers": [
-                  {
-                    "text": "Được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
-                    "answer_start": 89
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong trường hợp nào?",
-                "id": "71",
-                "answers": [
-                  {
-                    "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng",
-                    "answer_start": 89
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào khác?",
-                "id": "72",
-                "answers": [
-                  {
-                    "text": "Được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
-                    "answer_start": 89
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động phải bảo đảm tiền lương không thấp hơn mức lương tối thiểu vùng đối với người lao động làm công việc đơn giản nhất trong điều kiện lao động bình thường. Mức lương tối thiểu vùng được xác định theo tháng, ngày, giờ và được công bố công khai theo quy định của Chính phủ.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải bảo đảm điều gì về tiền lương đối với người lao động làm công việc đơn giản nhất?",
-                "id": "73",
-                "answers": [
-                  {
-                    "text": "Tiền lương không thấp hơn mức lương tối thiểu vùng",
-                    "answer_start": 43
-                  }
-                ]
-              },
-              {
-                "question": "Mức lương tối thiểu vùng được xác định theo đơn vị nào?",
-                "id": "74",
-                "answers": [
-                  {
-                    "text": "Theo tháng, ngày, giờ",
-                    "answer_start": 156
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
-                "id": "75",
-                "answers": [
-                  {
-                    "text": "Nhiều người sử dụng lao động",
-                    "answer_start": 48
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
-                "id": "76",
-                "answers": [
-                  {
-                    "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
-                    "answer_start": 160
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động phải bảo đảm điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm cho người lao động theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải bảo đảm điều kiện gì cho người lao động?",
-                "id": "77",
-                "answers": [
-                  {
-                    "text": "Điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm",
-                    "answer_start": 43
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động phải bảo đảm điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm cho người lao động theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải bảo đảm điều kiện gì cho người lao động?",
-                "id": "77",
-                "answers": [
-                  {
-                    "text": "Điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm",
-                    "answer_start": 43
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
-                "id": "78",
-                "answers": [
-                  {
-                    "text": "Có",
-                    "answer_start": 12
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
-                "id": "79",
-                "answers": [
-                  {
-                    "text": "Ít nhất 45 ngày",
-                    "answer_start": 266
-                  }
-                ]
-              },
-              {
-                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
-                "id": "80",
-                "answers": [
-                  {
-                    "text": "Ít nhất 30 ngày",
-                    "answer_start": 316
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
-                "id": "81",
-                "answers": [
-                  {
-                    "text": "Ít nhất 3 ngày làm việc",
-                    "answer_start": 374
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong các trường hợp sau đây: người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của pháp luật mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không còn việc làm cho người lao động.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong trường hợp nào?",
-                "id": "82",
-                "answers": [
-                  {
-                    "text": "Người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác",
-                    "answer_start": 79
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Khi đơn phương chấm dứt hợp đồng lao động, người sử dụng lao động phải báo trước cho người lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải báo trước bao lâu đối với hợp đồng lao động không xác định thời hạn khi đơn phương chấm dứt hợp đồng?",
-                "id": "83",
-                "answers": [
-                  {
-                    "text": "Ít nhất 45 ngày",
-                    "answer_start": 182
-                  }
-                ]
-              },
-              {
-                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng khi người sử dụng lao động đơn phương chấm dứt hợp đồng?",
-                "id": "84",
-                "answers": [
-                  {
-                    "text": "Ít nhất 30 ngày",
-                    "answer_start": 232
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động phải báo trước bao lâu đối với hợp đồng lao động xác định thời hạn dưới 12 tháng khi đơn phương chấm dứt hợp đồng?",
-                "id": "85",
-                "answers": [
-                  {
-                    "text": "Ít nhất 3 ngày làm việc",
-                    "answer_start": 290
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục. Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện không bảo đảm an toàn, vệ sinh lao động.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
-                "id": "86",
-                "answers": [
-                  {
-                    "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
-                    "answer_start": 52
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện như thế nào?",
-                "id": "87",
-                "answers": [
-                  {
-                    "text": "Không bảo đảm an toàn, vệ sinh lao động",
-                    "answer_start": 189
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động phải bảo đảm tiền lương không thấp hơn mức lương tối thiểu vùng đối với người lao động làm công việc đơn giản nhất trong điều kiện lao động bình thường. Mức lương tối thiểu vùng được xác định theo tháng, ngày, giờ và được công bố công khai theo quy định của Chính phủ.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động phải bảo đảm điều gì về tiền lương đối với người lao động làm công việc đơn giản nhất?",
-                "id": "88",
-                "answers": [
-                  {
-                    "text": "Tiền lương không thấp hơn mức lương tối thiểu vùng",
-                    "answer_start": 43
-                  }
-                ]
-              },
-              {
-                "question": "Mức lương tối thiểu vùng được xác định theo đơn vị nào?",
-                "id": "89",
-                "answers": [
-                  {
-                    "text": "Theo tháng, ngày, giờ",
-                    "answer_start": 156
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
-                "id": "90",
-                "answers": [
-                  {
-                    "text": "Nhiều người sử dụng lao động",
-                    "answer_start": 48
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
-                "id": "91",
-                "answers": [
-                  {
-                    "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
-                    "answer_start": 160
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc trái pháp luật, đạo đức xã hội. Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục.",
-            "qas": [
-              {
-                "question": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc như thế nào?",
-                "id": "92",
-                "answers": [
-                  {
-                    "text": "Trái pháp luật, đạo đức xã hội",
-                    "answer_start": 56
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
-                "id": "93",
-                "answers": [
-                  {
-                    "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
-                    "answer_start": 120
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Hợp đồng lao động phải có các nội dung chủ yếu sau đây: công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế.",
-            "qas": [
-              {
-                "question": "Hợp đồng lao động phải có những nội dung chủ yếu nào?",
-                "id": "94",
-                "answers": [
-                  {
-                    "text": "Công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế",
-                    "answer_start": 50
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục. Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện không bảo đảm an toàn, vệ sinh lao động.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
-                "id": "95",
-                "answers": [
-                  {
-                    "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
-                    "answer_start": 52
-                  }
-                ]
-              },
-              {
-                "question": "Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện như thế nào?",
-                "id": "96",
-                "answers": [
-                  {
-                    "text": "Không bảo đảm an toàn, vệ sinh lao động",
-                    "answer_start": 189
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
-            "qas": [
-              {
-                "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
-                "id": "97",
-                "answers": [
-                  {
-                    "text": "Có",
-                    "answer_start": 12
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
-                "id": "98",
-                "answers": [
-                  {
-                    "text": "Ít nhất 45 ngày",
-                    "answer_start": 266
-                  }
-                ]
-              },
-              {
-                "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
-                "id": "99",
-                "answers": [
-                  {
-                    "text": "Ít nhất 30 ngày",
-                    "answer_start": 316
-                  }
-                ]
-              },
-              {
-                "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
-                "id": "100",
-                "answers": [
-                  {
-                    "text": "Ít nhất 3 ngày làm việc",
-                    "answer_start": 374
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    ]
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Bộ luật Lao động Việt Nam - Chương 2",
+      "paragraphs": [
+        {
+          "context": "Người lao động và người sử dụng lao động có trách nhiệm tuân thủ các quy định về hợp đồng lao động. Hợp đồng lao động phải được ký kết bằng văn bản, trừ trường hợp hợp đồng lao động có thời hạn dưới 3 tháng thì có thể giao kết bằng lời nói. Hợp đồng lao động xác định thời hạn là hợp đồng mà hai bên xác định thời hạn của hợp đồng là thời hạn không quá 36 tháng. Khi hợp đồng lao động hết hạn mà người lao động và người sử dụng lao động không ký kết hợp đồng mới thì hợp đồng sẽ trở thành hợp đồng lao động không xác định thời hạn.",
+          "qas": [
+            {
+              "question": "Ai là người có trách nhiệm tuân thủ các quy định về hợp đồng lao động?",
+              "id": "1",
+              "answers": [
+                {
+                  "text": "Người lao động và người sử dụng lao động",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hợp đồng lao động phải được ký kết dưới hình thức gì?",
+              "id": "2",
+              "answers": [
+                {
+                  "text": "Bằng văn bản",
+                  "answer_start": 83
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Thời hạn của hợp đồng lao động xác định thời hạn tối đa là bao nhiêu lâu?",
+              "id": "3",
+              "answers": [
+                {
+                  "text": "36 tháng",
+                  "answer_start": 229
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Khi hợp đồng lao động hết hạn, người lao động và người sử dụng lao động không ký kết hợp đồng mới thì hợp đồng sẽ trở thành loại hợp đồng gì?",
+              "id": "4",
+              "answers": [
+                {
+                  "text": "Hợp đồng lao động không xác định thời hạn",
+                  "answer_start": 316
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên. Hợp đồng lao động có các nội dung chủ yếu sau đây: công việc phải làm, thời hạn của hợp đồng, điều kiện làm việc, tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, bảo hiểm xã hội, bảo hiểm y tế và các vấn đề liên quan đến việc bảo đảm an toàn lao động.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
+              "id": "5",
+              "answers": [
+                {
+                  "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
+                  "answer_start": 35
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Các nội dung chủ yếu của hợp đồng lao động bao gồm gì?",
+              "id": "6",
+              "answers": [
+                {
+                  "text": "Công việc phải làm, thời hạn của hợp đồng, điều kiện làm việc, tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, bảo hiểm xã hội, bảo hiểm y tế và các vấn đề liên quan đến việc bảo đảm an toàn lao động",
+                  "answer_start": 138
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Hợp đồng lao động phải do hai bên thỏa thuận và cam kết thực hiện. Trường hợp người lao động chưa đủ 15 tuổi khi ký kết hợp đồng lao động thì hợp đồng lao động phải có sự đồng ý của người đại diện theo pháp luật của người lao động. Người sử dụng lao động phải bảo đảm điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm cho người lao động theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Hợp đồng lao động phải do ai thỏa thuận và cam kết thực hiện?",
+              "id": "7",
+              "answers": [
+                {
+                  "text": "Hai bên",
+                  "answer_start": 32
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Trường hợp người lao động chưa đủ 15 tuổi khi ký kết hợp đồng lao động thì phải có sự đồng ý của ai?",
+              "id": "8",
+              "answers": [
+                {
+                  "text": "Người đại diện theo pháp luật của người lao động",
+                  "answer_start": 102
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải bảo đảm điều kiện gì cho người lao động?",
+              "id": "9",
+              "answers": [
+                {
+                  "text": "Điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm",
+                  "answer_start": 202
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
+              "id": "10",
+              "answers": [
+                {
+                  "text": "Có",
+                  "answer_start": 12
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động phải báo trước cho người sử dụng lao động biết trong thời gian bao lâu đối với hợp đồng lao động không xác định thời hạn?",
+              "id": "11",
+              "answers": [
+                {
+                  "text": "Ít nhất 45 ngày",
+                  "answer_start": 266
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Thời hạn báo trước đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng là bao lâu?",
+              "id": "12",
+              "answers": [
+                {
+                  "text": "Ít nhất 30 ngày",
+                  "answer_start": 316
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
+              "id": "13",
+              "answers": [
+                {
+                  "text": "Ít nhất 3 ngày làm việc",
+                  "answer_start": 374
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong các trường hợp sau đây: người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của pháp luật mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không còn việc làm cho người lao động.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong trường hợp nào?",
+              "id": "14",
+              "answers": [
+                {
+                  "text": "Người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác",
+                  "answer_start": 79
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Khi đơn phương chấm dứt hợp đồng lao động, người sử dụng lao động phải báo trước cho người lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải báo trước bao nhiêu ngày đối với hợp đồng lao động không xác định thời hạn khi đơn phương chấm dứt hợp đồng?",
+              "id": "15",
+              "answers": [
+                {
+                  "text": "Ít nhất 45 ngày",
+                  "answer_start": 182
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Thời hạn báo trước là bao nhiêu ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng khi người sử dụng lao động đơn phương chấm dứt hợp đồng?",
+              "id": "16",
+              "answers": [
+                {
+                  "text": "Ít nhất 30 ngày",
+                  "answer_start": 232
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng khi đơn phương chấm dứt hợp đồng?",
+              "id": "17",
+              "answers": [
+                {
+                  "text": "Ít nhất 3 ngày làm việc",
+                  "answer_start": 290
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào?",
+              "id": "18",
+              "answers": [
+                {
+                  "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động phải bảo đảm tiền lương không thấp hơn mức lương tối thiểu vùng đối với người lao động làm công việc đơn giản nhất trong điều kiện lao động bình thường. Mức lương tối thiểu vùng được xác định theo tháng, ngày, giờ và được công bố công khai theo quy định của Chính phủ.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải bảo đảm điều gì về tiền lương đối với người lao động làm công việc đơn giản nhất?",
+              "id": "19",
+              "answers": [
+                {
+                  "text": "Tiền lương không thấp hơn mức lương tối thiểu vùng",
+                  "answer_start": 43
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Mức lương tối thiểu vùng được xác định theo đơn vị nào?",
+              "id": "20",
+              "answers": [
+                {
+                  "text": "Theo tháng, ngày, giờ",
+                  "answer_start": 156
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục. Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện không bảo đảm an toàn, vệ sinh lao động.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
+              "id": "21",
+              "answers": [
+                {
+                  "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
+                  "answer_start": 52
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện như thế nào?",
+              "id": "22",
+              "answers": [
+                {
+                  "text": "Không bảo đảm an toàn, vệ sinh lao động",
+                  "answer_start": 189
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Hợp đồng lao động phải có các nội dung chủ yếu sau đây: công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế.",
+          "qas": [
+            {
+              "question": "Hợp đồng lao động phải có những nội dung chủ yếu nào?",
+              "id": "23",
+              "answers": [
+                {
+                  "text": "Công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế",
+                  "answer_start": 50
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
+              "id": "24",
+              "answers": [
+                {
+                  "text": "Nhiều người sử dụng lao động",
+                  "answer_start": 48
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
+              "id": "25",
+              "answers": [
+                {
+                  "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
+                  "answer_start": 160
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong trường hợp nào?",
+              "id": "26",
+              "answers": [
+                {
+                  "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào khác?",
+              "id": "27",
+              "answers": [
+                {
+                  "text": "Được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc trái pháp luật, đạo đức xã hội. Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc như thế nào?",
+              "id": "28",
+              "answers": [
+                {
+                  "text": "Trái pháp luật, đạo đức xã hội",
+                  "answer_start": 56
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
+              "id": "29",
+              "answers": [
+                {
+                  "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
+                  "answer_start": 120
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Hợp đồng lao động phải có các nội dung chủ yếu sau đây: công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế. Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
+              "id": "30",
+              "answers": [
+                {
+                  "text": "Nhiều người sử dụng lao động",
+                  "answer_start": 202
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Hợp đồng lao động phải có những nội dung chủ yếu nào?",
+              "id": "31",
+              "answers": [
+                {
+                  "text": "Công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế",
+                  "answer_start": 50
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Hợp đồng lao động phải do hai bên thỏa thuận và cam kết thực hiện. Trường hợp người lao động chưa đủ 15 tuổi khi ký kết hợp đồng lao động thì hợp đồng lao động phải có sự đồng ý của người đại diện theo pháp luật của người lao động. Người sử dụng lao động phải bảo đảm điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm cho người lao động theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Hợp đồng lao động phải do ai thỏa thuận và cam kết thực hiện?",
+              "id": "32",
+              "answers": [
+                {
+                  "text": "Hai bên",
+                  "answer_start": 32
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Trường hợp người lao động chưa đủ 15 tuổi khi ký kết hợp đồng lao động thì phải có sự đồng ý của ai?",
+              "id": "33",
+              "answers": [
+                {
+                  "text": "Người đại diện theo pháp luật của người lao động",
+                  "answer_start": 102
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải bảo đảm điều kiện gì cho người lao động?",
+              "id": "34",
+              "answers": [
+                {
+                  "text": "Điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm",
+                  "answer_start": 202
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
+              "id": "35",
+              "answers": [
+                {
+                  "text": "Có",
+                  "answer_start": 12
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động phải báo trước cho người sử dụng lao động biết trong thời gian bao lâu đối với hợp đồng lao động không xác định thời hạn?",
+              "id": "36",
+              "answers": [
+                {
+                  "text": "Ít nhất 45 ngày",
+                  "answer_start": 266
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Thời hạn báo trước đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng là bao lâu?",
+              "id": "37",
+              "answers": [
+                {
+                  "text": "Ít nhất 30 ngày",
+                  "answer_start": 316
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
+              "id": "38",
+              "answers": [
+                {
+                  "text": "Ít nhất 3 ngày làm việc",
+                  "answer_start": 374
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào?",
+              "id": "43",
+              "answers": [
+                {
+                  "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng; được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động phải bảo đảm tiền lương không thấp hơn mức lương tối thiểu vùng đối với người lao động làm công việc đơn giản nhất trong điều kiện lao động bình thường. Mức lương tối thiểu vùng được xác định theo tháng, ngày, giờ và được công bố công khai theo quy định của Chính phủ.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải bảo đảm điều gì về tiền lương đối với người lao động làm công việc đơn giản nhất?",
+              "id": "44",
+              "answers": [
+                {
+                  "text": "Tiền lương không thấp hơn mức lương tối thiểu vùng",
+                  "answer_start": 43
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Mức lương tối thiểu vùng được xác định theo đơn vị nào?",
+              "id": "45",
+              "answers": [
+                {
+                  "text": "Theo tháng, ngày, giờ",
+                  "answer_start": 156
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục. Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện không bảo đảm an toàn, vệ sinh lao động.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
+              "id": "46",
+              "answers": [
+                {
+                  "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
+                  "answer_start": 52
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện như thế nào?",
+              "id": "47",
+              "answers": [
+                {
+                  "text": "Không bảo đảm an toàn, vệ sinh lao động",
+                  "answer_start": 189
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Hợp đồng lao động phải có các nội dung chủ yếu sau đây: công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế.",
+          "qas": [
+            {
+              "question": "Hợp đồng lao động phải có những nội dung chủ yếu nào?",
+              "id": "48",
+              "answers": [
+                {
+                  "text": "Công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế",
+                  "answer_start": 50
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
+              "id": "49",
+              "answers": [
+                {
+                  "text": "Nhiều người sử dụng lao động",
+                  "answer_start": 48
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
+              "id": "50",
+              "answers": [
+                {
+                  "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
+                  "answer_start": 160
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong trường hợp nào?",
+              "id": "51",
+              "answers": [
+                {
+                  "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào khác?",
+              "id": "52",
+              "answers": [
+                {
+                  "text": "Được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc trái pháp luật, đạo đức xã hội. Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc như thế nào?",
+              "id": "53",
+              "answers": [
+                {
+                  "text": "Trái pháp luật, đạo đức xã hội",
+                  "answer_start": 56
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
+              "id": "54",
+              "answers": [
+                {
+                  "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
+                  "answer_start": 120
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
+              "id": "55",
+              "answers": [
+                {
+                  "text": "Ít nhất 45 ngày",
+                  "answer_start": 266
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
+              "id": "56",
+              "answers": [
+                {
+                  "text": "Ít nhất 30 ngày",
+                  "answer_start": 316
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
+              "id": "57",
+              "answers": [
+                {
+                  "text": "Ít nhất 3 ngày làm việc",
+                  "answer_start": 374
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong các trường hợp sau đây: người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của pháp luật mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không còn việc làm cho người lao động.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong trường hợp nào?",
+              "id": "58",
+              "answers": [
+                {
+                  "text": "Người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác",
+                  "answer_start": 79
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Khi đơn phương chấm dứt hợp đồng lao động, người sử dụng lao động phải báo trước cho người lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải báo trước bao lâu đối với hợp đồng lao động không xác định thời hạn khi đơn phương chấm dứt hợp đồng?",
+              "id": "59",
+              "answers": [
+                {
+                  "text": "Ít nhất 45 ngày",
+                  "answer_start": 182
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng khi người sử dụng lao động đơn phương chấm dứt hợp đồng?",
+              "id": "60",
+              "answers": [
+                {
+                  "text": "Ít nhất 30 ngày",
+                  "answer_start": 232
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải báo trước bao lâu đối với hợp đồng lao động xác định thời hạn dưới 12 tháng khi đơn phương chấm dứt hợp đồng?",
+              "id": "61",
+              "answers": [
+                {
+                  "text": "Ít nhất 3 ngày làm việc",
+                  "answer_start": 290
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong các trường hợp sau đây: người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của pháp luật mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không còn việc làm cho người lao động.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong trường hợp nào?",
+              "id": "62",
+              "answers": [
+                {
+                  "text": "Người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác",
+                  "answer_start": 79
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục. Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện không bảo đảm an toàn, vệ sinh lao động.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
+              "id": "63",
+              "answers": [
+                {
+                  "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
+                  "answer_start": 52
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện như thế nào?",
+              "id": "64",
+              "answers": [
+                {
+                  "text": "Không bảo đảm an toàn, vệ sinh lao động",
+                  "answer_start": 189
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động phải bảo đảm tiền lương không thấp hơn mức lương tối thiểu vùng đối với người lao động làm công việc đơn giản nhất trong điều kiện lao động bình thường. Mức lương tối thiểu vùng được xác định theo tháng, ngày, giờ và được công bố công khai theo quy định của Chính phủ.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải bảo đảm điều gì về tiền lương đối với người lao động làm công việc đơn giản nhất?",
+              "id": "65",
+              "answers": [
+                {
+                  "text": "Tiền lương không thấp hơn mức lương tối thiểu vùng",
+                  "answer_start": 43
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Mức lương tối thiểu vùng được xác định theo đơn vị nào?",
+              "id": "66",
+              "answers": [
+                {
+                  "text": "Theo tháng, ngày, giờ",
+                  "answer_start": 156
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
+              "id": "67",
+              "answers": [
+                {
+                  "text": "Nhiều người sử dụng lao động",
+                  "answer_start": 48
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
+              "id": "68",
+              "answers": [
+                {
+                  "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
+                  "answer_start": 160
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong trường hợp nào?",
+              "id": "69",
+              "answers": [
+                {
+                  "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào khác?",
+              "id": "70",
+              "answers": [
+                {
+                  "text": "Được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong trường hợp nào?",
+              "id": "71",
+              "answers": [
+                {
+                  "text": "Không được bố trí theo đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc như đã thỏa thuận; không được trả đủ lương hoặc trả lương không đúng thời hạn; bị ngược đãi, quấy rối tình dục, cưỡng bức lao động; bản thân hoặc gia đình có hoàn cảnh khó khăn không thể tiếp tục thực hiện hợp đồng",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp sau đây: được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong các trường hợp nào khác?",
+              "id": "72",
+              "answers": [
+                {
+                  "text": "Được bầu làm nhiệm vụ chuyên trách ở cơ quan dân cử hoặc được bổ nhiệm giữ chức vụ trong bộ máy nhà nước; lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+                  "answer_start": 89
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động phải bảo đảm tiền lương không thấp hơn mức lương tối thiểu vùng đối với người lao động làm công việc đơn giản nhất trong điều kiện lao động bình thường. Mức lương tối thiểu vùng được xác định theo tháng, ngày, giờ và được công bố công khai theo quy định của Chính phủ.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải bảo đảm điều gì về tiền lương đối với người lao động làm công việc đơn giản nhất?",
+              "id": "73",
+              "answers": [
+                {
+                  "text": "Tiền lương không thấp hơn mức lương tối thiểu vùng",
+                  "answer_start": 43
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Mức lương tối thiểu vùng được xác định theo đơn vị nào?",
+              "id": "74",
+              "answers": [
+                {
+                  "text": "Theo tháng, ngày, giờ",
+                  "answer_start": 156
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
+              "id": "75",
+              "answers": [
+                {
+                  "text": "Nhiều người sử dụng lao động",
+                  "answer_start": 48
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
+              "id": "76",
+              "answers": [
+                {
+                  "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
+                  "answer_start": 160
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động phải bảo đảm điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm cho người lao động theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải bảo đảm điều kiện gì cho người lao động?",
+              "id": "77",
+              "answers": [
+                {
+                  "text": "Điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm",
+                  "answer_start": 43
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động phải bảo đảm điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm cho người lao động theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải bảo đảm điều kiện gì cho người lao động?",
+              "id": "77",
+              "answers": [
+                {
+                  "text": "Điều kiện làm việc, an toàn lao động và thực hiện đầy đủ các chế độ bảo hiểm",
+                  "answer_start": 43
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
+              "id": "78",
+              "answers": [
+                {
+                  "text": "Có",
+                  "answer_start": 12
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
+              "id": "79",
+              "answers": [
+                {
+                  "text": "Ít nhất 45 ngày",
+                  "answer_start": 266
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
+              "id": "80",
+              "answers": [
+                {
+                  "text": "Ít nhất 30 ngày",
+                  "answer_start": 316
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
+              "id": "81",
+              "answers": [
+                {
+                  "text": "Ít nhất 3 ngày làm việc",
+                  "answer_start": 374
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong các trường hợp sau đây: người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác theo quy định của pháp luật mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng không còn việc làm cho người lao động.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động với người lao động trong trường hợp nào?",
+              "id": "82",
+              "answers": [
+                {
+                  "text": "Người lao động thường xuyên không hoàn thành công việc theo hợp đồng; người lao động bị ốm đau, tai nạn đã điều trị trong thời gian dài mà khả năng lao động chưa phục hồi; do thiên tai, hỏa hoạn hoặc những lý do bất khả kháng khác",
+                  "answer_start": 79
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Khi đơn phương chấm dứt hợp đồng lao động, người sử dụng lao động phải báo trước cho người lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải báo trước bao lâu đối với hợp đồng lao động không xác định thời hạn khi đơn phương chấm dứt hợp đồng?",
+              "id": "83",
+              "answers": [
+                {
+                  "text": "Ít nhất 45 ngày",
+                  "answer_start": 182
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng khi người sử dụng lao động đơn phương chấm dứt hợp đồng?",
+              "id": "84",
+              "answers": [
+                {
+                  "text": "Ít nhất 30 ngày",
+                  "answer_start": 232
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải báo trước bao lâu đối với hợp đồng lao động xác định thời hạn dưới 12 tháng khi đơn phương chấm dứt hợp đồng?",
+              "id": "85",
+              "answers": [
+                {
+                  "text": "Ít nhất 3 ngày làm việc",
+                  "answer_start": 290
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục. Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện không bảo đảm an toàn, vệ sinh lao động.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
+              "id": "86",
+              "answers": [
+                {
+                  "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
+                  "answer_start": 52
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện như thế nào?",
+              "id": "87",
+              "answers": [
+                {
+                  "text": "Không bảo đảm an toàn, vệ sinh lao động",
+                  "answer_start": 189
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động phải bảo đảm tiền lương không thấp hơn mức lương tối thiểu vùng đối với người lao động làm công việc đơn giản nhất trong điều kiện lao động bình thường. Mức lương tối thiểu vùng được xác định theo tháng, ngày, giờ và được công bố công khai theo quy định của Chính phủ.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động phải bảo đảm điều gì về tiền lương đối với người lao động làm công việc đơn giản nhất?",
+              "id": "88",
+              "answers": [
+                {
+                  "text": "Tiền lương không thấp hơn mức lương tối thiểu vùng",
+                  "answer_start": 43
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Mức lương tối thiểu vùng được xác định theo đơn vị nào?",
+              "id": "89",
+              "answers": [
+                {
+                  "text": "Theo tháng, ngày, giờ",
+                  "answer_start": 156
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền ký kết hợp đồng lao động với nhiều người sử dụng lao động nhưng phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Người sử dụng lao động phải cung cấp cho người lao động thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền ký kết hợp đồng lao động với bao nhiêu người sử dụng lao động?",
+              "id": "90",
+              "answers": [
+                {
+                  "text": "Nhiều người sử dụng lao động",
+                  "answer_start": 48
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động phải cung cấp cho người lao động thông tin gì?",
+              "id": "91",
+              "answers": [
+                {
+                  "text": "Thông tin về công việc, điều kiện làm việc, quyền và nghĩa vụ của hai bên",
+                  "answer_start": 160
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc trái pháp luật, đạo đức xã hội. Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục.",
+          "qas": [
+            {
+              "question": "Người sử dụng lao động không được yêu cầu người lao động thực hiện công việc như thế nào?",
+              "id": "92",
+              "answers": [
+                {
+                  "text": "Trái pháp luật, đạo đức xã hội",
+                  "answer_start": 56
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
+              "id": "93",
+              "answers": [
+                {
+                  "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
+                  "answer_start": 120
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Hợp đồng lao động phải có các nội dung chủ yếu sau đây: công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế.",
+          "qas": [
+            {
+              "question": "Hợp đồng lao động phải có những nội dung chủ yếu nào?",
+              "id": "94",
+              "answers": [
+                {
+                  "text": "Công việc phải làm; thời hạn của hợp đồng; điều kiện làm việc; tiền lương; thời giờ làm việc, thời giờ nghỉ ngơi; bảo hiểm xã hội và bảo hiểm y tế",
+                  "answer_start": 50
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền từ chối làm việc nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục. Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện không bảo đảm an toàn, vệ sinh lao động.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền từ chối làm việc trong trường hợp nào?",
+              "id": "95",
+              "answers": [
+                {
+                  "text": "Nếu công việc được giao có nguy cơ rõ ràng gây ảnh hưởng nghiêm trọng đến tính mạng hoặc sức khỏe mà chưa được khắc phục",
+                  "answer_start": 52
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người sử dụng lao động không được buộc người lao động làm việc trong điều kiện như thế nào?",
+              "id": "96",
+              "answers": [
+                {
+                  "text": "Không bảo đảm an toàn, vệ sinh lao động",
+                  "answer_start": 189
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn. Trong trường hợp này, người lao động phải báo trước cho người sử dụng lao động biết trong thời gian nhất định theo quy định của pháp luật. Thời hạn báo trước cụ thể được quy định như sau: ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng; ít nhất 3 ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng và đối với một số công việc cụ thể theo quy định của pháp luật.",
+          "qas": [
+            {
+              "question": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động trước thời hạn không?",
+              "id": "97",
+              "answers": [
+                {
+                  "text": "Có",
+                  "answer_start": 12
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động phải báo trước bao lâu khi muốn đơn phương chấm dứt hợp đồng lao động không xác định thời hạn?",
+              "id": "98",
+              "answers": [
+                {
+                  "text": "Ít nhất 45 ngày",
+                  "answer_start": 266
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Thời hạn báo trước là bao lâu đối với hợp đồng lao động xác định thời hạn từ 12 tháng đến 36 tháng?",
+              "id": "99",
+              "answers": [
+                {
+                  "text": "Ít nhất 30 ngày",
+                  "answer_start": 316
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Người lao động phải báo trước bao nhiêu ngày làm việc đối với hợp đồng lao động xác định thời hạn dưới 12 tháng?",
+              "id": "100",
+              "answers": [
+                {
+                  "text": "Ít nhất 3 ngày làm việc",
+                  "answer_start": 374
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
-  
